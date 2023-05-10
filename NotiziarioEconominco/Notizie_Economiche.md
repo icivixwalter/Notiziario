@@ -5,16 +5,56 @@ NOTIZIE_ECONOMICHE
 
 
 
-#A
-#B
-#P
+# A
+# B
+# E
+	ENEL
+		2023
+			UTILI_ENEL
+				2023_05_04_(@ENEL@utili@2023 Enel, più utili e margini)
+
+					Enel, più utili e margini Debito in calo dell’1,9% «Obiettivi confermati»
+
+						I 9 anni trascorsi con voi in questo lavoro sono stati tutti molto soddisfacenti, pieni di entusiasmo per il meraviglioso sviluppo di questo gruppo. Sono convinto che i prossimi anni saranno altrettanto soddisfacenti e vi auguro di seguire con successo l’evoluzione di Enel». Così si è espresso il ceo uscente Francesco Starace nel corso della conference call con gli analisti a commento dei risultati del primo trimestre, chiuso con un utile netto ordinario di gruppo a 1.512 milioni di euro (+1,9% su anno), un risultato netto in calo del 27,7% a 1.034 milioni (penalizzato da poste quali i contributi straordinari di solidarietà) e un margine operativo lordo ordinario a 5.463 milioni (+21,8%). L’aumento dell’Ebitda ordinario — spiega la nota — «è da ricondurre alla crescita del business integrato», che risulta «dalla combinazione dei business di generazione termoelettrica e trading, Enel Green Power, mercati finali ed Enel X, unitamente ai migliori risultati di Enel Grids».
+
+						Il calo dei ricavi a 26.414 milioni (-22,6%) è — si legge nella nota — «principalmente riconducibile a una progressiva discesa dei prezzi dell’energia a seguito della normalizzazione del contesto energetico». Gli investimenti sono saliti del 13,4% a 2.873 milioni. L’indebitamento netto è sceso dell’1,9% a 58,9 miliardi.
+
+						«Gli eccellenti risultati del primo trimestre 2023 — ha commentato Starace — confermano ulteriormente la solidità del nostro modello di business integrato che ha permesso al gruppo di affrontare con successo un inizio di decennio altamente sfidante. Abbiamo realizzato significativi progressi nell’esecuzione del piano di riposizionamento su Italia e altre geografie core, superando già la metà del target di 21 miliardi di dismissioni annunciato con il Piano Strategico 2023-2025. Le ottime performance operative e finanziarie realizzate nel trimestre forniscono una chiara visibilità sul resto dell’anno, permettendoci di confermare già da ora le guidance per il 2023 su Ebitda ordinario, utile netto ordinario e indebitamento netto».
+
+						Il board ha deliberato il «silenzio stampa» di amministratori e management fino all’assemblea del 10 maggio.
+# B
+	BATTERIE
+		2022
+			Ges, il super brevetto delle batterie green con 53 milioni dalla Ue
+				2022.09.12@Batteria@2023_(@GES@auto@elettrica@batteria@litio@non@usato Batterie che producono idrogeno e non esplodono)
+				2022.09.12@Green@Energy@Storage_(@Ges aziena PMI che produce batterie di Trento) 
+				2022.09.12@BATTERIE@AUTO_(produzione di batteria italiane non a litio ma sull'idrogenon - batterie@idrogeno) 
+
+
+				Promette di dare la soluzione all’anello mancante delle rinnovabili e cioè fornire la tecnologia più adatta, perché sicura, economica e green, per costruire sistemi di accumulo, in questo caso batterie a flusso stazionarie. Ma con un vantaggio in più rispetto ai (tanti) concorrenti che partecipano alla corsa tecnologica mondiale del momento: quello di utilizzare materie prime disponibili in Italia, sganciando quindi il nostro Paese dalla dipendenza dalle terre rare.
+
+				L’azienda si chiama Green Energy Storage (Ges) e, fanno sapere dalla Pmi fondata a Trento nel 2015, ha ricevuto dalla Ue e dal governo italiano fondi per 53 milioni. Dietro a questa «speranza di riportare l’Italia all’avanguardia come fu con Alessandro Volta» c’è Salvatore Pinto, un ingegnere elettronico che da quasi 20 anni si occupa di energia, ha portato il gasdotto Tap in Italia ed è attualmente presidente di Axpo Italia. «Abbiamo brevettato due chimiche — spiega — basate su materie prime che hanno queste caratteristiche: sono green, sono facilmente reperibili anche in Italia, non sono tossiche e si possono riciclare. La nostra tecnologia offre una soluzione a costi adeguati e dà all’Europa la chance di essere indipendente senza dipendere per esempio dal litio cinese». Le materie prime sono «segrete», ma — dice Pinto — posso spiegare la tecnologia: le nostre batterie utilizzano una sola chimica e quando sono collegate a una fonte di energia da accumulare producono idrogeno che poi riutilizzano nella fase di scarica. Inoltre, hanno la parte di potenza divisa dalla parte di energia e quindi non rischiano di esplodere come quelle al litio». Oltre alla tecnologia, Ges propone un modello industriale snello: imita quello della Coca-Cola, che invia l’estratto agli imbottigliatori locali. «Faremo lo stesso, nel senso che invieremo la nostra chimica, elettrodi e membrane sviluppati in Italia, ma poi la batteria sarà assemblata in loco». Avrà una dimensione molto più ridotta e sarà competitiva anche sulla durata. I tempi? «Siamo partiti sette anni fa da un brevetto di Harvard. Arriveremo entro fine anno al livello pre-commerciale e contiamo di essere sul mercato entro due anni, in anticipo rispetto alla richiesta Ue di 4 anni».
+# M
+	MONTE_DEI_PASCHI
+		Mps, l’utile batte le attese: 236 milioni
+			2023
+				2023_05_10_(@Mps Mps, l’utile batte le attese: 236 milioni Tesoro ipotesi vendita 64%)
+					I conti trimestrali. Lovaglio: Montepaschi è tornato ed è in ottima forma. Attesa una cedola con il bilancio 2024
+					«Mps torna ed è in ottima forma». Il ceo Luigi Lovaglio ha presentato i conti al test del primo trimestre, numeri che hanno superato le stime con un utile di 236 milioni, — «pari a circa un terzo del target a piano del 2024» —, in accelerazione rispetto ai 10 milioni dello stesso periodo del 2022. Ma anche in crescita del 51,3% dai 156 milioni del trimestre precedente. Così il Monte si è messo alle spalle anche il consensus del mercato che si fermava a 122 milioni. Dopo le grandi banche anche Mps chiude il primo scorcio dell’anno di slancio. «Oggi portiamo dei dati di quella che potrebbe essere la nostra redditività generata nei prossimi trimestri e segna il ritorno di valore per gli azionisti a partire da quest’anno», ha detto il banchiere. Il dividendo arriverà sull’utile del 2024, in anticipo rispetto al piano dello stesso Lovaglio. Una distribuzione resa possibile ha sottolineato anche per l’effetto cost-income sceso al 53% contro il target del 57% nel 2026. La macchina è pienamente ripartita e la banca è in sicurezza, dice Lovaglio: «Abbiamo un livello di capitale che ci permette di continuare a generare nuovo capitale. È tempo per una valutazione adeguata» della banca. Il ratio Cet1, inclusivo degli utili dei tre mesi, è arrivato al 14,9%.
+
+					I ricavi sono saliti dell’11,8% a 879 milioni rispetto allo stesso periodo del 2022 e del 4,8% se paragonati all’ultimo trimestre dell’anno scorso, trainati non solo dal margine di interesse (+1,2%) ma anche dalle commissioni nette (+7,3%). La spinta dei tassi ha fatto carburare il margine di interesse che, anno su anno, è salito del 56,6%, a 505 milioni ma «la banca cresce anche perché la quota di mercato sulla raccolta a vista è salita dal 4,27% al 4,38%». Il risultato operativo lordo, pari a 414 milioni ha registrato +67,6% rispetto allo stesso periodo di un anno fa. Il titolo ha chiuso con -1,3% in una giornata di realizzi innescati dai guadagni di lunedì, giorno in cui l’azione ha segnato +5,8%. Movimenti trainati anche dall’ipotesi che il Tesoro, azionista con il 64,2%, possa decidere una vendita graduale di quote sul mercato. Sullo sfondo, le potenziali aggregazioni bancarie — con Unicredit, Banco Bpm o Bper — non appaiono ancora immediate.
+# P
 	PETROLIO
-					@Petrolio_(Corriere notizie economiche)
-#U
+					2023_05_03_@Petrolio@2023_(CROLLO IL PREZZO DEL PETROLIO A 72,00)
+
+					Crolla del 4% il prezzo del petrolio, ai minimi da 5 settimane
+						I futures sul Wti sono scesi di oltre il 4% a 72 dollari, il minimo in cinque settimane, a causa dei timori di una potenziale recessione innescata dagli aumenti dei tassi da parte di tutte le banche centrali. Ha giocato anche l’inaspettato calo della produzione cinese di aprile. Crollati anche il prezzo del Brent, in calo del 4,5%, poco sotto 76 dollari. © RIPRODUZIONE RISERVATA
+# U
 	UNICREDIT
 					@Unicredit_(banca italiana notizie)
 		2023
-			UTILI
+			UTILI_UNICREDIT
+
 				2023_05_04_(@Unicredi@utili@2023 record a 2,1 miliardi)
 
 					La spinta dei tassi sui margini di interesse, unita al contenimento dei costi, si riverbera sui conti del primo trimestre di Unicredit, che archivia un inizio d’anno con il botto superando del doppio le stime degli analisti sui profitti. La banca guidata a Andrea Orcel chiude infatti il nono — e migliore — trimestre di crescita con 2,1 miliardi di euro di utili netti (le attese erano di 1,3 miliardi) e ricavi per 5,8 miliardi (+56,5% anno su anno) a cui contribuiscono 3,3 miliardi di interessi netti (dai 3,4 del trimestre precedente), 2 miliardi di commissioni (erano 1,8 miliardi), 600 milioni da trading (erano 500 milioni) e 100 milioni di rettifiche su crediti, in calo dell’82,5% trimestre su trimestre e con un calo sostanziale anno su anno, anche per effetto delle loan loss provision contabilizzate proattivamente a fronte delle esposizioni in Russia nel primo trimestre 2022. I costi operativi si mantengono a 2,3 miliardi (-0,6%), per un rapporto cost/income sceso sotto quota 40%, al 39,2%. Al netto del contributo del Tltro, del Tiering e delle commissioni per eccesso di liquidità contabilizzate nel quarto trimestre, i ricavi netti sono cresciuti del 22,3% trimestre su trimestre.
@@ -26,3 +66,209 @@ NOTIZIE_ECONOMICHE
 
 
 		2024
+# GLOSSARIO_FINANZIARIO
+
+	Glossario di alcuni termini della relazione di bilancio
+	(nell’accezione accolta nella “Relazione” e con esclusione dei termini entrati nel lessico comune italiano oppure
+	inseriti in un contesto che già ne chiarisce il significato)
+	Asset allocation
+		Decisioni di investimento in mercati, aree geografiche, settori, prodotti.
+
+	Asset backed securities
+			Titoli obbligazionari garantiti da attività diverse da immobili.
+	Asset swap
+		Contratto che prevede l’acquisto o la vendita di un
+		titolo obbligazionario combinato con un contratto
+		derivato (irs).
+	Banking book
+		Solitamente riferito a titoli o comunque a strumenti
+		finanziari in genere, identifica la parte di tale portafoglio
+		destinato all’attività “proprietaria”.
+		Basis swap
+		Contratto che prevede lo scambio, tra due controparti,
+		di pagamenti legati a tassi variabili basati su un diverso
+		indice.
+	Benchmark
+		Titolo, indice o tasso rappresentativo di un segmento
+		di mercato, utilizzato di norma come termine di
+		paragone per valutare l’adeguatezza della redditività
+		di singoli strumenti finanziari o di portafogli.
+	Corporate
+		Fascia di clientela corrispondente alle imprese di
+		medie e grandi dimensioni (mid-corporate, large
+		corporate).
+	Corporate investment grade
+		Attività cui viene assegnato un rating da Standard &
+		Poor’s / Moody’s pari ad almeno Baa / BBB.
+	Corporate banking
+		L’attività bancaria dedicata alle imprese.
+	Corporate finance
+		Comprende tutta la gamma delle attività poste in
+		essere dalla banca, al proprio interno o sui mercati,
+		per soddisfare le necessità finanziarie delle imprese.
+	Corporate governance
+		Identifica l’insieme degli strumenti e delle norme
+		che regolano la vita societaria con particolare
+		riferimento alla trasparenza dei documenti e degli
+		atti sociali ed alla completezza dell’informativa al
+		mercato.
+	Domestic currency swap
+		Contratto regolato in lire il cui effetto economico è
+		uguale a quello di un acquisto o una vendita a termine
+		di una divisa in cambio di valuta nazionale. Alla data di
+		scadenza viene regolato in lire il differenziale fra il
+		cambio a termine implicito nel contratto ed il cambio
+		corrente a pronti.
+	Duration
+		Costituisce un indicatore del rischio di tasso d’interesse a cui è sottoposto un titolo o un portafoglio
+		obbligazionario. Nella sua configurazione più frequente è calcolato come media ponderata delle
+		scadenze dei pagamenti per interessi e capitale associati ad un titolo obbligazionario.
+	Equity swap
+		Contratto che prevede lo scambio di flussi di pagamento in tutto o in parte legati alla performance di
+		azioni o indici azionari.
+	Forwards
+		Contratti a termine su tassi di interesse, cambi o 
+		indici azionari, generalmente trattati su mercati overthe-counter, nei quali le condizioni vengono fissate
+		al momento della stipula, ma la cui esecuzione avverrà ad una data futura predeterminata, mediante la
+		ricezione od il pagamento di differenziali calcolati
+		con riferimento a parametri diversi a seconda dell’oggetto del contratto.
+	Futures
+		Contratti a termine standardizzati, con cui le parti si
+		impegnano a scambiarsi, a un prezzo predefinito e a
+		una data futura, valori mobiliari o merci. Tali contratti
+		di norma sono negoziati su mercati organizzati, dove
+		viene garantita la loro esecuzione. Nella pratica, i
+		futures su valori mobiliari spesso non implicano lo
+		scambio fisico del sottostante valore.
+	Home Banking
+		Servizio bancario orientato alla clientela privata mediante il collegamento telematico tra utente e banca; in tal modo l’utente può effettuare direttamente
+		dal proprio domicilio un complesso di operazioni e
+		disporre di una serie di informazioni relative al proprio rapporto bancario.
+	Index linked
+		Polizze la cui prestazione a scadenza dipende dall’andamento di un parametro di riferimento che può
+		essere un indice azionario, un paniere di titoli o un
+		altro indicatore.
+	Interest Rate Swap 
+		Contratto che prevede lo scambio di flussi tra le
+		controparti su un determinato nozionale con tasso
+		fisso/variabile o variabile/variabile.
+	Internal deals
+		Operazioni poste in essere tra distinte unità operative
+		della stessa azienda.
+		Il relativo materiale documentale assume rilevanza
+		contabile e contribuisce a determinare la posizione
+		(di negoziazione – trading – o di protezione – hedging)
+		delle singole unità che l’hanno concluso.
+	Mark-down
+		Contribuzione in termini di tassi dell’attività di raccolta
+		rispetto ad un parametro di mercato di riferimento.
+	Mark-up
+		Contribuzione in termini di tassi dell’attività di impiego
+		rispetto ad un parametro di mercato di riferimento.
+	Merchant banking
+		Sotto questa accezione sono ricomprese le attività
+		di sottoscrizione di titoli – azionari o di debito – della
+		clientela corporate per il successivo collocamento
+		sul mercato, l’assunzione di partecipazioni azionarie
+		a carattere più permanente ma sempre con l’obiettivo
+		di una successiva cessione, l’attività di consulenza
+		aziendale ai fini di fusioni e acquisizioni o di ristrutturazioni.
+	Money market
+		Mercato dei tassi di interesse (solitamente fino a
+		12/18 mesi)
+	Pricing
+		In senso lato, si riferisce generalmente alle modalità
+		di determinazione dei rendimenti e/o dei costi dei
+		prodotti e servizi offerti dalla Banca.
+	Private banking
+		Attività diretta a fornire alla clientela primaria gestione
+		di patrimoni, consulenza e servizi personalizzati.
+	Private equity
+		Attività mirata all’acquisizione di interessenze partecipative ed alla loro successiva cessione a controparti specifiche, senza collocamento pubblico.
+
+	Project Finance
+		Tecnica con la quale si finanziano progetti industriali
+		sulla base di una previsione dei flussi di cassa
+		generati dagli stessi. L’esame si fonda su una serie
+		di valutazioni che si discostano da quelle generalmente poste in essere per l’analisi dei rischi creditizi
+		ordinari. Dette valutazioni includono, oltre all’analisi
+		dei flussi di cassa, l’esame tecnico del progetto,
+		l’idoneità degli sponsors che si impegnano a realizzarlo, i mercati del collocamento del prodotto.
+
+	Rating
+		Valutazione della qualità di una società o delle sue
+		emissioni di titoli di debito sulla base della solidità
+		finanziaria della società stessa e delle sue prospettive. Tale valutazione viene eseguita da agenzie specializzate.
+	Retail 
+		Fascia di clientela che comprende principalmente i
+		privati, i professionisti, gli esercenti e gli artigiani.
+	Risk Management
+		Attività di acquisizione, misurazione, valutazione e
+		gestione globale delle varie tipologie di rischio e
+		delle relative coperture.
+	Return On Allocated Capital (ROCA)
+		Indicatore che tiene conto del ritorno economico a
+		carattere gestionale rapportato ai rischi stimati in
+		ottica di vigilanza.
+	Securitization
+		Trasformazione di ragioni di credito od attività di vario
+		tipo, generalmente a lento realizzo, in titoli negoziabili.
+	Spread 
+		Con questo termine di norma si indica:
+		– la differenza tra due tassi di interesse;
+		– lo scarto tra le quotazioni denaro e lettera nelle
+		contrattazioni in titoli;
+		– la maggiorazione che l’emittente di valori mobiliari
+		riconosce in aggiunta ad un tasso di riferimento.
+	Swaps
+		Operazioni consistenti, di norma, nello scambio di
+		flussi finanziari tra operatori secondo diverse
+		modalità contrattuali. Nel caso di uno swap di tassi
+		d’interesse, le controparti si scambiano flussi di
+		pagamento indicizzati o meno a tassi d’interesse,
+		calcolati su un capitale nozionale di riferimento (ad
+		esempio: una controparte corrisponde un flusso
+		sulla base di un tasso fisso, l’altra sulla base di un
+		tasso variabile). Nel caso di uno swap di valute, le
+		controparti si scambiano specifici ammontari di due
+		diverse valute, restituendoli nel tempo secondo
+		modalità predefinite che possono riguardare sia il
+		capitale nozionale sia i flussi indicizzati dei tassi
+		d’interesse.
+	Swaptions
+		Opzioni che garantiscono all’acquirente la facoltà,
+		ma non l’obbligo, di acquistare o vendere in data
+		successiva un irs.
+	Tier 1
+		Il capitale versato, le riserve e il fondo per rischi bancari generali costituiscono i principali elementi patrimoniali di qualità primaria. Il totale di questi elementi,
+		previa deduzione delle azioni proprie possedute,
+		dell’avviamento, delle immobilizzazioni immateriali,
+		delle perdite registrate in esercizi precedenti e in
+		quello in corso, costituisce il patrimonio di base o tier1. 
+	Tier 2
+		Le riserve di rivalutazione, gli strumenti ibridi di
+		patrimonializzazione (passività irredimibili e altri
+		strumenti rimborsabili su richiesta dell’emittente col
+		preventivo consenso della Banca d’Italia), le passività subordinate e gli altri elementi positivi costituiscono gli elementi patrimoniali di qualità secondaria. Il totale di questi elementi, previa deduzione
+		delle minusvalenze nette sui titoli e di altri possibili
+		elementi negativi, costituisce il patrimonio supplementare o tier 2.
+	Trading fixed income
+		Attività speculativa su strumenti a tasso fisso (titoli,
+		derivati et similia).
+		
+	Unit linked
+		Polizze legate all’investimento in fondi comuni.
+	Upper Tier 2
+		Identifica gli strumenti ibridi di patrimonializzazione
+		(ad esempio i prestiti perpetui) che rappresentano la
+		parte di qualità più elevata nell’ambito del Tier 2.
+	Value at Risk (VaR)
+		Valore che indica la massima perdita possibile su un
+		portafoglio per effetto dell’andamento del mercato,
+		con una certa probabilità ed ipotizzando che le
+		posizioni richiedano un determinato periodo di tempo
+		per il relativo smobilizzo.
+	Zero-coupon
+		Obbligazione priva di cedola, il cui rendimento è determinato dalla differenza tra il prezzo di emissione
+		(o di acquisto) ed il valore di rimborso.
+
