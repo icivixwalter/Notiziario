@@ -11,7 +11,7 @@ ECHO pausa di 3 secondi per il controllo
 
 
 git add .
-git commit -m "aggiornamento"
+git commit -m "aggiornamento Notiziario Economico"
 
 @rem pausa di 20 secondi per consentire il commit
 
