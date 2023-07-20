@@ -91,6 +91,21 @@ NOTIZIE_ECONOMICHE
 
 					Crolla del 4% il prezzo del petrolio, ai minimi da 5 settimane
 						I futures sul Wti sono scesi di oltre il 4% a 72 dollari, il minimo in cinque settimane, a causa dei timori di una potenziale recessione innescata dagli aumenti dei tassi da parte di tutte le banche centrali. Ha giocato anche l’inaspettato calo della produzione cinese di aprile. Crollati anche il prezzo del Brent, in calo del 4,5%, poco sotto 76 dollari. © RIPRODUZIONE RISERVATA
+  S
+  	SOIA
+  		2023.07.19 = Soia, zucchero e olio d’oliva più cari L’effetto di clima e mercati sui prezzi
+
+			La speculazione e i rialzi a doppia cifra. Ancora da calcolare i possibili impatti sul grano
+			La notizia della rottura del patto sul grano da parte della Russia non è l’unico grattacapo che sta impensierendo gli agricoltori italiani. Anzi, finora le quotazioni del frumento tenero erano in calo del 35% rispetto a quelle dell’anno scorso. Ma se si volge lo sguardo alle Borse, ci si rende conto che altre materie prime alimentari si stanno surriscaldando. Lo zucchero per esempio. In questi giorni si stanno negoziando i contratti per la stagione di raccolta 2023-24, che inizierà a ottobre. Secondo Bloomberg, i prezzi sono arrivati a superare i 1.000 euro a tonnellata, più del doppio rispetto alla metà dell’anno scorso. La produzione per la stagione 2022-23 è scesa del 12% rispetto a quella precedente e, con 14,6 milioni di tonnellate, è stata inferiore di un milione di tonnellate alle stime iniziali dell’Ue. «In Italia avevamo 250 mila ettari di barbabietole, oggi sono 23mila e due zuccherifici che fan capo a una sola cooperativa — ricorda Giangiacomo Gallarati Scotti Bonaldi, presidente di Anb Coop —. Eravamo autosufficienti e ci difendevamo bene, oggi Brasile e India si sono affacciate con produzione importanti e noi siamo diventati importatori».
+
+			Non che vada meglio alle altre «glorie» del gusto italiano. L’olio d’oliva soffre la concorrenza di Tunisia e Grecia e sulla Penisola deve lottare contro gli stravolgimenti meteorologici e i parassiti. «Basta vedere la situazione della Xylella in Puglia o di quello che sta accadendo tra Lombardia e Veneto, dove malattie e funghi stanno facendo cadere i frutti prima della maturazione», rimarca Lorenzo Bazzana, responsabile economico di Coldiretti. Risultato: anche qui la produzione si è assottigliata e le quotazioni schizzano verso l’alto; un chilo d’olio all’origine costa 8,19 euro, +89% rispetto alla stesso periodo di luglio 2022. Alla Borsa di Chicago i future sulla soia continuano a viaggiare spediti verso l’alto e sulla piazza di Bologna è arrivata a costare 496 euro a tonnellata.
+
+			A pesare sullo scenario mondiale è il clima secco che negli Stati Uniti mette a repentaglio i raccolti. «Il caldo è un nemico dell’inflazione: il fatto di avere un numero insufficiente di invasi e una ampia dispersione dell’acqua nelle condutture è qualcosa che non aiuta in termini di efficienza e quindi in termini del mantenimento dei prezzi bassi dei prodotti agricoli, come verdura e frutta», ha analizzato Gregorio De Felice, chief economist di Intesa Sanpaolo alla presentazione del monitor dei distretti che vede in cima la gomma del Sebino Bergamasco, seguita dal Prosecco di Conegliano Valdobbiadene e poi dai vini e distillati del Friuli.
+
+				@Olio@di@oliva@soia@zucchero_(aumento dei prezzi di alcune @commodis a cusa della @siccita con aumento della @frutta e @verdura)
+
+
+
 # U
 	UNICREDIT
 					@Unicredit_(banca italiana notizie)
@@ -313,4 +328,16 @@ NOTIZIE_ECONOMICHE
 	Zero-coupon
 		Obbligazione priva di cedola, il cui rendimento è determinato dalla differenza tra il prezzo di emissione
 		(o di acquisto) ed il valore di rimborso.
+
+
+
+
+
+
+
+
+
+
+
+
 
