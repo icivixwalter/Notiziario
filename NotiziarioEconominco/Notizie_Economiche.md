@@ -7,6 +7,18 @@ NOTIZIE_ECONOMICHE
 
 # A
 # B
+	BONIFICHE FERRARESI @B@F
+		2023
+			2023_12_15_@NUOVI@SOCI
+
+				Nuovi soci per Bf dopo l’aumento: Tosinvest, Acea, Bper, Imi e Ifis
+
+				Vecchioni: Il mercato riconosce la nostra valenza strategica. Investimento in Egitto
+				L’aumento di capitale da 300 milioni di euro porta nuovi soci a bordo di Bf. Oltre a quelli già presenti, «la ricapitalizzazione è stata sottoscritta anche da nuovi azionisti come Tosinvest (famiglia Angelucci, ndr), Bper, Acea, Banca Ifis, Banca Imi», annuncia l’amministratore delegato Federico Vecchioni. Il quintetto va ad aggiungersi quindi a Eni, la stessa Arum di Vecchioni, la famiglia Dompè, Ismea, Fondazione Cariplo e ancora Intesa Sanpaolo oltre agli enti previdenziali Enpaia, Enasarco e Inarcassa. «È la dimostrazione che il mercato dei capitali riconosce la valenza strategica del business agroalimentare e, in particolare, della formula Bf e cioè della filiera integrata dal genoma allo scaffale», aggiunge il top manager, che ha già tracciato le direttrici di sviluppo della holding di Jolanda di Savoia (Ferrara). «Il piano industriale 2023-2027 — specifica — punta a rafforzare questa filiera con l’aggiunta della dimensione internazionale e dell’alta formazione per portare anche in Paesi esteri le competenze, la tecnologia e le risorse imprenditoriali italiane rappresentate da Bf».
+
+
+				L’attenzione all’estero si esprimerà attraverso Bf International, che, dopo il progetto sui biocarburanti in Algeria con Eni, continuerà a esportare il suo modello di business. Un nuovo passo è stato compiuto ieri a Il Cairo, dove Bf International, in una joint venture con la società locale Future of Egypt, svilupperà un programma pluriennale focalizzato sulla sicurezza alimentare sostenibile, caratterizzato da una integrazione di filiera, dall’applicazione di tecniche agronomiche a basso impatto ambientale, da attività di trasferimento tecnologico e formazione ai partner e agli agricoltori egiziani coinvolti. A ospitare il progetto sarà un sito di 15mila ettari nella regione di Dabaa. La parte formativa invece si concretizzerà nella nascita di un polo di formazione agritech a Jolanda di Savoia dove è già attivo un master di secondo livello in collaborazione con l’Università di Bologna. «Bf porta con sé un sistema di valori fondati sul rispetto e la valorizzazione delle comunità locali e sulla concezione dell’agricoltura rigenerativa come risorsa per il pianeta», chiosa Vecchioni, che vuole continuare a far crescere la società anche attraverso fusioni o acquisizioni. Il piano industriale prevede la valorizzazione di asset per 200 milioni di euro a cominciare dalla cessione del 49% della sottostante Bonifiche Ferraresi.
+
 # E
 	ENEL
 		2023
