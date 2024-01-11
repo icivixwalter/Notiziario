@@ -44,6 +44,28 @@ NOTIZIE_ECONOMICHE
 						«Siamo orgogliosi di contribuire a inaugurare una nuova era di energia prodotta in America — ha dichiarato Giovanni Bertolino, capo di 3Sun Usa —. La scelta dell’Oklahoma testimonia la forza del sito di Tulsa Port of Inola, l’impegno per lo sviluppo della forza lavoro e un clima attrattivo per gli investimenti. Stiamo facendo un importante passo avanti nello sviluppo di una fabbrica fotovoltaica all’avanguardia, che porterà centinaia di posti di lavoro».
 
 						L’azienda potrebbe ottenere fino a 180 milioni di dollari di finanziamenti dall’Oklahoma se soddisfa determinate condizioni di occupazione e investimento. Inola, riporta la nota di Enel North America, sarà anche una delle prime fabbriche statunitensi a produrre su larga scala celle solari a base di silicio, l’elemento fondamentale dei moduli fotovoltaici, e incorporerà una tecnologia di etero-giunzione bifacciale (HJT) ad alte prestazioni. Si tratta del modello presentato da 3Sun in Italia, dove la produzione nella gigafactory Enel di Catania inizierà già da settembre 2023.
+		2024
+			BOLLETTE_ELETTRICHE
+
+					2024_01_09_(@BOLLETTE@ELETTRICHE gara fra gli operatori @aste del @GSE per 4,5 milioni di clienti domestici)
+				
+					di Fausta Chiesa
+					Bollette elettriche, sfida tra i gestori
+
+					Vanno all’asta 4,5 milioni di clienti
+
+					Domani la gara tra 20 fornitori in vista dello stop alle tutele. Cosa cambia per i consumatori
+					Si svolgeranno domani, dopo il rinvio di un mese, le aste per assegnare i circa 4,5 milioni di clienti domestici non vulnerabili dell’energia elettrica che, come prevede la legge, dal primo luglio di quest’anno usciranno dalla maggior tutela, il regime in cui le tariffe e le condizioni contrattuali sono stabilite dall’Autorità Arera. Chi, nel frattempo, non avrà scelto di passare al mercato libero, entrerà in un regime transitorio chiamato «Servizio a tutele graduali», che durerà fino a marzo 2027 e in cui il prezzo della materia prima sarà variabile e basato sulla media dei valori del Prezzo Unico Nazionale che si forma sul Gme. Le aste servono per scegliere chi fornirà l’Stg. I clienti sono stati suddivisi in 26 lotti che corrispondono ad aree territoriali.
+
+					Ai nastri di partenza ci sono venti soggetti. L’Arera, che ha definito le regole delle aste, ha ammesso 19 soggetti (16 aziende e tre raggruppamenti di imprese) a cui si è aggiunta una ventesima azienda esclusa e poi riammessa con riserva dal Tar, in attesa del giudizio di merito il 6 marzo. Si tratta di Octopus Energy, primo operatore della luce nel Regno Unito sbarcato in Italia a luglio 2022. Tra i requisiti previsti dal regolamento c’è quello di avere servito almeno 100 mila clienti al 30 giugno 2023. Octopus Energy non soddisfa quel requisito nel nostro Paese, ma ha fatto ricorso sostenendo che, trattandosi di una gara europea, vanno considerati i clienti non solo in Italia. È l’unica partecipante che si conosca ufficialmente, i nomi delle altre ammesse non sono stati comunicati.
+
+					Le aste sono gestite da Acquirente Unico, società del gruppo pubblico Gse (Gestore dei servizi energetici). Il meccanismo prevede che i partecipanti si sfidino su un solo valore, il costo di commercializzazione. Chi offre il prezzo più basso (che potrebbe anche essere negativo pur di vincere) si vedrà assegnare il lotto, con un limite massimo di sette lotti e il 30 per cento a livello nazionale. Di fatto, non è un’asta vera e propria: l’offerta è fatta a busta chiusa a turno unico. L’11 gennaio sarà comunicato ai partecipanti l’esito provvisorio e si svolgerà un’eventuale asta di riparazione per i lotti non assegnati, perché, per esempio, un’azienda ne ha vinti più del tetto massimo o in caso di offerte ritenute non valide. Il 6 febbraio sarà comunicato l’esito. A seconda del lotto a cui si appartiene, i casi sono due: si può restare con il vecchio fornitore o passare a una nuova azienda. Chi ha la bolletta addebitata sul conto corrente può anche non cambiare la domiciliazione in quanto il governo ha previsto il trasferimento automatico del Rid.
+
+					Dal primo luglio, solo i «vulnerabili» — chi ha più di 75 anni, i disabili, chi vive in condizioni economicamente svantaggiate e chi è in gravi condizioni di salute che richiedono l’utilizzo di apparecchiature medico-terapeutiche alimentate dall’energia elettrica — potranno continuare a restare nella tutela.
+
+				
+
+
 # B
 	BATTERIE
 		2022
