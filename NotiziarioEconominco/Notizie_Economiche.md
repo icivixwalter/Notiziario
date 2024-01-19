@@ -137,7 +137,30 @@ NOTIZIE_ECONOMICHE
 			A pesare sullo scenario mondiale è il clima secco che negli Stati Uniti mette a repentaglio i raccolti. «Il caldo è un nemico dell’inflazione: il fatto di avere un numero insufficiente di invasi e una ampia dispersione dell’acqua nelle condutture è qualcosa che non aiuta in termini di efficienza e quindi in termini del mantenimento dei prezzi bassi dei prodotti agricoli, come verdura e frutta», ha analizzato Gregorio De Felice, chief economist di Intesa Sanpaolo alla presentazione del monitor dei distretti che vede in cima la gomma del Sebino Bergamasco, seguita dal Prosecco di Conegliano Valdobbiadene e poi dai vini e distillati del Friuli.
 
 				@Olio@di@oliva@soia@zucchero_(aumento dei prezzi di alcune @commodis a cusa della @siccita con aumento della @frutta e @verdura)
+# S
+	SALINI
+		2024
+			COMMESSA PER LE DIGHE ED ALBERTO PER 4.7 MILIARDI
+				
+					2024.01.014_@SALINI@Webuild@2024_(SALINI di Webuild maxi commessa in Arabia per 4,7 miliardi per le dighe ...)
 
+				Il progetto per la località sciistica di Trojena
+				Salini, maxi ordine
+
+				in Arabia: dighe e hotel
+
+				per 4,7 miliardi
+
+				I Giochi invernali asiatici del 2029 si svolgeranno in una città che non esiste; ancora. La manifestazione è stata infatti assegnata a Trojena, località montana in fase di costruzione in Arabia Saudita.
+
+
+				La «capitale dello sci» del Golfo avrà 36 chilometri di piste e rientra nel progetto Neom, la città del futuro per la cui fondazione il principe di Riad, Mohammed bin Salman, ha previsto 500 miliardi di investimenti. Un piano faraonico, alla cui realizzazione parteciperà anche Webuild. Il gruppo edile italiano si è aggiudicato ieri una commessa da 4,7 miliardi di dollari per costruire a Trojena un sistema di dighe per un lago artificiale, lungo 2,8 chilometri, e una struttura a forma di prua che ospiterà hotel e residenze di lusso. Un maxi-appalto che ha spinto il titolo a un rialzo del 5,3% in Borsa. «Questo risultato ribadisce la capacità del gruppo di vincere una competizione globale con i principali leader di settore, dall’acqua alla mobilità sostenibile», rimarca Pietro Salini, ceo di Webuild.
+
+				L’opera sorgerà nella regione di Tabuk, a 50 chilometri dal Mar Rosso, dove si trova l’unica catena montuosa saudita, con cime che vanno dai 1500 ai 2600 metri di altitudine, talvolta innevate. Il sistema di tre dighe commissionato a Webuild alimenterà il lago d’acqua dolce del complesso sciistico, con un’isola riservata a immersioni botaniche e passeggiate. Per la realizzazione dell’infrastruttura saranno impiegate oltre 10 mila persone, tra personale diretto e di terzi. «In tutti i progetti nel mondo Webuild segue le piu stringenti normative in termini di sicurezza sul lavoro e garanzia dei diritti dei lavoratori», assicura Salini.
+
+				La commessa di Trejona porta a 7,1 miliardi il valore del portafoglio ordini di Webuild in Arabia Saudita, cementando le relazioni del gruppo con il regno di Riad. Nel Paese, del resto, Webuild è attiva dal 1966 e al lavoro su diverse grandi opere come Connector, la linea ferroviaria ad alta velocità di 57 chilometriche che collegherà Oxagon, l’area industriale, a The Line, l’area residenziale che si svilupperà in orizzontale per 170 km. «Grazie alla diversificazione geografica, soprattutto in mercati ad alta crescita, e ad un curriculum unico di progetti di grandi dimensioni», sottolinea Salini, «siamo riusciti a svincolarci dai cicli economici regionali, contribuendo alla realizzazione di opere che rappresentano una risposta concreta alla transizione energetica e alla conversione verso economie più sostenibili».
+
+				Dell’aggiudicazione a Webuild trarranno beneficio anche altre imprese italiane. «Come azienda capofila, come in tutti i progetti realizzati nel mondo», conclude il ceo, «spingiamo la produzione del made in Italy e coinvolgeremo in Trojena alcune delle 10.500 imprese che fanno sistema e gia sono state coinvolte da noi in Italia nei progetti in corso, punta di diamante del settore in alcune lavorazioni molto specifiche».
 
 
 # U
