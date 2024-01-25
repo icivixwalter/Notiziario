@@ -106,7 +106,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/CASA/GE_MARINO/GE_CASA/BANCA/Notiziario"
+		"/C/CASA/GE_MARINO/GE_CASA/BANCA/Notiziario",
+		"/C/CASA/GE_MARINO/GE_CASA/BANCA/Notiziario/NotiziarioEconominco"
 	],
 	"file_history":
 	[
@@ -185,6 +186,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"@BOLLETTE",
 			"git",
 			"@italgas",
 			"@Nimbus",

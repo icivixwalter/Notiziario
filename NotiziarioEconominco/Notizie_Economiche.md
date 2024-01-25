@@ -111,20 +111,49 @@ NOTIZIE_ECONOMICHE
 
 # M
 	MONTE_DEI_PASCHI
-		Mps, l’utile batte le attese: 236 milioni
-			2023
-						2023_05_10_(@Mps Mps, l’utile batte le attese: 236 milioni Tesoro ipotesi vendita 64%)
+		2023_05_10_UTILE
+			Mps, l’utile batte le attese: 236 milioni
+						@MPS@UTILE@_(@Mps Mps, l’utile batte le attese: 236 milioni Tesoro ipotesi vendita 64%)
 
 					I conti trimestrali. Lovaglio: Montepaschi è tornato ed è in ottima forma. Attesa una cedola con il bilancio 2024
 					«Mps torna ed è in ottima forma». Il ceo Luigi Lovaglio ha presentato i conti al test del primo trimestre, numeri che hanno superato le stime con un utile di 236 milioni, — «pari a circa un terzo del target a piano del 2024» —, in accelerazione rispetto ai 10 milioni dello stesso periodo del 2022. Ma anche in crescita del 51,3% dai 156 milioni del trimestre precedente. Così il Monte si è messo alle spalle anche il consensus del mercato che si fermava a 122 milioni. Dopo le grandi banche anche Mps chiude il primo scorcio dell’anno di slancio. «Oggi portiamo dei dati di quella che potrebbe essere la nostra redditività generata nei prossimi trimestri e segna il ritorno di valore per gli azionisti a partire da quest’anno», ha detto il banchiere. Il dividendo arriverà sull’utile del 2024, in anticipo rispetto al piano dello stesso Lovaglio. Una distribuzione resa possibile ha sottolineato anche per l’effetto cost-income sceso al 53% contro il target del 57% nel 2026. La macchina è pienamente ripartita e la banca è in sicurezza, dice Lovaglio: «Abbiamo un livello di capitale che ci permette di continuare a generare nuovo capitale. È tempo per una valutazione adeguata» della banca. Il ratio Cet1, inclusivo degli utili dei tre mesi, è arrivato al 14,9%.
 
 					I ricavi sono saliti dell’11,8% a 879 milioni rispetto allo stesso periodo del 2022 e del 4,8% se paragonati all’ultimo trimestre dell’anno scorso, trainati non solo dal margine di interesse (+1,2%) ma anche dalle commissioni nette (+7,3%). La spinta dei tassi ha fatto carburare il margine di interesse che, anno su anno, è salito del 56,6%, a 505 milioni ma «la banca cresce anche perché la quota di mercato sulla raccolta a vista è salita dal 4,27% al 4,38%». Il risultato operativo lordo, pari a 414 milioni ha registrato +67,6% rispetto allo stesso periodo di un anno fa. Il titolo ha chiuso con -1,3% in una giornata di realizzi innescati dai guadagni di lunedì, giorno in cui l’azione ha segnato +5,8%. Movimenti trainati anche dall’ipotesi che il Tesoro, azionista con il 64,2%, possa decidere una vendita graduale di quote sul mercato. Sullo sfondo, le potenziali aggregazioni bancarie — con Unicredit, Banco Bpm o Bper — non appaiono ancora immediate.
+
+		2024_01_24_DIVIDENDI
+			@MPS@DIVIDENDO@2024_(BANCA MONTE DEI PASCHI dividendo di 11 centesimi)
+
+				La Lentedi Daniela Polizzi e Andrea Rinaldi
+				Mps, il ritorno
+
+				del dividendo
+
+				Mancava
+
+				da tredici anni
+
+				La trimestrale di Mps porterà sorprese non solo nei conti ma anche nelle tasche dei suoi azionisti. Il cda del 6 febbraio, che approverà il bilancio 2023, dovrebbe valutare la distribuzione di un dividendo a valere sull’esercizio concluso e quindi in anticipo di un anno rispetto al piano del ceo Luigi Lovaglio. Le due sentenze di assoluzione degli ex vertici Mussari-Vigni e Viola-Profumo faranno scendere in modo consistente il petitum e di conseguenza libereranno risorse utili all’ulteriore rafforzamento patrimoniale della banca (Cet1 ratio al 17,2 % stimato a fine 2023) che potrà destinare in parte a cedola. Equita in un report di ieri ha stimato un dividendo di 11 centesimi. Per Mps sarebbe un ritorno dopo 13 anni di assenza. Se le cifre saranno confermate, l’istituto senese staccherebbe quindi un assegno di oltre 138 milioni. È un ulteriore segnale che Siena è in ottima salute e, realizzando il piano, può premiare gli azionisti (a partire dal Mef) che nel 2022 avevano aderito all’aumento di capitale da 2,5 miliardi. Sul futuro della quota detenuta in Mps ha parlato il presidente della Compagnia di San Paolo, Francesco Profumo: «L’azione fatta per Mps è di sistema, alcune delle fondazioni all’aumento di capitale hanno definito una strategia comune e ci ha aiutato l’operazione, non tanto per la quantità quanto per la credibilità che si è creata».
+
 # P
+	
 	PETROLIO
 					2023_05_03_@Petrolio@2023_(CROLLO IL PREZZO DEL PETROLIO A 72,00)
 
 					Crolla del 4% il prezzo del petrolio, ai minimi da 5 settimane
 						I futures sul Wti sono scesi di oltre il 4% a 72 dollari, il minimo in cinque settimane, a causa dei timori di una potenziale recessione innescata dagli aumenti dei tassi da parte di tutte le banche centrali. Ha giocato anche l’inaspettato calo della produzione cinese di aprile. Crollati anche il prezzo del Brent, in calo del 4,5%, poco sotto 76 dollari. © RIPRODUZIONE RISERVATA
+
+	PETROLLO
+				2024_01_243_@PETROLLO@ELETTROPOMPE@2024_(ELETTROPOME E POMPE SOMMERSE)
+
+					Pedrollo cresce con Pm: «Obiettivo 500 milioni di fatturato»
+
+					Il gruppo veneto Pedrollo, tra i protagonisti mondiali nella produzione di elettropompe, amplia la sua gamma di prodotti e arricchisce le proprie competenze grazie all’acquisizione del 70% di Pm, azienda anch’essa veneta (di Brendola in provincia di Vicenza), proprietaria del marchio Pm Technology, attiva nella produzione di motori sommersi. La neoacquisita, che chiuderà il 2023 con un fatturato di 22 milioni di euro, rappresenta la quarta operazione di crescita per linee esterne perfezionata da Pedrollo a partire dal 2019. «È la conferma che il nostro schema di gioco funziona: acquisiamo aziende a conduzione familiare (elemento che per noi rappresenta un punto di forza, in linea con la nostra storia) con buone performance, lasciando al socio la conduzione dell’azienda» ha spiegato Giulio Pedrollo, amministratore delegato della Pedrollo Group. Marco Petrucci, ceo di Pm, continuerà, infatti, in qualità di socio di minoranza a guidare la gestione operativa. Uno schema che «sta attraendo nuovi interlocutori» ha aggiunto. «La ferma disciplina finanziaria e la lungimiranza della sua proprietà ci accomunano nella visione del business e questo velocizzerà l’integrazione all’interno del gruppo». Pm sarà consolidata a partire dal primo trimestre del 2024. Con questa operazione Pm potrà rafforzare la sua crescita all’interno del gruppo Pedrollo con opportunità anche negli Stati Uniti, mentre la società di San Bonifacio (Verona) potrà «acquisire competenze preziose nell’ambito dei motori sommersi. È un asset importante che ci aiuterà nello sviluppo». Sale così il fatturato aggregato del gruppo Pedrollo che quest’anno dovrebbe superare i 500 milioni (il doppio rispetto al 2019), cifra già sfiorata nel 2023 (circa 473). «Mi piace pensare che potremo festeggiare il nostro 50esimo con il raggiungimento dei 500 milioni».
+
+					Ma guardando ancora più al futuro «abbiamo potenziali operazioni in fase di studio. Valutiamo anche il Far Est».
+
+					© RIPRODUZIONE RISERVATA
+
+					di Emily Capozucca
   S
   	SOIA
   		2023.07.19 = Soia, zucchero e olio d’oliva più cari L’effetto di clima e mercati sui prezzi
