@@ -62,6 +62,42 @@ NOTIZIE_ECONOMICHE
 					Le aste sono gestite da Acquirente Unico, società del gruppo pubblico Gse (Gestore dei servizi energetici). Il meccanismo prevede che i partecipanti si sfidino su un solo valore, il costo di commercializzazione. Chi offre il prezzo più basso (che potrebbe anche essere negativo pur di vincere) si vedrà assegnare il lotto, con un limite massimo di sette lotti e il 30 per cento a livello nazionale. Di fatto, non è un’asta vera e propria: l’offerta è fatta a busta chiusa a turno unico. L’11 gennaio sarà comunicato ai partecipanti l’esito provvisorio e si svolgerà un’eventuale asta di riparazione per i lotti non assegnati, perché, per esempio, un’azienda ne ha vinti più del tetto massimo o in caso di offerte ritenute non valide. Il 6 febbraio sarà comunicato l’esito. A seconda del lotto a cui si appartiene, i casi sono due: si può restare con il vecchio fornitore o passare a una nuova azienda. Chi ha la bolletta addebitata sul conto corrente può anche non cambiare la domiciliazione in quanto il governo ha previsto il trasferimento automatico del Rid.
 
 					Dal primo luglio, solo i «vulnerabili» — chi ha più di 75 anni, i disabili, chi vive in condizioni economicamente svantaggiate e chi è in gravi condizioni di salute che richiedono l’utilizzo di apparecchiature medico-terapeutiche alimentate dall’energia elettrica — potranno continuare a restare nella tutela.
+	EXON E CHEVORN
+		2024
+			2024_02_03_Exxon e Chevron_(forti utili anche con il calo del petrolio - utile 36 miliardi)
+
+			(f. ch.) L’aumento della produzione di petrolio negli Usa traina i conti di Exxon e Chevron che, sia pur in calo dai record del 2022, hanno realizzato nel 2023 il secondo miglior bilancio in un decennio nonostante la discesa delle quotazioni. Exxon ha segnato un utile netto di 36 miliardi (55,7 miliardi nel 2022), il più alto dal 2012. Chevron ha chiuso con profitti di 21,4 miliardi (35,5 miliardi), il più alto dal 2013.
+
+			Investindustrial rileva
+			il gruppo Bindi-Forno D’Asolo
+
+			Il private equity di Andrea Bonomi Investindustrial ha rilevato Fda. Controllato Bc Partners, Fda unisce Forno D’Asolo e Pasticceria Bindi.
+
+			Pedranzini: lista con Unipol
+			per Sondrio «non sorprende»
+
+			Sull’ipotesi di una lista unica tra il management di Banca Popolare di Sondrio e Unipol, in vista del rinnovo di cinque membri del board «non sono in grado di dire nulla al momento. Quello che posso dire è che il rapporto che con il nostro azionista di maggioranza relativo è di grande fiducia». Lo ha detto ieri il consigliere delegato e dg di Pop di Sondrio Mario Alberto Pedranzini (nella foto). Secondo Pedranzini la lista unica potrebbe non sorprendere. «Assolutamente no. Unipol ha dimostrato piena fiducia nel management».
+
+			Cacao, prezzo ai massimi
+
+			Record del cacao. I futures hanno superato i 5.000 dollari a tonnellata per la prima volta, con un balzo che sfiora il 100% annuale. Il clima secco nell’Africa occidentale minaccia la produzione.
+
+			Marcolin, rumors sulla cessione
+
+			Tornano i rumors su una possibile vendita o fusione di Marcolin, controllata da Pai Partners. Manager dell’azienda bellunese di occhiali avrebbero iniziato a incontrare potenziali pretendenti, ha riportato ieri Reuters. Venerdì scorso Marcolin ha annunciato il rinnovo anticipato dell’accordo per la progettazione, produzione e distribuzione di occhiali da sole e montature da vista Max&Co fino al 2030. Goldman Sachs è consulente per il dossier.
+
+			Enea, progetto nell’idrogeno
+
+			Presentato ieri il progetto ALRIGH2T sull’uso dell’idrogeno liquido per decarbonizzare l’aeronautica. Coordinato dall’Enea, al progetto ha aderito tra gli altri la Sea.
+
+			Terna, 14 Gw di eolico offshore
+
+			Sono stati presentati a Terna progetti di eolico offshore per 91 gigawatt. Di questi, sono in fase di progettazione impianti per 14 gigawatt.
+
+			Fs e ministero della Cultura
+
+			Rinnovato ieri il protocollo tra Fs e ministero della Cultura «per valorizzare ritrovamenti archeologici nei cantieri della rete ferroviaria italiana», dice il ministro Gennaro Sangiuliano.
+
 
 				
 
@@ -107,6 +143,19 @@ NOTIZIE_ECONOMICHE
 				Un carico di lavori pari a 34 miliardi, circa 4,6 volte il fatturato del 2022 e nuovi ordini per 900 milioni. Il consiglio di amministrazione di Fincantieri presieduto dal generale Claudio Graziano ha approvato i dati del primo trimestre. Numeri in linea con le previsioni che permettono al ceo Pierroberto Folgiero di guardare all’anno in corso con ottimismo: «La performance operativa attesa per l’anno ci consentirà di consolidare i ricavi e la marginalità che, uniti a un portafoglio ordini robusto e a un ebitda in miglioramento, confermano che la società è solida nel business tradizionale e proiettata sulle nuove tecnologie».
 
 				I ricavi sono pari a 1,76 miliardi, in aumento del 4,9% rispetto al primo trimestre 2022. L’ebitda del gruppo è pari a 87 milioni (118 milioni nel primo trimestre del 2022), influenzato dall’aumento dei prezzi delle materie prime, ma l’ebitda margin è arrivato al 4,9%, in miglioramento rispetto al 2022 (3%). La spinta alla crescita è venuta in particolare dal settore offshore e navi speciali, con 238 milioni di ricavi, in crescita del 31%, grazie alla spinta delle unità per il comparto eolico offshore che sono un po’ la sintesi di quelle nuove tenologie a cui fa riferimento Folgiero. Il fatturato del settore shipbuilding è stato di 1,4 miliardi, distribuiti sul business delle navi da crociera (48% dei ricavi) e su quello delle navi militari (25%), impegnato nel rinnovo della flotta della Marina militare. Il backlog di questo settore vale 22,7 miliardi con 89 navi in portafoglio.
+	F2I
+		2024
+			2024_02_03_(F2i accelera sulla fusione tra EF Solare e Sorgenia per il polo dell’energia)
+
+				F2i accelera sulla creazione di un polo dell’energia costruito attorno a Sorgenia ed EF Solare. Il fondo infrastrutturale ha avviato i lavori preparatori per combinare le due controllate in un gruppo che potrebbe valere oltre 2 miliardi di euro. Secondo indiscrezioni sarebbero al lavoro sull’operazione i consulenti di Lazard e Mediobanca.
+
+				Sono iniziati i primi sondaggi sul mercato per trovare anche un nuovo investitore con competenze industriali nell’energia e nelle infrastrutture, che apporti competenze ed eventualmente altri asset. Il nuovo socio potrebbe non solo subentrare al fondo spagnolo Asterion, socio al 27,6% di Sorgenia, ma anche avere una quota più rotonda della nuova entità. Asterion era entrato nella compagine di Sorgenia a fianco F2i a ottobre 2020, nell’ambito di un’operazione che aveva assegnato al gruppo un valore di impresa attorno a un miliardo.
+
+				Il perimetro del nuovo polo dell’energia di F2i comprenderebbe le quattro centrali a ciclo combinato a gas naturale e i gli impianti di rinnovabili di Sorgenia con i 300 parchi fotovoltaici di EF Solare in l’Italia e i dieci in Spagna, frutto dell’acquisizione di Renovalia. La combinazione darebbe vita a uno dei maggiori attori europei dell'energia che, anche grazie all’apporto dei nuovi investitori potrebbe moltiplicare i progetti di sviluppo nelle rinnovabili.
+
+				Il progetto rientra nel nuovo piano varato a dicembre dal ceo di F2i Renato Ravanelli che prevede tra l’altro anche dismissioni per circa 2 miliardi entro il 2025.
+
+
 
 
 # M
