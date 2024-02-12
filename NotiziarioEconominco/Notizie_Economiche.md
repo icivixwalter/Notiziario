@@ -154,6 +154,11 @@ NOTIZIE_ECONOMICHE
 						La vera partita persa dalle telecomunicazioni si è consumata anni fa, quando non sono riuscite a occupare una parte dei servizi da Over the top come la musica o i video. La stessa Vodafone mondo, pur essendo un colosso, non ha creduto nel valore dei contenuti entrando in campo solo quando si muovevano i diretti competitor.
 
 						La profezia della rete stupida si è avverata. Ma questo ha reso ricche le Big tech che in questi venti anni sono diventati nuovi potenti datori di lavoro diretto. Lo spiegava Keynes: il nuovo ciclo tecnologico distrugge vecchi imperi ma ne crea di nuovi. Il difficile è capire quando fare il salto.
+	BANCA MEDIOLANUM
+		2024
+			2024_02_10_(Profitti su del 62% Banca Mediolanum, il dividendo sale del 40%)
+
+			«l’attuale livello di dividendi è sostenibile e, anzi, io lo prevedo in crescita per il prossimo esercizio per gli anni successivi». Dopo gli utili record, il ceo Massimo Doris si concentra su un adeguato ritorno per i soci di Banca Mediolanum. L’istituto ha infatti chiuso l’esercizio 2023 con un utile netto di 822 milioni, in aumento del 62% rispetto al 2022. Per questo il cda proporrà un saldo dividendo di 0,42 per azione, pari a circa 311 milioni di euro complessivi. Considerando l’acconto di 0,28 euro distribuito a novembre scorso, la cedola complessiva proposta per il 2023 ammonta a 0,70 per azione, per un totale di circa 519 milioni di euro, il 40% in più rispetto al 2022.
 # F
 	FINCANTIERI
 					2023.05.01_@Fincantieri@2023_(Fincantieri ...)
@@ -175,6 +180,80 @@ NOTIZIE_ECONOMICHE
 				Il perimetro del nuovo polo dell’energia di F2i comprenderebbe le quattro centrali a ciclo combinato a gas naturale e i gli impianti di rinnovabili di Sorgenia con i 300 parchi fotovoltaici di EF Solare in l’Italia e i dieci in Spagna, frutto dell’acquisizione di Renovalia. La combinazione darebbe vita a uno dei maggiori attori europei dell'energia che, anche grazie all’apporto dei nuovi investitori potrebbe moltiplicare i progetti di sviluppo nelle rinnovabili.
 
 				Il progetto rientra nel nuovo piano varato a dicembre dal ceo di F2i Renato Ravanelli che prevede tra l’altro anche dismissioni per circa 2 miliardi entro il 2025.
+
+# G
+	
+	GERMANIA 
+		2024
+			2024_02_08_(Scioperi e tonfo dell’industria La Germania è in crisi)
+
+			BERLINO Rallenta ancora l’economia della Germania. Ma la brutta notizia è che la frenata, pur prevista, è perfino peggiore delle attese. Lo scorso dicembre la produzione industriale — un dato complessivo che include settori dall’edilizia all’energia — è calata dell’1,6 %, mentre a novembre si era fermata allo -0,2%. Gli analisti si attendevano un risultato diverso, con gran parte delle stime che oscillavano tra il -0,4 o il -0,5%. Si tratta del sesto mese in segno negativo degli ultimi sette, e quando è andata meglio la produzione è rimasta ferma in stagnazione.
+
+			Il dato di dicembre porta così la contrazione industriale annua in Germania al -3%. Bisogna tornare indietro al 2020, in piena stagione del Covid, per ritrovare simili numeri. Non solo, ma il risultato industriale tira all’ingiù anche il Pil: i dati preliminari mostrano che la ricchezza tedesca nel 2023 si è ristretta dello 0,3 per cento.
+
+			Ciò che è peggio è che la crisi tocca tutti i settori. I maggiori cali riguardano le industrie ad alto consumo di energia (quella chimica è a -7,6%), l’industria energetica e l’edilizia (-3,4%), secondo l’Ufficio federale di Statistica. L’improvvisa mancanza del gas russo è stata una botta da cui «la chimica» fatica a riprendersi: e l’emergenza è tutt’altro che passata. Un unico settore in controtendenza: quello dell’auto.
+
+			La sensazione di un Paese fermo, e che non riesce a intravedere una via d’uscita, è palpabile. Quasi ogni giorno ci sono aziende che annunciano esuberi: due giorni fa è toccato alla Miele, il colosso degli elettro-domestici di fascia alta, dove sono stati persi 2.700 posti. Più ancora di questi numeri, dice molto lo stato d’agitazione dei lavoratori. Ieri uno sciopero della Lufthansa ha cancellato il 90% dei voli. È solo l’ultimo caso. Da novembre muoversi in Germania è un terno al lotto: le ferrovie poche settimane fa si sono fermate per 6 giorni.
+			Poi è toccato ai trasporti locali, e prima ancora al personale di terra degli aeroporti. Di questi tempi, la cosa più sicura è non aver bisogno di andare da nessuna parte.
+
+			© RIPRODUZIONE RISERVATA
+
+	GIAPPONE
+		2024
+			2024_02_18_(Borsa del Giappone ai massimi punta alla crescita con i nanometri e superconduttori)
+
+
+				Nikkei record Sorpresa Giappone, Borsa mai cosi da 34 anni
+
+				Che il debito pubblico giapponese abbia raggiunto la cifra monstre di 8.600 miliardi di dollari nel 2023, due volte l’economia nipponica, non spaventa gli investitori, che scommettono sempre di più sul ritorno del Sol Levante, dopo oltre tre decenni di deflazione. Ieri, per la prima volta da 34 anni, l’indice Nikkei ha oltrepassato quota 37 mila punti. Non succedeva dal 20 febbraio 1990. E ora sembra a portata di mano anche il record di tutti i tempi, toccato nel dicembre 1989, con il Nikkei a 38.915 punti. A spingere la Borsa di Tokyo contribuiscono gli investitori esteri, che a gennaio hanno comprato azioni delle aziende sul listino giapponese per 2.070 miliardi di yen (13,4 miliardi di dollari), il settimo dato mensile più alto mai registrato. Non è solo una scommessa finanziaria, legata alla perdurante politica dei tassi negativi della Bank of Japan, che indebolisce lo yen e fa correre l’export. Secondo il Fmi, il Pil del Giappone è cresciuto dell’1,9% nel 2023, mentre rallenterà all’1% quest’anno. L’inflazione, salita fino al 3,1% l’anno scorso, è in frenata, ma al di sopra del target 2% inseguito invano per oltre 30 anni. E i rischi geopolitici, che gravano sull’economia globale, in Giappone favoriscono gli investimenti. Qui la taiwanese Tsmc, leader mondiale dei semiconduttori, quest’anno comincerà la costruzione del suo secondo impianto. E Rapidus, una startup giapponese, con il sostegno del governo e di un consorzio di istituti di ricerca, mira a produrre chip da 2 nanometri già nel 2027.
+
+				© RIPRODUZIONE RISERVATA
+
+
+# I
+	ITALIA
+		2024
+			2024_02_10_(L’Italia hub per il gas dall’Algeria alla Germania)
+
+				(f.ch.) La società tedesca Vng ha firmato con il gruppo statale algerino Sonatrach il primo contratto per importare gas via tubo. Per arrivare in Germania il metano dovrà utilizzare i gasdotti Ttpc dalla frontiera tra Tunisia e Algeria (al 100% di SeaCorridor, a governance paritetica Eni-Snam), e Transmed che unisce la Tunisia alla Sicilia (al 50% di Algeri e al 50% di SeaCorridor) e poi proseguire lungo la rete italiana. L’Italia diventerà un hub energetico.
+
+				Padoan, il dialogo italo-tedesco
+
+				Si è svolto ieri a Roma l’11esimo round del dialogo italo-tedesco sui servizi finanziari tra FeBAF, Dk e Gdv. Le delegazioni erano guidate da Pier Carlo Padoan (presidente Unicredit e membro consiglio direttivo FeBAF) e Karolin Schriever.
+
+				Design Holding,
+				Apolloni ceo B&B Italia
+
+				Design Holding, leader globale nel settore del design di alta gamma, ha nominato Demetrio Apolloni nuovo ceo del gruppo B&B Italia.
+
+				Utility: 11 miliardi investiti nel 2023
+
+				«Nel 2023 le 100 maggiori utility hanno investito 11 miliardi sui territori, con grande attenzione all’innovazione e alla qualità». Lo ha detto Luca Dal Fabbro (nella foto). Per il presidente di Iren e vice presidente di Utilitalia il «dato cresce del 50% rispetto al 2019».
+
+				Iveco, volano i conti
+
+				Fatturato oltre 16 miliardi (+13% ) per Iveco, che ha chiuso il 2023 con un utile netto adjusted a 352 milioni, 127 milioni in più del 2022. I 14.000 dipendenti di avranno con la busta paga di febbraio un premio medio di 1.000 euro lordi.
+
+				Gruppo Sella,
+				profitti a 107,5 milioni
+
+				Il gruppo Sella ha chiuso il 2023 con un utile netto consolidato di 107,5 milioni, in crescita rispetto ai 91,9 milioni dell’anno precedente.
+
+				Aziende grafiche ed editoriali, via libera al contratto
+
+				(ri.que.) Via libera dei sindacati al nuovo contratto nazionale delle aziende grafiche, editoriali, digitali e affini. L’incremento del Trattamento Economico Minimo è di 270 euro, a regime, di cui 18 euro in welfare. Una commissione di aziende ha supportato un lavoro: identificati 39 nuovi profili professionali inquadrati secondo la classificazione degli editori. L’obiettivo è un’applicazione più larga del contratto.
+
+				Policlinico San Donato in Iraq
+
+				ll Policlinico San Donato gestirà un ospedale universitario con 492 posti letto a Najaf in Iraq. Il
+
+				Policlinico ha sottoscritto un contratto biennale da 81 milioni di dollari con la sanità irachena.
+
+				Sparkasse, utili a 82,2 milioni
+
+				Sparkasse ha chiuso il 2023 con un utile, a livello consolidato, per 82,2 milioni.
+
+				© RIPRODUZIONE RISERVATA
 
 
 
@@ -203,6 +282,23 @@ NOTIZIE_ECONOMICHE
 				da tredici anni
 
 				La trimestrale di Mps porterà sorprese non solo nei conti ma anche nelle tasche dei suoi azionisti. Il cda del 6 febbraio, che approverà il bilancio 2023, dovrebbe valutare la distribuzione di un dividendo a valere sull’esercizio concluso e quindi in anticipo di un anno rispetto al piano del ceo Luigi Lovaglio. Le due sentenze di assoluzione degli ex vertici Mussari-Vigni e Viola-Profumo faranno scendere in modo consistente il petitum e di conseguenza libereranno risorse utili all’ulteriore rafforzamento patrimoniale della banca (Cet1 ratio al 17,2 % stimato a fine 2023) che potrà destinare in parte a cedola. Equita in un report di ieri ha stimato un dividendo di 11 centesimi. Per Mps sarebbe un ritorno dopo 13 anni di assenza. Se le cifre saranno confermate, l’istituto senese staccherebbe quindi un assegno di oltre 138 milioni. È un ulteriore segnale che Siena è in ottima salute e, realizzando il piano, può premiare gli azionisti (a partire dal Mef) che nel 2022 avevano aderito all’aumento di capitale da 2,5 miliardi. Sul futuro della quota detenuta in Mps ha parlato il presidente della Compagnia di San Paolo, Francesco Profumo: «L’azione fatta per Mps è di sistema, alcune delle fondazioni all’aumento di capitale hanno definito una strategia comune e ci ha aiutato l’operazione, non tanto per la quantità quanto per la credibilità che si è creata».
+
+		2024_02_08_CEDOLA_(distribuzione di 0,25 ad azione)
+
+				di Daniela Polizzi
+				Mps, dopo 13 anni torna la cedola
+
+				Utile a 2 miliardi, titoli su del 5,5%
+
+				Lovaglio: è una svolta, abbiamo riportato in vita radici e patrimonio. L’aiuto dei tassi
+				«Mps è ripartita, qualcuno ha definito questa evoluzione un Rinascimento. Noi abbiamo creato le condizioni giuste perché si realizzasse». Il ceo Luigi Lovaglio ha presentato i conti del 2023 di Mps che torna alla cedola dopo 13 anni, con due anni di anticipo sul piano e distribuisce agli azionisti 0,25 euro per azione, per un monte dividendi di 315 milioni e la previsione di un pay-out del 50% nel 2024. Il Monte vede il primo utile — pari a oltre 2 miliardi, il più alto nella sua storia — dal 2010. «È un punto di svolta, un passaggio chiave della banca nei confronti dei nostri stakeholder, dovuto a persone di talento, a passione, disciplina e all’innovazione digitale — ha detto Lovaglio —. Abbiamo riportato in vita il nostro patrimonio storico per sostenere famiglie e Pmi». I numeri si confrontano con la perdita di 178 milioni dell’esercizio precedente sul quale la banca ha spesato costi di ristrutturazione per 931 milioni. E che hanno spinto il titolo a +5,54%. Mps, di cui il Mef possiede ancora il 39,2%, ora «può mettere in atto una politica dei dividendi che può remunerare gli azionisti in modo interessante», ha sottolineato il manager. Poi il riferimento ai crediti fiscali da Dta (imposte differite) che per Siena valgono in tutto 3,3 miliardi, e potranno dare un contributo all’utile dei prossimi anni. Rappresenterebbero una dote nel caso di m&a. Insomma, Mps ha un tesoretto che potrà utilizzare perché è tornata a produrre utili.
+
+				La banca ha infatti beneficiato di 466 milioni di rilasci netti di accantonamenti, legati al venir meno dei rischi legali, e di un effetto netto positivo delle imposte per 339 milioni, per un totale di 805 milioni. È anche il risultato dell’assoluzione da parte della Cassazione di Giuseppe Mussari e di Antonio Vigni, e di quella in appello per Alessandro Profumo e Fabrizio Viola. «Abbiamo portato un peso notevole sulle nostre spalle, quello legato ai contenziosi legali. È stato come scalare una montagna con uno zaino molto pesante», ha detto Lovaglio. Il risultato è che Siena è una delle banche «più solide in Europa», con il Cet 1 che sale al 18,1% (+248 punti). Il capitale in eccesso è di 3 miliardi che potranno essere usati per «cogliere opportunità anche nell’ambito delle partnership esistenti», tra assicurazione e risparmio gestito.
+
+				Ma è sul ritorno alla crescita che pone l’accento il ceo che ha lavorato al rilancio a fianco del cda e del presidente Nicola Maione. I risultati beneficiano della performance operativa: il risultato operativo lordo è pari a 1,954 miliardi (+93,2%), grazie alla crescita dei ricavi, saliti del 21,7% a 3,8 miliardi con la spinta del margine di interesse, e agli interventi sui costi (-12,6%). Ci attendiamo che nel 2024 «i proventi operativi saranno allo stesso livello anche se con una combinazione diversa», ha detto Lovaglio che ha sottolineato come la banca voglia continuare a crescere nel commerciale che già nell’ultimo trimestre ha visto la spinta delle commissioni da servizi bancari (+9,4%). Per questo è stata rafforzata la squadra. Maurizio Bai, chief commercial officer imprese e privati, è diventato vice direttore generale commerciale e vicario. «Voglio ringraziare i colleghi per il loro contributo, uno ad uno», ha concluso Lovaglio.
+
+				© RIPRODUZIONE RISERVATA
+
 
 # P
 	
