@@ -39,6 +39,22 @@ NOTIZIE_ECONOMICHE
 					Il bilancio 2023 è stata anche l’occasione per guardare al prossimo rinnovo del consiglio d’amministrazione dell’istituto di credito nel 2025. «Resterò nel mio ruolo — ha ripetuto il ceo di Intesa Sanpaolo — per i prossimi anni, previa approvazione degli azionisti». E sulle indiscrezioni circa un cambio del presidente, il banchiere ha sottolineato di essere molto legato alla persona di «Francesco Profumo con cui ho un rapporto molto forte. Devo dire che Gian Maria Gros-Pietro sta facendo un ottimo lavoro. Parlare del cambiamento del presidente oggi espone la banca a dei rischi operativi di governance. La presidenza di Intesa Sanpaolo è in ottime mani». Quanto all’Associazione delle banche, «Deve esserci una condivisione delle scelte delle e cariche fondamentali in Abi, se questo accadrà Intesa Sanpaolo sarà ben felice di farne parte a pieno titolo. Se invece Abi rimane un soggetto che non porta a una partecipazione di Intesa Sanpaolo con il peso specifico che abbiamo all’interno dell’Abi faremo le nostre valutazioni».
 
 					© RIPRODUZIONE RISERVATA
+	BITCOIN
+		2024
+			2024_02_13 (Criptovalute Il Bitcoin sopra 50 mila dollari, prezzo triplicato)
+
+				Il prezzo del Bitcoin ha superato i 50 mila dollari per la prima volta dal 2021. Dall’inizio dello scorso
+
+
+				anno la valuta digitale è triplicata in valore, dopo aver perso il 64% nel 2022, senza tuttavia raggiungere il livello record di 69 mila dollari toccato nel novembre del 2021.
+
+				A spingere le quotazioni del Bitcoin ha contribuito il lancio di un nuovo prodotto di investimento indicizzato. L’Etf replica l’andamento della criptovaluta, ampliando la platea di potenziali investitori.
+
+			
+
+
+
+
 
 # E
 	ENEL
