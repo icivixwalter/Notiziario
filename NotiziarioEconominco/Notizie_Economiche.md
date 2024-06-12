@@ -175,6 +175,30 @@ NOTIZIE_ECONOMICHE
 			2024_02_10_(Profitti su del 62% Banca Mediolanum, il dividendo sale del 40%)
 
 			«l’attuale livello di dividendi è sostenibile e, anzi, io lo prevedo in crescita per il prossimo esercizio per gli anni successivi». Dopo gli utili record, il ceo Massimo Doris si concentra su un adeguato ritorno per i soci di Banca Mediolanum. L’istituto ha infatti chiuso l’esercizio 2023 con un utile netto di 822 milioni, in aumento del 62% rispetto al 2022. Per questo il cda proporrà un saldo dividendo di 0,42 per azione, pari a circa 311 milioni di euro complessivi. Considerando l’acconto di 0,28 euro distribuito a novembre scorso, la cedola complessiva proposta per il 2023 ammonta a 0,70 per azione, per un totale di circa 519 milioni di euro, il 40% in più rispetto al 2022.
+
+# D
+
+	DE NORA ITALY
+	2024
+		2024_06_11_/(PRODUZIONE @IDROGENO@VERDE DELLA DE NORA INSIEME A @SNAM)
+
+		di Fausta Chiesa
+		Idrogeno verde,
+
+		al via la superfabbrica
+
+		di De Nora e Snam
+
+		La produzione a Cernusco a partire da fine 2025
+		cernusco sul naviglio (milano) Sarà la fabbrica di elettrolizzatori e altri componenti per produrre idrogeno verde più grande d’Italia e una delle maggiori in Europa. È la gigafactory che Industrie De Nora sta costruendo con il supporto di Snam (la newco si chiama «De Nora Italy Hydrogen Technologies» o Dniht) a Cernusco sul Naviglio, in provincia di Milano. Ieri è avvenuta la posa della prima pietra.
+
+		«Spesso si abusa del nome di gigafactory — ha dichiarato Federico De Nora, presidente della società — ma questa lo è veramente, con una capacità che raggiungerà i 2 gigawatt equivalenti entro il 2030. Gli elettrolizzatori sono un tassello fondamentale per una corretta transizione energetica». A testimoniare l’importanza di avere in Europa la produzione di una tecnologia per l’idrogeno verde è il riconoscimento ricevuto dall’Unione Europea, che lo ha inserito tra gli Ipcei (Importanti Progetti di Interesse Comune Europeo). Il ministero delle Imprese e del Made in Italy darà un contributo alla spesa: 32 milioni che potranno salire a 63 milioni a fronte di un investimento complessivo di circa cento milioni. A Cernusco nascerà un centro produttivo di circa 25.000 metri quadri, alimentato da pannelli solari e progettato con un’architettura industriale basata su criteri di basso impatto ambientale. A regime, saranno creati 200 posti di lavoro e l’attività ne genererà altri duemila nell'indotto, secondo quanto annunciato. De Nora, che l’anno scorso ha festeggiato i cento anni ed è specializzata in elettrochimica, è tra i leader nella nascente industria dell’idrogeno verde ed è presente con siti produttivi in Usa, Cina, Giappone e Germania. «Questo impianto, che sarà operativo tra fine 2025 e inizio 2026, sarà il più all’avanguardia di tutti», ha precisato De Nora. Il progetto «si inserisce in un più ampio piano di espansione pluriennale della capacità produttiva del gruppo De Nora».
+
+		Ma quali prospettive di mercato ci sono? «Come tutti i settori nuovi — ha dichiarato il ceo di De Nora Paolo Dellachà — è in fase di lancio iniziale. Il costo dell’idrogeno verde dipende dal costo delle rinovabili utilizzate per produrlo e in alcuni Paesi è già competitivo. L’Europa ha un ruolo primario nella corsa verso questa molecola: stime indicano che al 2030 avremo un minimo di cento gigawatt di capacità installata di elettrolizzatori e l’Europa coprirà il 25%/30% della produzione globale». L’amministratore delegato di Snam Stefano Venier ha spiegato quale potrebbe essere un altro utilizzo dell’idrogeno verde, anche questo strumentale alla transizione, cioè quello di conservare per lungo tempo l’energia solare ed eolica: «L’idrogeno consente lo stoccaggio delle rinnovabili, perché quando sono in eccesso o c’è una riduzione significativa del prezzo, la loro trasformazione in molecole di idrogeno consente di poterle stoccare». Valentino Valentini, viceministro delle Imprese e del Made in Italy, intervenendo alla cerimonia, ha delineato lo scenario: «La transizione vedrà un asse tra il Nord Africa e l’Europa. Ci saranno corridoi con le rinnovabili solari che dall’Africa attraverseranno l’Italia e dal Nord Europa avremo l’eolico».
+
+		© RIPRODUZIONE RISERVATA
+
+
 # F
 	FINCANTIERI
 					2023.05.01_@Fincantieri@2023_(Fincantieri ...)
@@ -596,6 +620,16 @@ NOTIZIE_ECONOMICHE
 	Zero-coupon
 		Obbligazione priva di cedola, il cui rendimento è determinato dalla differenza tra il prezzo di emissione
 		(o di acquisto) ed il valore di rimborso.
+
+
+
+
+
+
+
+
+
+
 
 
 
