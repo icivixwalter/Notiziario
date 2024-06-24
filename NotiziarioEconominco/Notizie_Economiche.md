@@ -198,6 +198,22 @@ NOTIZIE_ECONOMICHE
 
 		© RIPRODUZIONE RISERVATA
 
+# E
+	2024
+			2024_06_23=El.En, innovazione e sviluppo organico con i laser del futuro
+
+				Cangioli: troppa incertezza ma cresciamo
+				DALLA NOSTRA INVIATA
+
+				Firenze Gli alti tassi di interesse, l’eccessiva incertezza a livello globale e, a livello nazionale, l’attesa del decreto attuativo sugli incentivi fiscali promessi, legati al piano di transizione per l’industria 5.0, durata oltre 100 giorni, hanno «fermato gli investimenti delle aziende in Italia», sostiene Andrea Cangioli, amministratore delegato e azionista di El.En, leader mondiale dei laser per il settore biomedicale, industriale e per il restauro, quotata sul segmento Star di Piazza Affari. Nonostante un primo trimestre dell’anno con ricavi e utile operativo (ebit) in calo, Cangioli conferma le linee guida per il 2024. «Abbiamo fiducia di poter superare i risultati del 2023, con un recupero nel secondo semestre dell’anno, grazie a parecchi nuovi prodotti», spiega.
+
+				Nel 2000, quando fu quotata in Borsa per finanziare lo sviluppo, El.En fatturava 25 milioni, a fine 2023 sono saliti a circa 700 milioni. E oggi tra gli azionisti, conta anche sul Norges Bank, il fondo statale norvegese, che ha il 2,5%. «L’obiettivo è continuare a crescere in modo organico». Ma «la cassa molto positiva dal secondo semestre 2023 permetterà anche «aggiungere nuovi pezzi, attraverso fusioni e acquisizioni«, se dovesse capitare l’occasione, anticipa l’ad.
+
+				Quando si visita lo stabilimento di Calenzano, vicino a Firenze, si capisce quanto l’innovazione costante sia alla base del successo aziendale. su 2.100 dipendenti a livello globale, 300 persone, soprattutto fisici e ingegneri, si dedicano alla ricerca e allo sviluppo. Per velocizzare i tempi di R&S, ad esempio, in El.E controllano ogni fase del processo in casa, dal software ai pezzi hardware, incluso il sistema di assemblaggio delle schede elettroniche in Smd. «Così un’idea può essere trasformata in un progetto di ricerca e testata nel giro di 2 o 3 giorni», dice Cangioli. Ma il principio si applica anche alla produzione. «Disegniamo le macchine laser e poi le assembliamo nelle nostre fabbriche», mentre le lenti sono acquistate fuori.
+
+				Tra le novità, c’è un laser in grado sia di rimuovere i tatuaggi che di ringiovanire la pelle, visto che l’estetica, con il marchio Esthelogue, ha «un trend di crescita secolare» e con il settore medicale (incluse le applicazioni chirurgiche) rappresentano il 60% del business di El.En.
+
+			
 
 # F
 	FINCANTIERI
@@ -343,12 +359,12 @@ NOTIZIE_ECONOMICHE
 # P
 	
 	PETROLIO
-					2023_05_03_@Petrolio@2023_(CROLLO IL PREZZO DEL PETROLIO A 72,00)
+				2023_05_03_@Petrolio@2023_(CROLLO IL PREZZO DEL PETROLIO A 72,00)
 
 					Crolla del 4% il prezzo del petrolio, ai minimi da 5 settimane
 						I futures sul Wti sono scesi di oltre il 4% a 72 dollari, il minimo in cinque settimane, a causa dei timori di una potenziale recessione innescata dagli aumenti dei tassi da parte di tutte le banche centrali. Ha giocato anche l’inaspettato calo della produzione cinese di aprile. Crollati anche il prezzo del Brent, in calo del 4,5%, poco sotto 76 dollari. © RIPRODUZIONE RISERVATA
 
-	PETROLLO
+
 				2024_01_243_@PETROLLO@ELETTROPOMPE@2024_(ELETTROPOME E POMPE SOMMERSE)
 
 					Pedrollo cresce con Pm: «Obiettivo 500 milioni di fatturato»
@@ -360,6 +376,18 @@ NOTIZIE_ECONOMICHE
 					© RIPRODUZIONE RISERVATA
 
 					di Emily Capozucca
+
+	PIAZZA_AFFARI
+		2024_06_23=	In 22 dicono addio a Piazza Affari La Borsa Italiana perde 21 miliardi (algorittimi scambiano gli ultimi 10 minuti)
+
+			Da Cnh a Saes Getters e Salcef, nel 2024 aumentano i delisting conclusi e annunciati
+			A meno di un accordo dell’ultima ora, giovedì Borsa Italiana conoscerà il primo sciopero della sua storia. I sindacati lamentano la mancata corresponsione degli aumenti contrattuali, ma anche il disinteresse per il Paese da parte del gruppo Euronext.
+
+			Lo sciopero arriva in un momento non facile per Piazza Affari. Come gli altri listini europei, Milano stenta ad attrarre in quotazione aziende di dimensioni medio-grandi, come dimostra la clamorosa retromarcia di Golden Goose a un passo dall’ingresso a Palazzo Mezzanotte. I motivi della carenza di ipo in Europa sono noti e, in gran parte, risalenti nel tempo: il rialzo dei tassi d’interesse, la concorrenza dei fondi di private equity, la mancanza di un mercato unico dei capitali, la logica di brevissimo termine ormai prevalente in Borsa, dove una quota crescente degli scambi di azioni è decisa da algoritmi negli ultimi 10 minuti della seduta con criteri che nulla hanno a che fare con l’andamento dei bilanci.
+
+			Più degli altri listini europei, però, Milano fatica anche a trattenere in Borsa le società gia quotate. Fra 2013 e 2023, stando ai dati forniti al Corriere da Assonime, hanno dato l’addio al mercato principale di Piazza Affari tramite delisting 97 gruppi con una capitalizzazione complessiva ben superiore ai 100 miliardi di euro. E quest’anno, nonostante i record dell’indice Ftse Mib, fra il mercato principale e l’Egm dedicato alla piccole e medie imprese, sono già 22 i delisting conclusi (Tod’s) o annunciati (Saes Getters e Salcef) a Piazza Affari, per un valore totale di circa 28 miliardi.
+
+			Tante uscite hanno motivazioni diverse come un’acquisizione (il passaggio di Saras dai Moratti a Vitol), una riorganizzazione di gruppo (l’opa sulla controllata UnipolSai di Unipol che resterà quotata) o il trasferimento su un altro listino (Cnh a New York). Talvolta, però, specie quando si tratta di aziende medie o piccole, l’addio alla Borsa è frutto anche dell’insoddisfazione per la scarsa attenzione degli investitori e della difficoltà per le società nell’affrontare da quotate piani di trasformazione di lungo periodo. Problemi a cui il legislatore ha inteso ovviare con la Legge Capitali e con la prossima istituzione di un fondo per le pmi quotate partecipato da Cdp. Senza, tuttavia, riuscire a invertire la tendenza di Piazza Affari che, in rapporto al pil, deve ancora recuperare i livelli precedenti alla crisi finanziaria del 2009.
   S
   	SOIA
   		2023.07.19 = Soia, zucchero e olio d’oliva più cari L’effetto di clima e mercati sui prezzi
