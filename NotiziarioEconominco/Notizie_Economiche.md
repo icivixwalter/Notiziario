@@ -50,10 +50,27 @@ NOTIZIE_ECONOMICHE
 
 				A spingere le quotazioni del Bitcoin ha contribuito il lancio di un nuovo prodotto di investimento indicizzato. L’Etf replica l’andamento della criptovaluta, ampliando la platea di potenziali investitori.
 
-			
+	BPM
+		2024
 
+			2024_06_22=Banco Bpm e Numia, vicini al secondo polo per i pagamenti digitali
 
+				La firma entro settembre. Il piano per aggregare nuovi partner
+				Subito dopo l’estate una nuova impresa entrerà nel mondo dei pagamenti italiano. Entro settembre, secondo indiscrezioni, è previsto l’ingresso ufficiale di Banco Bpm nel capitale di Numia, l’ex Bcc Pay, accanto al fondo Fsi e a Iccrea Banca.
 
+				Annunciata lo scorso luglio, l’operazione ha richiesto un lungo lavoro a causa della complessità di trasferire l’infrastruttura di pagamenti di Bpm alla nuova entità. Secondo quanto riportato ieri da «Milano finanza», la procedura dovrebbe ora arrivare a conclusione. Banco Bpm deterrà una quota del 28,6% in Bcc Pay, affiancandosi a Fsi (43%) e Iccrea (28,6%), gruppo a cui aderiscono 117 Bcc con quasi 2.500 sportelli.
+
+				Numia sarà il secondo operatore nazionale dopo Nexi, con una quota di mercato superiore al 10% nella monetica, 9 milioni di carte, 400 mila Pos e 110 miliardi di transato. A quel punto la società lavorerà per coinvolgere nel progetto altri istituti di piccola e media dimensione che ancora non hanno scelto Nexi o la francese Worldline come partner nella monetica o sono prossimi alla scadenza degli accordi. Fra loro figurano per esempio la Popolare di Bari e la Popolare di Sondrio.
+
+				Sopratutto, il nuovo polo dei pagamenti potrà metter a fattor comune le competenze e le risorse dei tre soci per investire sull’innovazione. Il settore dei pagamenti è infatti in forte evoluzione e i concorrenti delle banche non sono più solo gli operatori specializzati e le fintech, ma sempre più anche big tech come Apple e Google.
+
+				Non a caso, in Italia si stanno moltiplicando i progetti di alleanze, industriali e finanziarie. Uno si è appena concretizzato e ha avuto come protagonista lo stesso fondo Fsi che ha investito 75 milioni in Bancomat, diventando primo socio dell’istituto con il 43%.
+
+				L’altro, più volte studiato da analisti e banche d’affari, porterebbe alla fusione fra Nexi e Worldline per dare vita a un campione dei pagamenti europeo. L’aggregazione, che a detta dei più avrebbe senso industriale, dovrebbe superare almeno due scogli. Quello finanziario, dovuto alla differenza di valore fra Nexi e Worldline (7,4 contro 3 miliardi). E quello dell’incertezza politica legato al rapporto tra i governi di Roma e Parigi e all’esito delle elezioni in Francia.
+
+				© RIPRODUZIONE RISERVATA
+
+	
 
 
 # E
