@@ -372,6 +372,20 @@ NOTIZIE_ECONOMICHE
 
 				© RIPRODUZIONE RISERVATA
 
+		2024_07_05 _(MPS BPER IPOTESI DI NOZZE)
+			Mps e Bper, soci in manovra I titoli volano sull’ipotesi nozze  L’Enpam con lo 0,49% a Siena. La rete delle fondazioni per l’ex Pop Emilia Romagna
+
+				Corre il Ftse Italia Banks, corre, e ieri è arrivato di nuovo a superare i 19 mila punti. Le speculazioni sul risiko bancario — alimentate dal derivato stipulato da Unipol per garantirsi un altro 4% su Bper — hanno mandato in fibrillazione i titoli del credito, in particolare quelli che ruotano attorno ai destini del Monte dei Paschi di Siena: Bper ieri ha chiuso a +2%, tenendosi ancora sopra i 5 euro; Mps a +0,96%, Popolare di Sondrio a +0,96%, Unipol a +0,11%, anche se il vero exploit lo ha registrato Unicredit (altra indiziata per le nozze con Siena), che ha sfondato i 37 euro (+1,84%) portandosi a 60 miliardi di capitalizzazione.
+
+
+				Il mercato quindi si è gettato a capofitto sulle banche scommettendo su una ulteriore valorizzazione dei loro titoli, ma anche su possibili combinazioni. Spinto da una parte dalla cessione del 26,7% di Mps in mano al Mef (il 2 luglio è scaduto il lock up) e che servirà a trovare un eventuale partner per Siena; e dall’altra dalla mossa di Unipol, salita così a un potenziale 24,6%.
+
+				Ma il gruppo presieduto da Carlo Cimbri, socio pure di Sondrio, non sarebbe il solo a intravvedere del potenziale nell’ex popolare dell'Emilia Romagna. Da gennaio l’azione ha volato a +65% e negli ultimi mesi c’è chi ha cominciato a prendere posizione nell’azionariato. È il caso di Inarcassa, l’ente previdenziale degli ingegneri, che qualche mese fa ha investito con lo 0,68%; proprio come in Banco Bpm dove ha stretto un patto con altri enti e fondazioni bancarie. Già, le fondazioni: fermo restando il 10,2% in mano a Fondazione di Sardegna, non sono poche quelle che vantano piccole percentuali nella banca emiliana guidata da Gianni Franco Papa. A detenere la quota più rotonda è la Fondazione Carisbo con lo 0,54% a cui seguono Fondazione di Modena (0,17%), CariLucca (0,09%, dopo che Banca Montelucca finì in Carige), Manodori (0,027%) e infine Forlì (0,01%). Al momento non si starebbe ragionando di un patto parasociale come quello che alcune di queste hanno stretto in Banco Bpm, ma non sarebbe da escludere in futuro una valutazione in questa direzione. Le fondazioni infatti sono enti pazienti, in grado di dare stabilità come dimostra il caso Intesa Sanpaolo e di consolidare la compagine in caso di possibili future fusioni su cui il mercato ragiona. E i brillanti andamenti di Borsa sono letti come rivelatori di un possibile matrimonio tra l’ex popolare emiliana e Monte dei Paschi. Con i dovuti tempi.
+
+				L’andamento spedito di Mps — passato dai 2 euro dell’aumento di capitale nell’emergenza del 2022 agli attuali quasi 5 — ha visto il ritorno, anche qui, di un ente previdenziale, nella fattispecie quello dei medici, l’Enpam, che ha acquisito come gestione del risparmio lo 0,49% dell’istituto guidato da Luigi Lovaglio. E, stando a rumors di mercato, non è escluso che si affaccino nuovi azionisti alla ricerca di rendimento. Soprattutto adesso che il Mef potrebbe aprire la finestra per la vendita delle sue quote. Al momento opportuno, come ha ribadito il ministro Giancarlo Giorgetti.
+
+				© RIPRODUZIONE RISERVATA
+
 
 # P
 	
