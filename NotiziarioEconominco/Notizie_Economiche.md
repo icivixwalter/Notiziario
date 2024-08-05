@@ -106,7 +106,40 @@ NOTIZIE_ECONOMICHE
 
 			«l’attuale livello di dividendi è sostenibile e, anzi, io lo prevedo in crescita per il prossimo esercizio per gli anni successivi». Dopo gli utili record, il ceo Massimo Doris si concentra su un adeguato ritorno per i soci di Banca Mediolanum. L’istituto ha infatti chiuso l’esercizio 2023 con un utile netto di 822 milioni, in aumento del 62% rispetto al 2022. Per questo il cda proporrà un saldo dividendo di 0,42 per azione, pari a circa 311 milioni di euro complessivi. Considerando l’acconto di 0,28 euro distribuito a novembre scorso, la cedola complessiva proposta per il 2023 ammonta a 0,70 per azione, per un totale di circa 519 milioni di euro, il 40% in più rispetto al 2022.
 
-	
+	BORSE_MONDIALI
+		2024
+			2024.08.03 	Le borse mondiali tremano: Milano brucia 40 miliardi, Wall Street cede il 3%, il peso dei tassi 
+				Dopo la caduta di giovedì scorso un nuovo clamoroso scivolone dei prezzi dei titoli ha colpito i principali indici azionari mondiali. L’arretramento dei principali listini è significativo: ecco perché
+
+				Le borse mondiali tremano: Milano brucia 40 miliardi, Wall Street cede il 3%, il peso dei tassi
+				Ascolta l'articolo
+				Dopo la caduta di giovedì scorso un nuovo clamoroso scivolone dei prezzi dei titoli ha colpito i principali indici azionari mondiali. Senza arrivare a usare espressioni come il venerdì nero delle Borse, resta il fatto che l’arretramento dei principali listini è significativo: a Parigi il Cac 40 ha chiuso in calo dell’1,61%, a Londra il Ftse 100 dell’1,31%, a Francoforte il Dax 30 è arretrato del 2,33%, mentre Milano, che ha subito le perdite peggiori è giù del 2,55%, che va ad aggiungersi alla perdita del 2,68% registrata giovedì. In due sedute Piazza Affari ha perso circa il 5,23% bruciando oltre 40 miliardi di capitalizzazione, la sua peggiore performance da giugno. Considerando l’indice paneuropeo Stoxx 660 si osserva che a livello settoriale l’andamento peggiore spetta ai titoli della tecnologia (- 6%), seguiti dall’indice dei servizi finanziari (-5,2%) e dalle banche (-4,3%).
+
+				Borse, il venerdì nero di Big tech: Intel affonda (-26%), Wall Street a picco, Milano chiude a -2,6%: cosa succede?
+				di  Redazione Economia
+
+				Borse oggi 2 agosto | Venerdì nero dei mercati: Europa peggiora dopo disoccupazione Usa, Apple tiene, giù Amazon e Intel
+				L’epicentro di questa correzione, tuttavia, va individuato negli Stati Uniti ed è da Wall Street che il «panic selling» si è diffuso a tutti i principali listini mondiali. La caduta dei titoli tecnologici, è stata spesso a doppia cifra, come nel caso di Intel (quasi il 30%) e di Amazon (circa il 12%), mentre Apple ha sostanzialmente tenuto i valori della vigilia.
+
+				Le borse mondiali tremano: Milano brucia 40 miliardi, Wall Street cede il 3%, il peso dei tassi
+				In realtà la caduta di Wall Street coinvolge anche agli indici non tecnologici, come l’S&P500, in calo del 2,2%, il peggior arretramento dal 2022, il Dow Jones, giù di oltre il 2% e il Russell delle medie capitalizzazioni a stelle e strisce, in discesa di oltre il 3,5% in finale di seduta. Gli analisti considerano emblematico il forte calo del Russell 2000 che rappresenta l’ossatura industriale del Paese, segno che la caduta dei tecnologici racconta solo una parte dello scivolone del mercato azionario statunitense.
+
+				Alla base del pessimismo degli investitori ci sono alcuni segnali di recessione fino ad ora sottovalutati dagli economisti ma che sono balzati agli occhi con la comunicazione degli ultimi dati sulla disoccupazione e sulla crescita dei nuovi impieghi nel Paese. Il Dipartimento del lavoro degli Stati Uniti ha infatti comunicato ieri che le imprese hanno creato solo 114mila nuove posizioni a luglio, portando la disoccupazione al 4,3%, contro una stima che accreditava il numero dei senza lavoro al 4,1%. Questi dati segnalano un continuo raffreddamento del mercato del lavoro, ha riferito ieri il Dipartimento del Lavoro degli Stati Uniti. La crescita dell’occupazione totale non agricola a maggio è stata rivista al ribasso di 2mila unità, arrivando a 216mila, e anche la variazione per giugno è stata ridimensionata di 27unità.
+		
+		2024
+			2024.08.03 	Borse, oltre i titoli tecnologici: le occasioni tra farmaceutici e lusso (dopo la frenata di luglio)
+				Il Nasdaq ha già perso il 10 per cento dai massimi. Le soglie da monitorare. Le opportunità di Moncler, Stm, Fincantieri
+
+					START "APRI PDF BORSE MONDIALE IN CADUTA AD AGOSTO" CALL "c:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\PDF\2024_08_03_FRENATA_BORSE_(occasioneFarmaceutici).pdf"
+
+				Listini, dove porta  la frenata di luglio Le occasioni tra lusso e farmaceutici
+				Per i grafici, la correzione è alle porte. Il primo a «profetizzare» una brusca frenata dei listini globali è stato Mike Wilson, responsabile degli investimenti di Morgan Stanley. A inizio luglio affermava come, nello scenario attuale, una correzione del 10% da parte di Wall Street fosse probabile. Non ci è andato molto lontano se pensiamo che dai massimi il Nasdaq 100 ha perso il 10%, mentre l’S&P 500 il 5%, dopo aver toccato il picco di tutti i tempi a metà luglio. I bassi volumi di agosto sono terreno fertile per un ritorno della volatilità, che dai minimi di luglio ha già fatto un balzo superiore al 30%, pur restando sotto la soglia psicologica di 20 punti. La stagione delle trimestrali statunitensi è in corso. Da lì potrebbero giungere notizie in grado di rafforzare il rally che dura da quasi due anni, così come spegnere gli entusiasmi aprendo la strada a una fase di attesa, in vista delle elezioni presidenziali del 5 novembre. Un contesto che spinge gli operatori ad affidarsi meno ai fondamentali e più all’osservazione dei grafici di Borsa, tradizionale strumento di analisi «tattica» e riflesso dello stato psicologico del mercato.
+
+				Tra passaggi di testimone e in ritorno dell’obbligazionario
+				Secondo Filippo Ramigni, a capo dell’ufficio studi di analisi tecnica di Giotto Cellino sim, Wall Street mantiene ancora un’impostazione rialzista. «L’indice S&P deve confermare quota 5.350, mentre il Nasdaq la soglia di 18.500 per non dare fiato a un’inversione di tendenza. Se questo accadrà, il mercato continuerà a salire, ma con una differenza rispetto al passato: la rotazione settoriale, ovvero il passaggio di testimone dai magnifici 7 ai numerosi titoli che sono rimasti indietro». Spazio per nuovi top quindi, ma attenzione: dalla fine di agosto potrebbe tornare il mal tempo. Secondo le serie storiche, infatti, sino a metà ottobre si assiste a una stagionalità negativa per i listini con un’estensione che, nell’anno in corso, potrebbe arrivare fino alle elezioni americane. In questo contesto, la correzione viene vista nell’ordine del 10-15%. Ma se le previsioni per la fine dell’estate non sono favorevoli per l’azionario, clima opposto per l’obbligazionario, che potrebbe tornare protagonista con rendimenti in calo e aumento dei prezzi dei titoli di Stato. In tre parole: fly to quality, continua Ramigni, secondo il quale «il rendimento del T-bond statunitense a 10 anni potrebbe rivedere i minimi di dicembre al 3,8%, così come il Btp a 10 anni ritoccare il 3% di rendimento. Per quanto riguarda gli altri beni rifugio, l’oro sta correggendo in questa fase ma rimane impostato al rialzo, con un target di 2.700 dollari e un supporto in area 2.300, che, a nostro giudizio, rappresenta un’occasione di acquisto».
+				Listini, dove porta  la frenata di luglio Le occasioni tra lusso e farmaceutici
+				Come si muove Piazza Affari
+				Restando nel mondo delle materie prime, i prossimi mesi si annunciano tranquilli per il petrolio che, nel caso del Brent si muove senza grande direzionalità tra 77 e 92 dollari e questo va di pari passo con il cambio euro-dollaro, che sta attraversando una lunga fase laterale. Ma dopo le elezioni statunitensi ci si aspetta un euro più forte con un’estensione fino ad area 1,25. Dulcis in fundo, Piazza Affari. L’indice Ftse Mib da marzo 2024 è in un range tra 32 e 35 mila. È in corso una rotazione settoriale, ma i bancari continuano a tenere nonostante il taglio dei tassi Bce. «Dal punto di vista settoriale – conclude Ramigni – pare essere tornato l’interesse sui titoli farmaceutici. Il lusso è in discesa, ma ciò rappresenta un’opportunità di acquisto, in particolare Moncler che in area 53 euro diventa interessante, mentre Stm ha un supporto rilevante a 30 euro da cui potrebbe ripartire. Il titolo che piace di più è Fincantieri che, post aumento di capitale, potrebbe beneficiare di una situazione simile a quella di Saipem e Monte dei Paschi di Siena, rivitalizzate dopo la ricapitalizzazione. Sarebbe la grande sorpresa di fine anno, con target a 7 euro».
 
 
 # E
@@ -188,31 +221,8 @@ NOTIZIE_ECONOMICHE
 
 			Rinnovato ieri il protocollo tra Fs e ministero della Cultura «per valorizzare ritrovamenti archeologici nei cantieri della rete ferroviaria italiana», dice il ministro Gennaro Sangiuliano.
 
-
-# D
-
-	DE NORA ITALY
+	EL.EN
 		2024
-		2024_06_11_/(PRODUZIONE @IDROGENO@VERDE DELLA DE NORA INSIEME A @SNAM)
-
-		di Fausta Chiesa
-		Idrogeno verde,
-
-		al via la superfabbrica
-
-		di De Nora e Snam
-
-		La produzione a Cernusco a partire da fine 2025
-		cernusco sul naviglio (milano) Sarà la fabbrica di elettrolizzatori e altri componenti per produrre idrogeno verde più grande d’Italia e una delle maggiori in Europa. È la gigafactory che Industrie De Nora sta costruendo con il supporto di Snam (la newco si chiama «De Nora Italy Hydrogen Technologies» o Dniht) a Cernusco sul Naviglio, in provincia di Milano. Ieri è avvenuta la posa della prima pietra.
-
-		«Spesso si abusa del nome di gigafactory — ha dichiarato Federico De Nora, presidente della società — ma questa lo è veramente, con una capacità che raggiungerà i 2 gigawatt equivalenti entro il 2030. Gli elettrolizzatori sono un tassello fondamentale per una corretta transizione energetica». A testimoniare l’importanza di avere in Europa la produzione di una tecnologia per l’idrogeno verde è il riconoscimento ricevuto dall’Unione Europea, che lo ha inserito tra gli Ipcei (Importanti Progetti di Interesse Comune Europeo). Il ministero delle Imprese e del Made in Italy darà un contributo alla spesa: 32 milioni che potranno salire a 63 milioni a fronte di un investimento complessivo di circa cento milioni. A Cernusco nascerà un centro produttivo di circa 25.000 metri quadri, alimentato da pannelli solari e progettato con un’architettura industriale basata su criteri di basso impatto ambientale. A regime, saranno creati 200 posti di lavoro e l’attività ne genererà altri duemila nell'indotto, secondo quanto annunciato. De Nora, che l’anno scorso ha festeggiato i cento anni ed è specializzata in elettrochimica, è tra i leader nella nascente industria dell’idrogeno verde ed è presente con siti produttivi in Usa, Cina, Giappone e Germania. «Questo impianto, che sarà operativo tra fine 2025 e inizio 2026, sarà il più all’avanguardia di tutti», ha precisato De Nora. Il progetto «si inserisce in un più ampio piano di espansione pluriennale della capacità produttiva del gruppo De Nora».
-
-		Ma quali prospettive di mercato ci sono? «Come tutti i settori nuovi — ha dichiarato il ceo di De Nora Paolo Dellachà — è in fase di lancio iniziale. Il costo dell’idrogeno verde dipende dal costo delle rinovabili utilizzate per produrlo e in alcuni Paesi è già competitivo. L’Europa ha un ruolo primario nella corsa verso questa molecola: stime indicano che al 2030 avremo un minimo di cento gigawatt di capacità installata di elettrolizzatori e l’Europa coprirà il 25%/30% della produzione globale». L’amministratore delegato di Snam Stefano Venier ha spiegato quale potrebbe essere un altro utilizzo dell’idrogeno verde, anche questo strumentale alla transizione, cioè quello di conservare per lungo tempo l’energia solare ed eolica: «L’idrogeno consente lo stoccaggio delle rinnovabili, perché quando sono in eccesso o c’è una riduzione significativa del prezzo, la loro trasformazione in molecole di idrogeno consente di poterle stoccare». Valentino Valentini, viceministro delle Imprese e del Made in Italy, intervenendo alla cerimonia, ha delineato lo scenario: «La transizione vedrà un asse tra il Nord Africa e l’Europa. Ci saranno corridoi con le rinnovabili solari che dall’Africa attraverseranno l’Italia e dal Nord Europa avremo l’eolico».
-
-		© RIPRODUZIONE RISERVATA
-
-# E
-	2024
 			2024_06_23=El.En, innovazione e sviluppo organico con i laser del futuro
 
 				Cangioli: troppa incertezza ma cresciamo
@@ -226,13 +236,50 @@ NOTIZIE_ECONOMICHE
 
 				Tra le novità, c’è un laser in grado sia di rimuovere i tatuaggi che di ringiovanire la pelle, visto che l’estetica, con il marchio Esthelogue, ha «un trend di crescita secolare» e con il settore medicale (incluse le applicazioni chirurgiche) rappresentano il 60% del business di El.En.
 
-			
+	ETORO
+		2024
+			2024.08.03 = eToro, la banca di Yoni adesso guarda alla Borsa: a 32 milioni di utenti spieghiamo cos'è il «social investing»
+
+			Nascere bene è importante, ma non basta. Nonno Yehuda costituì negli anni Sessanta del Novecento la Swiss Israel Trade Bank, istituto di diritto svizzero. Il papà, David, è un pioniere nel campo dell’hi-tech in Israele, dove ha fondato Magic e Aladdin. La banca del nonno è sempre stata un esempio su cui riflettere per Roni Assia. «Ricordo che ogni filiale era un mondo a sé, quasi impenetrabile. La sera, chiusi i conti della giornata, c’era un impiegato che faceva il giro delle filiali a raccogliere i documenti e i giustificativi da portare in sede. Faceva il giro in motocicletta, filiale per filiale. Quando ho deciso di fondare eToro ho cercato di fare il lavoro del nonno, solo con le regole dei mercati di mezzo secolo dopo, mettendoci dentro la passione di mio padre per la tecnologia. Ho studiato le opportunità che offre il mondo digitale e ho cercato di utilizzarle. Oggi non si fa più il giro in motocicletta a fine giornata. Tutto è digitale, in tempo reale. E il nostro mercato di riferimento non sono più i cantoni svizzeri, ma il mondo intero».
+
+			Yoni Assia, classe 1981, ha fondato eToro quando aveva 25 anni, nel 2007. Al momento di sceglierne il nome si fece condizionare da due fattori. In primis, voleva richiamare il simbolo del movimento al rialzo della Borsa di Wall Street. Al tempo stesso teneva ad evitare facili e volgari giochi di parole che sarebbero stati quasi immediati utilizzando la lingua inglese. Così si rivolse all’italiano, a quel toro che adesso raccoglie gli interessi di oltre 32 milioni di utenti registrati, presenti in più di 100 paesi con circa 7,5 miliardi di dollari di asset under management. Giovani mediamente tra i venti e i trenta anni che iniziano ad avvicinare il mondo degli investimenti partendo da 500 euro, media del primo versamento, con cui entrano a far parte di una comunità, quella del social investing. Secondo i dati della società, eToro ha una presenza concentrata in Europa e in Gran Bretagna, dove risiede il 73 per cento degli utilizzatori, oltre 23 milioni di clienti, mentre il 12% si colloca nell’area dell’Asia e del Pacifico, l’11% nelle Americhe e solo il 4% tra il Medio Oriente e l’Africa.
+
+			Assia è stato da poco a Milano, dove eToro partecipa al Milan Fintech District, per un tour di promozione che lo ha portato a firmare contratti di sponsorizzazione con importanti società sportive. La sua è una società basata in Israele, con licenza bancaria di Cipro che, sottolinea, sottostà alle regole europee della Mifid. Una garanzia per i 32 milioni di persone che la utilizzano. Il 28 giugno scorso però, l’Autorità Antitrust italiana ha comminato ad eToro una sanzione da 1,3 milioni di euro per pubblicità ingannevole. In estrema sintesi, non è vero che le operazioni sul sito eToro, come recita la pubblicità, sono a costo zero per il risparmiatore. Gli slogan contestati dicevano «Investi in azioni con commissioni pari allo 0%» e «100% azioni, 0% commissioni». Affermazioni che l’Agcm ha verificato essere non vere, al punto che ne ha vietato «la continuazione e la reiterazione con qualsiasi mezzo di diffusione». Da Londra, eToro ha fatto sapere che credono «fermamente nell’importanza della protezione del consumatore e di fornire ai consumatori informazioni esaurienti. Stiamo revisionando la decisione presa dall’Agcm e valutando le nostre opzioni».
+
+			Criptovalute
+			Episodio della pubblicità ingannevole a parte, «quello che differenzia eToro da tutti i concorrenti – dice Assia - è la grande apertura ai mercati e l’approccio didattico, le strategie di investimento condivise, l’entrare a far parte di una community dove si impara – c’è anche l’immancabile Academy – e ci si confronta. Dove si possono copiare le strategie di investimento dei social investor o confrontarsi online con loro sulle varie operazioni». L’apertura ai mercati è un tratto distintivo. «Le statistiche lo dimostrano – dice Assia –: il 99 per cento degli investitori investe sul mercato domestico, di residenza. Lo fa per mancanza di strumenti, perché il broker parla solo delle aziende di casa, per scarsa conoscenza. Invece le opportunità che i mercati offrono sono straordinarie». Osservando il primo trimestre del 2023 sui tre mesi precedenti eToro evidenzia come gli investitori italiani suoi clienti abbiano «scoperto» le società impegnate nello sviluppo dell’intelligenza artificiale. «Le posizioni aperte su Amd, Alphabet, Intel, Microsoft, Nvidia, Sentinel e varie altre sono aumentate in percentuali con doppia cifra». Non mancano le criptovalute, che molta gola fanno ai neofiti in cerca del colpo della vita. Sono circa 80 quelle selezionate.
+
+			«Dobbiamo essere chiari - dice Assia - le criptovalute non devono superare il 3-4% del totale delle attività di un investitore, solo in alcuni casi possiamo spingerci fino al 10%, a seconda della propensione al rischio e dell’età dell’investitore. EToro è una piattaforma unica, ma lo diciamo noi per primi: non è fatta per tutti. Se qualcuno sta cercando attività di tipo previdenziale eToro non è la migliore offerta. Ma in tutti gli altri casi offriamo servizi unici nel panorama mondiale». Partner di Twitter, eToro ha una manifesta ambizione a crescere. Il 2025 potrebbe essere l’anno dello sbarco sui mercati azionari, con la quotazione a Londra o a Wall Street. Al momento, oltre alla famiglia Assia e ad alcuni manager, partecipano il capitale di eToro il gruppo Ion, Softbank Vision fund 2, Velvet Sea ventures e Aglaé ventures, una società di venture capital partecipata dal gruppo Arnault (Lvmh). L’obiettivo è crescere. Anche nell’offerta di servizi. Già oggi in Gran Bretagna è disponibile una card fisica, appoggiata al circuito Visa per i pagamenti di tutti i giorni e per rendere eToro un po’ più simile alla banca di nonno Yehuda.
+# D
+
+	DE NORA ITALY
+		2024
+			2024_06_11_/(PRODUZIONE @IDROGENO@VERDE DELLA DE NORA INSIEME A @SNAM)
+
+			di Fausta Chiesa
+			Idrogeno verde,
+
+			al via la superfabbrica
+
+			di De Nora e Snam
+
+			La produzione a Cernusco a partire da fine 2025
+			cernusco sul naviglio (milano) Sarà la fabbrica di elettrolizzatori e altri componenti per produrre idrogeno verde più grande d’Italia e una delle maggiori in Europa. È la gigafactory che Industrie De Nora sta costruendo con il supporto di Snam (la newco si chiama «De Nora Italy Hydrogen Technologies» o Dniht) a Cernusco sul Naviglio, in provincia di Milano. Ieri è avvenuta la posa della prima pietra.
+
+			«Spesso si abusa del nome di gigafactory — ha dichiarato Federico De Nora, presidente della società — ma questa lo è veramente, con una capacità che raggiungerà i 2 gigawatt equivalenti entro il 2030. Gli elettrolizzatori sono un tassello fondamentale per una corretta transizione energetica». A testimoniare l’importanza di avere in Europa la produzione di una tecnologia per l’idrogeno verde è il riconoscimento ricevuto dall’Unione Europea, che lo ha inserito tra gli Ipcei (Importanti Progetti di Interesse Comune Europeo). Il ministero delle Imprese e del Made in Italy darà un contributo alla spesa: 32 milioni che potranno salire a 63 milioni a fronte di un investimento complessivo di circa cento milioni. A Cernusco nascerà un centro produttivo di circa 25.000 metri quadri, alimentato da pannelli solari e progettato con un’architettura industriale basata su criteri di basso impatto ambientale. A regime, saranno creati 200 posti di lavoro e l’attività ne genererà altri duemila nell'indotto, secondo quanto annunciato. De Nora, che l’anno scorso ha festeggiato i cento anni ed è specializzata in elettrochimica, è tra i leader nella nascente industria dell’idrogeno verde ed è presente con siti produttivi in Usa, Cina, Giappone e Germania. «Questo impianto, che sarà operativo tra fine 2025 e inizio 2026, sarà il più all’avanguardia di tutti», ha precisato De Nora. Il progetto «si inserisce in un più ampio piano di espansione pluriennale della capacità produttiva del gruppo De Nora».
+
+			Ma quali prospettive di mercato ci sono? «Come tutti i settori nuovi — ha dichiarato il ceo di De Nora Paolo Dellachà — è in fase di lancio iniziale. Il costo dell’idrogeno verde dipende dal costo delle rinovabili utilizzate per produrlo e in alcuni Paesi è già competitivo. L’Europa ha un ruolo primario nella corsa verso questa molecola: stime indicano che al 2030 avremo un minimo di cento gigawatt di capacità installata di elettrolizzatori e l’Europa coprirà il 25%/30% della produzione globale». L’amministratore delegato di Snam Stefano Venier ha spiegato quale potrebbe essere un altro utilizzo dell’idrogeno verde, anche questo strumentale alla transizione, cioè quello di conservare per lungo tempo l’energia solare ed eolica: «L’idrogeno consente lo stoccaggio delle rinnovabili, perché quando sono in eccesso o c’è una riduzione significativa del prezzo, la loro trasformazione in molecole di idrogeno consente di poterle stoccare». Valentino Valentini, viceministro delle Imprese e del Made in Italy, intervenendo alla cerimonia, ha delineato lo scenario: «La transizione vedrà un asse tra il Nord Africa e l’Europa. Ci saranno corridoi con le rinnovabili solari che dall’Africa attraverseranno l’Italia e dal Nord Europa avremo l’eolico».
+
+			© RIPRODUZIONE RISERVATA
+
+
+	
 
 # F
 	FINCANTIERI
-					2023.05.01_@Fincantieri@2023_(Fincantieri ...)
+					
 		2023
-			Fincantieri, il fatturato sale a 1,7 miliardi Focus su nuove tecnologie
+			2023.05.01_@Fincantieri@2023_(Fincantieri ...) Fincantieri, il fatturato sale a 1,7 miliardi Focus su nuove tecnologie
 							2023.05.01_@Fincantieri@fatturato@2023_(Fincantieri nel 2023 fatturato a 1,7 miliardi)_@navi@speciali
 
 				Un carico di lavori pari a 34 miliardi, circa 4,6 volte il fatturato del 2022 e nuovi ordini per 900 milioni. Il consiglio di amministrazione di Fincantieri presieduto dal generale Claudio Graziano ha approvato i dati del primo trimestre. Numeri in linea con le previsioni che permettono al ceo Pierroberto Folgiero di guardare all’anno in corso con ottimismo: «La performance operativa attesa per l’anno ci consentirà di consolidare i ricavi e la marginalità che, uniti a un portafoglio ordini robusto e a un ebitda in miglioramento, confermano che la società è solida nel business tradizionale e proiettata sulle nuove tecnologie».
@@ -260,6 +307,27 @@ NOTIZIE_ECONOMICHE
 				La speculazione ha fornito materiale d’esercizio per gli analisti. Per Banca Akros ad esempio «l’operazione, seppur di dimensioni rilevanti, ha senso per Zurich, che potrebbe colmare il gap con i suoi concorrenti in Italia (Generali e Allianz), puntando su una delle migliori reti e piattaforme tecnologiche scalabili in Italia e all’estero». Citi entra nei dettagli dell’ipotetico merger e osserva: «Fineco è regolamentata dalla Bce e questo potrebbe rendere più facile e probabile una combinazione industriale rispetto a una transazione puramente finanziaria». Fineco è una public company e i suoi principali azionisti sono BlackRock (9,2%), Capital Research (5%) e Fmr (3,9%), sono dunque necessarie autorizzazioni di Bankitalia per superare il 9,9% di partecipazione. Inoltre «una potenziale acquisizione potrebbe costare circa 12 miliardi di euro, per un costo pre sinergie pari a 20 volte l’ebitda (l’utile netto 2023 è 608 milioni, ndr). Zurich potrebbe permettersela senza un aumento di capitale, ma i buyback ricorrenti sarebbero meno probabili». Pure Equita vede «plausibile» l’ipotesi di un «conferimento della banca da parte di Zurich per ottenere una partecipazione di minoranza in Fineco, unito a un accordo assicurativo». La mossa «darebbe maggior stabilità all’azionariato, anche se ridurrebbe leggermente l’appeal speculativo».
 
 				© RIPRODUZIONE RISERVATA
+
+	FINNAT
+		2024
+
+			2024_08.03_FINNAT = Addio a Nattino, il banchiere protagonista della finanza romana
+
+			È mancato a Roma oggi, all’età di 89 anni, Giampietro Nattino, presidente onorario di Banca Finnat e uno dei principali esponenti del mondo bancario romano. Nattino è stato il protagonista dello sviluppo della Banca Finnat Euramerica creata nel 1898 dal nonno Pietro, e cresciuta attraverso una lunga esperienza maturata prima come Studio professionale di agenti di cambio, poi come finanziaria e poi commissionaria di Borsa, quindi come Sim e infine, dal 12 febbraio 1998, come gruppo bancario.
+
+
+			Con 120 anni di storia, l’istituto oggi è guidato dalla quinta generazione della famiglia fondatrice, con amministratore delegato Arturo Nattino, figlio di Giampietro.
+
+			Il banchiere romano è stato un punto di riferimento dei grandi gruppi cresciuti dalla Capitale in tutta Italia e all’estero, nomi come il gruppo Webuild della famiglia Salini seguendo tutte le tappe della sua evoluzione, o come quello del gruppo Caltagirone.
+
+			Banca Finnat è sempre stata un riferimento per i grandi patrimoni delle dinastie capitoline e vicina al mondo della finanza cattolica. Nattino lascia quattro figli tutti impegnati in banca: oltre ad Arturo, ci sono Andrea che è il responsabile della finanza, Giulia (siede in consiglio) e Paola (relazioni esterne).
+
+			«Con immenso dolore Banca Finnat rende nota la scomparsa del Presidente Onorario Giampietro Nattino, che lascia un grande e incolmabile vuoto» si legge in un comunicato diffuso dall’istituto», ha scritto la banca in una nota. «L’amministratore delegato Arturo Nattino, il consiglio di amministrazione, il collegio sindacale, i dirigenti e tutti i dipendenti della Banca e del Gruppo Banca Finnat Euramerica ne ricordano con commozione le straordinarie doti umane e professionali che lo hanno da sempre contraddistinto nella sua lunga carriera», ha proseguito la nota.
+
+			Laurea in Economia e Commercio all’Università di Roma, Nattino era Cavaliere del Lavoro e Cavaliere di Gran Croce della Repubblica Italiana ed è stato Membro del Comitato Euro (Ministero del Tesoro Sottocomitato Finanza).
+
+			Nel corso della sua carriera ha ricoperto numerose cariche di rilievo, tra le quali quella di presidente di Unione Immobiliare, di Uniorias Due, di Pirelli Cavi e Sistemi Telecom e di Sodali. È stato inoltre consigliere di amministrazione di: Buitoni Perugina, Interfund, Società Cattolica di Assicurazione, Pirelli & C. Real Estate, Generali Investimenti Alternativi Sgr SpA, Banque Privée Fideuram Paris, Ina Assitalia, Banca Fideuram, Generali Sgr e London Stock Exchange plc London. Tra gli altri incarichi è stato anche consigliere dell’ Accademia Filarmonica Romana e consigliere della Fondazione per il Tuo cuore Onlus.
+
 
 # G
 	
@@ -499,26 +567,6 @@ NOTIZIE_ECONOMICHE
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # H  ...
 
 # I
@@ -692,7 +740,17 @@ NOTIZIE_ECONOMICHE
 			A pesare sullo scenario mondiale è il clima secco che negli Stati Uniti mette a repentaglio i raccolti. «Il caldo è un nemico dell’inflazione: il fatto di avere un numero insufficiente di invasi e una ampia dispersione dell’acqua nelle condutture è qualcosa che non aiuta in termini di efficienza e quindi in termini del mantenimento dei prezzi bassi dei prodotti agricoli, come verdura e frutta», ha analizzato Gregorio De Felice, chief economist di Intesa Sanpaolo alla presentazione del monitor dei distretti che vede in cima la gomma del Sebino Bergamasco, seguita dal Prosecco di Conegliano Valdobbiadene e poi dai vini e distillati del Friuli.
 
 				@Olio@di@oliva@soia@zucchero_(aumento dei prezzi di alcune @commodis a cusa della @siccita con aumento della @frutta e @verdura)
+	SATISPAY
+		2024
+			2024.08.03 	Satispay, non solo pagamenti: pronta a sbarcare nella finanza con una piattaforma di investimenti di Redazione Economia
+				La nuova funzione potrebbe diventare operativa a partire dal 2025. Satispay conta più di 4 milioni di utenti attivi e circa un milione di loro utilizzano la funzione del «salvadanaio digitale»
 
+				Satispay si prepara a diventare anche una piattaforma di investimenti. La fintech italiana di pagamenti digitali ha dato il via al processo in Lussemburgo per ampliare i propri servizi e per consentire agli utenti di sottoscrivere prodotti di investimento tramite l’app. Ad anticipare la notizia è Milano Finanza, secondo cui «il gruppo italiano ha optato per la creazione ad aprile di un veicolo ad hoc nel Granducato, chiamato Satispay Invest, che risponderà alla capogruppo Satispay spa». La nuova funzione potrebbe diventare operativa a partire dal 2025.
+				Oltre 4 milioni di utenti attivi Secondo quanto trapelato finora, Satispay n0n intende stringere delle partnership esclusive ma scegliere una serie di prodotti finanziari da integrare nella propria app e potenziare in futuro. Satispay, ad oggi, conta più di 4 milioni di utenti attivi e circa un milione di loro utilizzano la funzione del «salvadanaio digitale» per mettere da parte i loro risparmi. Proprio questo successo ha portato l’azienda a voler esplorare nuovi servizi per aiutare i clienti a gestire al meglio i loro risparmi.  pagamenti digitali Satispay apre ai minorenni: così la «paghetta» per gli under 18 diventa digitale
+				di  Valentina Iorio
+				Satispay
+				L’accordo con Iren
+				Il gruppo nel 2023 è entrato anche nel mondo dei buoni pasto digitali. E vuole continuare a crescere anche su questo fronte, come dimostra il recente accordo con Iren che ha portato all'adozione dei buoni Satispay in un gruppo con oltre 11.000 dipendenti.  I buoni pasto di Satispay sono accettati in oltre 70.000 punti vendita in tutta Italia.
 
 # U
 	UNICREDIT
