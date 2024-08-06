@@ -50,6 +50,17 @@ NOTIZIE_ECONOMICHE
 
 				A spingere le quotazioni del Bitcoin ha contribuito il lancio di un nuovo prodotto di investimento indicizzato. L’Etf replica l’andamento della criptovaluta, ampliando la platea di potenziali investitori.
 
+	CONIO_BITCOIN
+			2024_08_06 (CONIO GESTIONE BITCOIN)
+			Bitcoin, dal tandem Conio-Mesh nasce il primo open banking in Europa
+				di Gabriele Petrucciani
+				L’integrazione di Mesh all’interno dell’App Conio consente la connessione diretta con dieci importanti piattaforme
+
+				Un punto di accesso unico al mondo crypto
+				La fintech italiana Conio (partecipata da Poste Italiane e Banca Generali) e quella americana Mesh danno vita al primo open banking per bitcoin in Europa: un punto di accesso unico a tutto il mondo crypto, connesso con le principali piattaforme di scambio di asset digitali. «La nostra missione è rendere il mondo degli asset digitali accessibile e sicuro per tutti – commenta Christian Miccoli, amministratore delegato e fondatore di Conio –. Questa collaborazione con Mesh è un passo fondamentale verso il consolidamento di un ecosistema integrato, che semplifica l’uso della tecnologia di custodia sicura di Conio».
+
+
+
 	BPM
 		2024
 
