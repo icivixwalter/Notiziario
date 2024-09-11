@@ -111,6 +111,27 @@ NOTIZIE_ECONOMICHE
 						La vera partita persa dalle telecomunicazioni si è consumata anni fa, quando non sono riuscite a occupare una parte dei servizi da Over the top come la musica o i video. La stessa Vodafone mondo, pur essendo un colosso, non ha creduto nel valore dei contenuti entrando in campo solo quando si muovevano i diretti competitor.
 
 						La profezia della rete stupida si è avverata. Ma questo ha reso ricche le Big tech che in questi venti anni sono diventati nuovi potenti datori di lavoro diretto. Lo spiegava Keynes: il nuovo ciclo tecnologico distrugge vecchi imperi ma ne crea di nuovi. Il difficile è capire quando fare il salto.
+	BANCHE
+		2024
+			2024_09_04_(Banche, le top ten in Italia quest’anno distribuiranno oltre 16 miliardi di cedole)
+				Che il 2024 fosse destinato a essere un buon anno per le banche non erano in molti a crederlo. Che addirittura potesse superare il 2023 — l’anno «punito» con la tassa sugli extraprofitti — era addirittura impensabile. E invece, nonostante leggi e volatilità, chi ha scommesso sugli istituti di credito è stato ancora una volta premiato. Nei giorni scorsi un report della Fabi ipotizzava per quest’anno 45-50 miliardi di utili lordi per le prime sei banche italiane, in crescita tra i 5 e 10 miliardi rispetto ai 40,6 miliardi di profitti del 2023. Un traguardo alla portata, se si pensa che i primi sei mesi si sono chiusi con quasi 13 miliardi di utili (+19,5% rispetto allo stesso periodo 2023).
+
+				Viene quindi automatico guardare, a questo punto, anche alla distribuzione di questi risultati. Secondo un’analisi di Kearney per il Corriere della Sera, le prime dieci banche commerciali tricolori prese in esame dalla boutique finanziaria 
+				(	Unicredit, 
+					Intesa, 
+					Mps, 
+					Banco Bpm, 
+					Bper, 
+					Credem, 
+					Pop Sondrio, 
+					Crédit Agricole, 
+					Fineco, 
+					Mediolanum) 
+
+				l’anno scorso hanno distribuito 14,3 miliardi di dividendi, oltre a 6,5 miliardi di buyback. «E per quest’anno ci si può attendere una distribuzione di circa il 13-15% in più, considerando i dati pubblicati nelle semestrali e le guidance relative, e senza tenere conto di ulteriori politiche di riacquisti azionari», osserva Roberto Freddi, Europe Head of Financial Services Kearney di Kearney. Tradotto: 16,1 miliardi.
+
+				Alla luce dei buoni profitti attesi, i banchieri hanno deciso di ritoccare la remunerazione dei soci, anche perché il 2024 doveva essere l’anno del repentino e profondo taglio dei tassi di interesse da parte della Bce, cosa che invece non si è verificata. Gli istituti di credito però avevano già tarato la macchina sul contenimento dei costi e sullo sfruttamento delle commissioni: due fattori che, uniti a un’attenta politica di gestione del credito e al margine di interesse ancora alto, hanno spinto i conti. Se si guarda ai tagli dei tassi, infatti, il 2024 presenta una media di costo del denaro di 50 punti base superiore a quella del 2023, pari al 3,80%. Secondo le ipotesi di Kearney le banche più generose con i propri azionisti rimarranno Intesa Sanpaolo e Unicredit con circa 6 miliardi di dividendi senza considerare buyback; a seguire Banco Bpm con 1,2 miliardi, Mediolanum con 600 milioni, Fineco con 500 milioni, Bper con 450 milioni e Crédit Agricole con 400 milioni, Pop Sondrio con 300 e Credem con 200. Con la «bonanza» varrà anche nel resto d’Europa: per Bloomberg dieci tra i principali istituti di credito del Vecchio continente restituiranno agli azionisti 50,02 miliardi di euro. Francoforte intanto ieri ha ripetuto di non abbassare la guardia: le banche «devono usare analisi di scenario e tenere conto delle incertezze nella loro pianificazione del capitale. Potrebbero anche dover rivalutare le loro esposizioni geografiche e le strategie di esternalizzazione», ha consigliato la responsabile della vigilanza
+
 	BANCA MEDIOLANUM
 		2024
 			2024_02_10_(Profitti su del 62% Banca Mediolanum, il dividendo sale del 40%)
@@ -152,6 +173,10 @@ NOTIZIE_ECONOMICHE
 				Come si muove Piazza Affari
 				Restando nel mondo delle materie prime, i prossimi mesi si annunciano tranquilli per il petrolio che, nel caso del Brent si muove senza grande direzionalità tra 77 e 92 dollari e questo va di pari passo con il cambio euro-dollaro, che sta attraversando una lunga fase laterale. Ma dopo le elezioni statunitensi ci si aspetta un euro più forte con un’estensione fino ad area 1,25. Dulcis in fundo, Piazza Affari. L’indice Ftse Mib da marzo 2024 è in un range tra 32 e 35 mila. È in corso una rotazione settoriale, ma i bancari continuano a tenere nonostante il taglio dei tassi Bce. «Dal punto di vista settoriale – conclude Ramigni – pare essere tornato l’interesse sui titoli farmaceutici. Il lusso è in discesa, ma ciò rappresenta un’opportunità di acquisto, in particolare Moncler che in area 53 euro diventa interessante, mentre Stm ha un supporto rilevante a 30 euro da cui potrebbe ripartire. Il titolo che piace di più è Fincantieri che, post aumento di capitale, potrebbe beneficiare di una situazione simile a quella di Saipem e Monte dei Paschi di Siena, rivitalizzate dopo la ricapitalizzazione. Sarebbe la grande sorpresa di fine anno, con target a 7 euro».
 
+# C
+		CHINA CSSC HOLDINGS
+			2024_09_04_(Cina, mega fusione nel navale   China Cssc Holdings)
+				Mega fusione nelle costruzioni navali statali in Cina. China Cssc Holdings assorbirà la più piccola China Shipbuilding Industry Corporation. Le due controllate di China State Shipbuilding Corporation creano una nuova entità da 38 miliardi di dollari di capitalizzazione, consolidando la Cina come big mondiale del settore.
 
 # E
 	ENEL
@@ -196,6 +221,26 @@ NOTIZIE_ECONOMICHE
 					Le aste sono gestite da Acquirente Unico, società del gruppo pubblico Gse (Gestore dei servizi energetici). Il meccanismo prevede che i partecipanti si sfidino su un solo valore, il costo di commercializzazione. Chi offre il prezzo più basso (che potrebbe anche essere negativo pur di vincere) si vedrà assegnare il lotto, con un limite massimo di sette lotti e il 30 per cento a livello nazionale. Di fatto, non è un’asta vera e propria: l’offerta è fatta a busta chiusa a turno unico. L’11 gennaio sarà comunicato ai partecipanti l’esito provvisorio e si svolgerà un’eventuale asta di riparazione per i lotti non assegnati, perché, per esempio, un’azienda ne ha vinti più del tetto massimo o in caso di offerte ritenute non valide. Il 6 febbraio sarà comunicato l’esito. A seconda del lotto a cui si appartiene, i casi sono due: si può restare con il vecchio fornitore o passare a una nuova azienda. Chi ha la bolletta addebitata sul conto corrente può anche non cambiare la domiciliazione in quanto il governo ha previsto il trasferimento automatico del Rid.
 
 					Dal primo luglio, solo i «vulnerabili» — chi ha più di 75 anni, i disabili, chi vive in condizioni economicamente svantaggiate e chi è in gravi condizioni di salute che richiedono l’utilizzo di apparecchiature medico-terapeutiche alimentate dall’energia elettrica — potranno continuare a restare nella tutela.
+	ENI
+		2024
+			2024_09_18_(Eni e Snam, parte il progetto CO2 Viene imprigionata in fondo al mare)
+
+				L’Italia, primo Paese dell’Unione europea, ha cominciato a interrare l’anidride carbonica. È partita l’attività di cattura e stoccaggio di CO² di Eni, che ieri ha annunciato le prime iniezioni a Ravenna assieme a Snam, con cui ha una joint venture paritetica. Si tratta di un calcio d’inizio, che pone il nostro Paese all’avanguardia visto che a oggi soltanto la Norvegia cattura e stocca la CO² a scopo ambientale e non a scopo industriale.
+
+				L’avvio riguarda la prima fase del progetto «Ravenna Ccs» che punta a «decarbonizzare» la centrale Eni di trattamento del gas naturale di Casalborsetti, nel comune di Ravenna, che emette circa 25 mila tonnellate all’anno. Dopo essere stata catturata da Eni, la CO² viaggia con Snam attraverso condotte precedentemente utilizzate per il trasporto del gas e poi riconvertite, arriva alla piattaforma offshore di Porto Corsini Mare Ovest dove viene iniettata dal Cane a sei zampe nel giacimento esaurito a circa 3.000 metri di profondità.
+
+				«Un progetto di grande importanza per la decarbonizzazione — dice il ceo di Eni Claudio Descalzi — è diventato realtà industriale. La cattura e lo stoccaggio della CO² è una pratica efficace, sicura e disponibile fin da ora per abbattere le emissioni delle industrie energivore le cui attività non sono elettrificabili. Utilizziamo i nostri giacimenti esauriti, le nostre infrastrutture esistenti e il nostro know-how nelle tecniche di reiniezione per offrire un servizio molto competitivo per il quale stiamo riscuotendo un grandissimo interesse».
+
+				«L’impegno nel progetto Ravenna Ccs — spiega Stefano Venier, ceo di Snam — è coerente con la nostra intenzione di porci quale operatore multi-molecola per abilitare una transizione energetica giusta ed equilibrata, nell’ambito della quale offrire anche ai soggetti più energivori la possibilità di intraprendere percorsi di decarbonizzazione che ne preservino la competitività. Per farlo, facciamo leva sulle nostre storiche competenze nel trasporto e nello stoccaggio di molecole, con particolare riferimento all’area padana, nella quale siamo già radicati con asset strategici che da decenni sostengono lo sviluppo economico e sociale del Paese».
+
+				Il livello di abbattimento delle emissioni — riporta la nota — è superiore al 90% (con punte fino al 96%) della CO² e questo avviene in «condizioni più severe a oggi riscontrabili dal punto di vista industriale. Performance che collocano Ravenna Ccs come il primo progetto al mondo su scala industriale con tale efficienza di cattura». Poi scatterà la seconda fase, vale a dire lo sviluppo su scala industriale, con l’obiettivo di stoccare fino a quattro milioni di tonnellate l’anno entro il 2030.
+
+				Ravenna, per la sua posizione geografica, per la disponibilità dei giacimenti esausti al largo della costa e per l’infrastruttura di cui si è dotata, è vista come il polo italiano per la decarbonizzazione delle industrie energivore cosiddette «hard to abate» come cementifici, acciaierie, raffinazione, chimica, carta, vetro e ceramica. Grazie alla capacità di stoccaggio dei giacimenti di gas esauriti dell’Adriatico, i volumi immagazzinabili nel sottosuolo potranno raggiungere i sedici milioni di tonnellate all’anno. La domanda ci sarà?
+
+				Il Cane a sei zampe ha calcolato che mediamente il costo industriale di tutte e tre le fasi della Ccs di Ravenna (e dei progetti che ha in corso nel Regno Unito) è di meno di 80 euro a tonnellata, ai quali va aggiunto un mark up. In questi giorni il prezzo di una tonnellata di CO² sul mercato degli Ets è di poco sopra a 72 euro a tonnellata, ma con la transizione è previsto salire sopra i 100 euro dopo il 2030 e sopra 150 euro nel 2050. Nei prossimi anni il costo della Ccs potrebbe eguagliare quello dei diritti a emettere ed eventuali incentivi o contratti per differenza che i governi vorranno prevedere potrebbero far decollare il business. E va considerato anche che le quote assegnate gratuitamente da Bruxelles agli energivori dal 2026 saranno progressivamente eliminate.
+
+
+
 	EXON E CHEVORN
 		2024
 			2024_02_03_Exxon e Chevron_(forti utili anche con il calo del petrolio - utile 36 miliardi)
@@ -581,6 +626,30 @@ NOTIZIE_ECONOMICHE
 # H  ...
 
 # I
+	IDROGENO
+		2024
+			2024_02_10_(Idrogeno, 10 milioni di tonnellate di import entro il 2030: i 5 corridoi europei)
+
+				Idrogeno, 10 milioni di tonnellate di import entro il 2030: i 5 corridoi europei
+				di Valentina Iorio
+				A fare il punto sulle prospettive di sviluppo del vettore energetico è uno studio del research department di Intesa Sanpaolo
+				Idrogeno, 10 milioni di tonnellate di import entro il 2030: i 5 corridoi europei
+				Due dei cinque corridoi europei (fonte: European
+				Hydrogen Backbone)
+
+				Entro il 2030 la produzione mondiale di idrogeno verde dovrebbe arrivare a  38 milioni di tonnellate. I progetti finora annunciati si concentrano
+				in Europa (30%) e in Australia (20%) e nuovi progetti sono previsti in Cina, Stati Uniti, Africa, India e America Latina. Negli Stati Uniti i progetti annunciati sono per ora limitati ma la Clean Hydrogen strategy and Roadmap prevede la produzione di 10 milioni di tonnellate di idrogeno rinnovabile al 2030, che diventeranno 40 milioni di tonnellate nel 2040 e 50 milioni di tonnellate nel 2050. A fare il punto sulle prospettive di sviluppo del vettore energetico è uno studio del research department di Intesa Sanpaolo.
+
+
+				I 5 corridoi europei
+				Per raggiungere questi obiettivi serve una nuova rete infrastrutturale per il trasporto dell’idrogeno. Rete che in parte si baserà sui gasdotti esistenti, che verranno adattati, e in parte sui 5 nuovi corridoi previsti dalla European Hydrogen Backbone che sono: corridoio A - Nord Africa ed Europa meridionale, struttura realizzata in Italia per più del 90%,  corridoio B -Europa sud-occidentale e Nord Africa, corridoio C - Mare del Nord, corridoio D- Regioni nordiche e baltiche e corridoio E - Europa orientale e sud-orientale. A maggio i governi di Italia, Germania e Austria hanno firmato una dichiarazione di intenti per accelerare lo sviluppo di un corridoio di importazione di idrogeno che colleghi i tre Paesi.
+				Il ruolo dei porti
+				L’European Hydrogen Backbone coinvolge 33 costruttori di gasdotti provenienti da 25 paesi membri e che l’Italia avrà un ruolo strategico di connessione tra Europa e impianti di produzione di idrogeno a basso costo da paesi extra Ue. «Per il trasferire l’idrogeno oltre i 2.500 km di
+				distanza può essere più efficace, per motivi di sicurezza e costo, la sua trasformazione in forme più dense o liquide (o con liquidi organici vettori di idrogeno LOHC) e il suo trasporto in cisterne via mare», evidenzia il report di Intesa Sanpaolo. In questa ipotesi non sarebbero necessarie solo navi cisterna dedicate, ma anche infrastrutture portuali per la conversione/riconversione dell’idrogeno a seconda che si tratti di
+				porti di importazione e di esportazione. Attualmente sono 150 i terminal portuali in grado di accogliere vettori di ammoniaca e altri progetti sono stati annunciati per i vettori di idrogeno liquefatto.
+
+
+
 	ITALIA
 		2024
 			2024_02_10_(L’Italia hub per il gas dall’Algeria alla Germania)
@@ -681,9 +750,16 @@ NOTIZIE_ECONOMICHE
 
 				© RIPRODUZIONE RISERVATA
 
+# N
+	NVIDIA
+		2024
+			2024_09_04_(Nvidia nel mirino, a Wall Street perde oltre il 7%)
 
-# P
-	
+
+				A guidare i cali borsistici ieri a Wall Street è stato il comparto dei chip e in particolare il titolo di Nvidia che ha perso oltre il 7% nel corso della seduta, dopo che le vendite totali dei semiconduttori sono diminuite dell’11% a luglio, rispetto al mese precedente. A pesare per Nvidia sono sempre i risultati trimestrali e le stime per il trimestre in corso.
+
+
+				
 	PETROLIO
 				2023_05_03_@Petrolio@2023_(CROLLO IL PREZZO DEL PETROLIO A 72,00)
 
@@ -762,6 +838,19 @@ NOTIZIE_ECONOMICHE
 				Satispay
 				L’accordo con Iren
 				Il gruppo nel 2023 è entrato anche nel mondo dei buoni pasto digitali. E vuole continuare a crescere anche su questo fronte, come dimostra il recente accordo con Iren che ha portato all'adozione dei buoni Satispay in un gruppo con oltre 11.000 dipendenti.  I buoni pasto di Satispay sono accettati in oltre 70.000 punti vendita in tutta Italia.
+	SKILLVUE
+		2024
+			2024_09_04_(Intelligenza artificiale Luigi Berlusconi punta sulle risorse umane, 2,5 milioni in Skillvue)
+				Nuovo investimento nelle startup italiane per Luigi Berlusconi. Attraverso la società veicolo Ithaca 3, Luigi Berlusconi e Giorgio Valaguzza hanno preso parte all’aumento di capitale da 2,5 milioni di Skillvue, piattaforma che applica l’intelligenza artificiale alla selezione del personale.
+
+				L’operazione da 2,5 milioni di euro è stato guidata da Italian founders fund, il primo fondo italiano di venture capital creato da fondatori di startup e guidato da Lorenzo Franzi, e 14Peaks capital di Edoardo Ermotti, figlio del ceo del colosso bancario svizzero Ubs, Sergio Ermotti. Al round hanno partecipato anche Orbita verticale, il fondo spagnolo Kfund e diversi Business Angels.
+
+				Fondata a Milano nel 2021 da Nicolò Mazzocchi (classe 1999) e Simone Patera (classe 1991), Skillvue è una startup che permette alle aziende di analizzare le competenze di candidati e dipendenti in maniera rapida, utilizzando l’AI nella fase di selezione. La piattaforma porta avanti delle interviste asincrone finalizzate a valutare le competenze e la motivazione dei candidati e poi supporta i dipartimenti delle risorse umane nell’analizzare su larga scala le capacità della forza lavoro e basare le scelte riguardo all’assegnazione di mansioni e promozioni su dati oggettivi e parametrizzati.
+
+				Skillvue ha clienti nei settori retail, grande distribuzione, bancario e assicurativo, ma collabora anche con la Pubblica Amministrazione. Tra i clienti ci sono il colosso francese dei supermercati Carrefour, Credem e Acquedotto pugliese. Ha sede a Milano e conta su un team di 13 persone. «L’iniezione di capitale ci consentirà di potenziare il nostro team con figure strategiche soprattutto nell’area dell’AI, di espanderci sul mercato italiano, di approcciarci al mercato estero», ha spiegato Mazzocchi, ceo di Skillvue.
+
+				Luigi Berlusconi è azionista di diverse startup, in proprio o attraverso la holding H14, compartecipata dalle sorelle Barbara ed Eleonora. Nel portafoglio del più giovane dei figli di Silvio Berlusconi figurano, fra le altre, aziende come Jakala, Satispay, Westwing, Deliveroo e Qualifyze.
+
 
 # U
 	UNICREDIT
@@ -781,3 +870,39 @@ NOTIZIE_ECONOMICHE
 
 		2024
 
+
+
+	URANIO
+		2024
+			2024_09_03_(Uranio ai minimi da dieci mesi)
+				I prezzi dell’uranio calano sotto gli 80 dollari per libbra, il livello più basso da novembre 2023, per le minori preoccupazioni circa l’offerta globale. Gli investitori scommettono sulla capacità degli Stati Uniti di produrre uranio arricchito dopo il divieto di importazione dalla Russia.
+
+
+# V
+	VIVENDI
+		2024
+			2024_09_04_(vivendii dossier tim lo spezzatino viene dopo)
+				«Sono felice di investire in un grande Paese come l’Italia e accompagnare l’équipe di Telecom Italia nel lungo termine», dichiarò Vincent Bolloré nel 2014 all’atto dell’ingresso di Vivendi nel capitale della compagnia telefonica. Dieci anni più tardi, per quanto lungo, quel termine pare scaduto. Per Vivendi il 23,75% di Tim è in vendita; spetterà a Yannick Bolloré, il figlio del finanziere bretone che dal 2022 è al timone, trovare un compratore. Un compito non semplice, da sbrigare in una fase delicata per il colosso dei media francese.
+
+				Il 44enne Bolloré è infatti alle prese con un radicale piano di riorganizzazione. Dopo aver tentato a lungo e invano di convincere il mercato di essere un gruppo unico e complementare, Vivendi ha infine accettato la percezione prevalente fra gli investitori: quella di un conglomerato di attività industriali diverse. Di conseguenza, Vivendi ha deciso di farsi in quattro per far emergere il valore delle sue parti. Il progetto prevede tre scorpori con altrettante quotazioni in Borsa. Canal+, piattaforma tv con 25,7 milioni di abbonati, approderà a Londra. L’agenzia pubblicitaria Havas è in rotta per la piazza di Amsterdam e il gruppo editoriale Louis Hachette è destinato al listino francese. A Parigi resterà anche Vivendi che si trasformerà così in una pura holding di partecipazioni, fra cui il 10% di Universal Music. La quota nella major vale da sola oltre quattro miliardi, quasi metà dei dieci miliardi di capitalizzazione di Borsa della casa-madre, a riprova della sottovalutazione di Vivendi.
+
+				La campagna tricolore
+
+				Nella holding finanziaria rimarranno anche i frutti della campagna d’Italia di Vincent Bolloré: il 24% di Tim e il 23% di MediaForEurope, l’ex Mediaset. Nessuno dei due investimenti è andato secondo le attese. Dopo la tentata scalata ostile del 2016, Vivendi è ormai socio silente di Mfe. La tregua del 2021 con Fininvest prevede l’uscita dei francesi dal capitale entro il 2026, a condizione che le azioni raggiungano certe soglie di prezzo. Al momento, i titoli del Biscione sono lontani dai livelli pattuiti, ma i rapporti con i Berlusconi sono buoni e Vivendi non ha fretta di uscire. Si vedrà se ce ne sarà occasione quando e se Mfe deciderà di procedere ad acquisizioni per il suo progetto di polo europeo.
+				Quanto a Tim, la situazione è più complessa. Il decennale percorso di Vivendi nell’ex monopolista non è stato costellato di soddisfazioni, specie nell’ultimo periodo. Acquistata per quattro miliardi, la partecipazione ne vale circa 1,2 ai corsi attuali di Borsa e l’ultimo dividendo è del 2021. Oltre ad aver accumulato perdite finanziarie, poi, il gruppo francese è uscito sconfitto in buona parte delle partite industriali: dallo scontro del 2019 con il fondo Elliott sulla gestione di Tim alla battaglia contro la vendita della rete al consorzio di investitori guidato da Kkr (su cui, però, pende ancora una causa giudiziaria).
+				Yannick Bolloré ha quindi dettato la linea: può essere ceduta, purché in blocco e al giusto prezzo, ossia non meno di due miliardi. Ma a chi? Accostato più volte a Tim e già autore di due tentativi di comprare Vodafone Italia, l’operatore francese Iliad è il primo indiziato, ma ha fatto sapere di essere concentrato sulla crescita autonoma, pur ribadendo l’interesse per le aggregazioni industriali. Nei mesi scorsi, poi, diversi fondi di investimento hanno esaminato l’operazione con l’idea di smembrare la società, nella convinzione che le parti di Tim — telefonia, servizi alle imprese e la controllata Tim Brasil — valgano più del tutto. Nessuno si è però sinora spinto oltre la fase di studio.
+				Da ultimo, infine, Andrea Pezzi, ex consulente di Vivendi in Italia, e Claudio Costamagna, banchiere d’affari ed ex presidente di Cdp, si sono messi all’opera per costruire una cordata di investitori, ancora da individuare, per rilevare in più tappe la quota del gruppo francese. Benché smentito dagli interessati, il progetto è ben noto fra gli addetti ai lavori e contemplerebbe la costituzione di un veicolo societario per l’acquisto per 500 milioni di un 6/7% della quota di Vivendi che dovrebbe poi apportarvi la residua partecipazione. Il veicolo si occuperebbe quindi di gestirla e farne valere le prerogative di governance con l’obiettivo di procedere allo «spezzatino» di Tim. Il gruppo francese non sembra però intenzionato a vendere il suo 24% a tappe, se non altro per non perdere il premio economico che assicura influenza sul futuro di Tim.
+				Ma è davvero così? Per chi ha esaminato il dossier, il controllo azionario sui destini dell’ex monopolista incontra due forti limitazioni. Ai sensi del golden power, anzitutto, chiunque rilevi oltre il 3% di una quotata deve chiedere il via libera del governo: è vero che dopo la cessione della rete a Kkr & co è uscita dal gruppo l’attività più strategica, ma Tim rimane anche la prima azienda di telecomunicazioni in Italia con 17 mila dipendenti. Su ogni progetto di «spezzatino», poi, aleggerebbe una seconda incognita: dopo l’acquisto di Vodafone Italia da parte di Fastweb, l’Antitrust Ue sarebbe disposta ad autorizzare la fusione di Tim con un concorrente, accettando che in pochi mesi il numero di operatori nel Paese scenda da cinque a tre?
+
+				Su questi due scogli si è sinora arenato ogni progetto sulla quota di Vivendi in Tim. Per i francesi non è detto che sia un male. Per ironia della sorte, infatti, Tim come Vivendi è molto sottovalutata in Borsa. Basti dire che la sua partecipazione del 67% in Tim Brasil vale 4,7 miliardi, mentre tutta Tim in Borsa capitalizza 5,2 miliardi. A Vivendi potrebbe quindi convenire attendere, a patto che, più prima che poi, il paradosso finanziario trovi una soluzione. Quale? Il ceo Pietro Labriola è convinto che il suo piano industriale riuscirà a riconquistare la fiducia degli investitori nell’intera Tim. Non dovesse farcela, l’alternativa di uno «spezzatino» à la Yannick Bolloré potrà tornare sul menu.
+
+
+
+
+# W
+	WEBUILD
+		2024
+			2024_09_04_(Webuild e Ansaldo alleate per i mini reattori)
+				Nel futuro di Webuild c’è anche l’atomo. La società guidata da Pietro Salini ha siglato ieri un memorandum of understanding con Ansaldo Nucleare per sviluppare potenziali soluzioni modulari all’avanguardia, sicure, sostenibili e flessibili, nel settore dell’energia. L’intesa preliminare vedrà i due gruppi collaborare nei prossimi cinque anni per progettare e implementare tecnologie nucleari innovative, combinando le competenze del mondo infrastrutturale e di trasmissione della potenza. Il fine sarà favorire l’espansione e l’adozione su scala globale degli «Small Modular Reactor», cioè reattori a fissione nucleare di piccola taglia (circa 300 megawatt), modulari e flessibili, e successivamente degli «Advanced Modular Reactor», reattori a fissione nucleare derivati dalle tecnologie di quarta generazione. Questi ultimi in particolare utilizzeranno nuovi sistemi di raffreddamento, come ad esempio metalli fusi, per offrire prestazioni migliori e nuove funzionalità come cogenerazione, produzione di idrogeno, soluzioni per la chiusura del ciclo del combustibile e la gestione dei rifiuti nucleari.
+
+				L’accordo conferma l’attenzione di Webuild per il settore energetico («in curriculum» la società vanta 313 dighe e impianti idroelettrici per 52.900 megawatt di capacità installata), che negli ultimi anni ha visto anche l’ingresso nel gruppo dell’australiana Clough, storica società di Perth specializzata in ingegneria, costruzioni e servizi di manutenzione principalmente nel settore petrolifero e del gas. Tra i progetti per la produzione di energia pulita Webuild annovera il Grand Ethiopian Renaissance Dam Project (GERDP), sul Nilo Azzurro, progettato e costruito per soddisfare il fabbisogno energetico interno dell’Etiopia, il Progetto Idroelettrico di Rogun in Tagikistan, con la diga più alta del mondo, che raddoppierà la produzione energetica del Paese asiatico e Snowy 2.0 in Australia, impianto idroelettrico destinato a produrre energia elettrica in base ai picchi di domanda, con un tempo di risposta di appena 90 secondi. I nuovi small reactor (e successivamente quelli «avanzati») costituiranno a partire dai prossimi anni uno strumento fondamentale a beneficio della produzione di un’energia economica, programmabile e decarbonizzata.
