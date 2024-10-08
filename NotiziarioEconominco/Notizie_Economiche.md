@@ -327,6 +327,25 @@ NOTIZIE_ECONOMICHE
 			Ma quali prospettive di mercato ci sono? «Come tutti i settori nuovi — ha dichiarato il ceo di De Nora Paolo Dellachà — è in fase di lancio iniziale. Il costo dell’idrogeno verde dipende dal costo delle rinovabili utilizzate per produrlo e in alcuni Paesi è già competitivo. L’Europa ha un ruolo primario nella corsa verso questa molecola: stime indicano che al 2030 avremo un minimo di cento gigawatt di capacità installata di elettrolizzatori e l’Europa coprirà il 25%/30% della produzione globale». L’amministratore delegato di Snam Stefano Venier ha spiegato quale potrebbe essere un altro utilizzo dell’idrogeno verde, anche questo strumentale alla transizione, cioè quello di conservare per lungo tempo l’energia solare ed eolica: «L’idrogeno consente lo stoccaggio delle rinnovabili, perché quando sono in eccesso o c’è una riduzione significativa del prezzo, la loro trasformazione in molecole di idrogeno consente di poterle stoccare». Valentino Valentini, viceministro delle Imprese e del Made in Italy, intervenendo alla cerimonia, ha delineato lo scenario: «La transizione vedrà un asse tra il Nord Africa e l’Europa. Ci saranno corridoi con le rinnovabili solari che dall’Africa attraverseranno l’Italia e dal Nord Europa avremo l’eolico».
 
 			© RIPRODUZIONE RISERVATA
+    DRAGHI MARIO
+    	2024
+    		2024_10_01_INVESTIRE_ALLA_DRAGI
+
+					Investire alla Draghi? Dalla transizione green alle banche: i titoli «premiati» dal Piano
+					di Adriano Barrì 
+					Enel, Terna, Intesa Sanpaolo e Stm, ma anche Nexi, Acea, A2A e Unicredit Ecco chi in sui mercati può approfittare del Rapporto sulla competitività Ue
+						START "APRI PDF TABELLA TITOLO" call "c:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\PDF\2024_10_01_INVESTIRE_TRANSIZIONE_ENERGETICA.pdf"
+
+					Titoli italiani in prima linea con il Rapporto Draghi. Dopo una lunga attesa è stato presentato alla Commissione europea l’approfondita analisi curata dall’ex Presidente del Consiglio italiano che ha fatto il punto su alcune delle sfide più urgenti per il futuro economico dell’Unione: transizione energetica, digitalizzazione e la creazione di un vero mercato unico dei capitali. La relazione non ha solo messo in evidenza i trend globali, ma ha anche posto l’accento su come l’Europa e, in particolare, l’Italia, debbano rispondere per rimanere competitive. Un’ottima notizia per alcune delle aziende quotate in Borsa Italiana, che sono già ben posizionate per trarre vantaggio da questi cambiamenti strutturali. Per alcune l’occasione di consolidare il giudizio già positivo del mercato. Per altre, l’occasione di essere riscoperte dagli investitori, il cui appetito per il rischio sta calando a causa delle preoccupazioni sulle prospettive del ciclo economico del prossimo anno. L’offerta è piuttosto ampia: Enel, Intesa Sanpaolo e StMicroelectronics, per citare solo i campioni nazionali nelle rispettive «categorie» tracciate da Draghi. L’Economia del Corriere della Sera ha quindi messo sotto i riflettori le società quotate in Piazza Affari, stilando un elenco, ovviamente non esaustivo, delle società esposte ai contenuti del Rapporto unitamente a quelli che sono considerati i principali parametri di valutazione del mercato.
+
+					La transizione energetica
+					Uno dei temi principali del rapporto è stato la transizione energetica, un processo in cui l’Italia gioca un ruolo di primo piano. Alcune delle nostre maggiori aziende stanno investendo massicciamente in questo settore e i loro titoli potrebbero essere tra i più interessanti per chi vuole cavalcare l’onda della sostenibilità. Secondo gli analisti di Equita, il report di Draghi sulla competitività dell’Ue offre una visione sulla direzione delle politiche europee, con particolare attenzione e spunti costruttivi per il settore delle utility/rinnovabili. «Per le utility - sottolineano gli analisti - si conferma la centralità delle reti elettriche e degli investimenti nel settore. Tra i titoli esposti, segnaliamo Terna per la trasmissione elettrica, Enel per la distribuzione (26% dell’Ebitda dalla distribuzione in Spagna e Italia), Acea (28% dell’ebitda da distribuzione elettrica) e in misura minore per A2A (13% dell’Ebitda 2025 da distribuzione elettrica)». Enel, campione nazionale dell’energia verde con un valore di mercato che supera i 60 miliardi di euro, ha già annunciato un piano per raggiungere la neutralità carbonica entro il 2040 e sta investendo pesantemente in energie rinnovabili, sia in Italia che all’estero. I mercati hanno premiato questa strategia, con il titolo che si è dimostrato resiliente anche nei momenti di turbolenza economica con una performance che negli ultimi 12 mesi, è stata complessivamente, tra guadagni in Borsa e dividendi, superiore al 20%.
+
+
+					Investire alla Draghi I titoli premiati dal Piano
+					Digitalizzazione e banche
+					La digitalizzazione è un altro pilastro fondamentale del rapporto Draghi. L’Italia, sebbene ancora indietro rispetto ad altri Paesi europei, sta recuperando terreno grazie a una serie di aziende innovative che stanno guidando questa trasformazione. Nexi è il leader nei pagamenti digitali, avendo beneficiato della rapida crescita del settore fintech, accelerata dalla pandemia e dai cambiamenti nelle abitudini di consumo. La società, protagonista di fusioni e acquisizioni strategiche, è ben posizionata per guidare la digitalizzazione del sistema finanziario italiano e europeo. Sul titolo si è recentemente espressa Bank of America confermando il giudizio Buy, con target di 9,3 euro. Nel comparto della monetica, a detta degli analisti la performance dei player europei nel secondo trimestre è stata solida e, più nel dettaglio, Nexi ha riportato un eccesso di cassa, fornendo inoltre messaggi rassicuranti in merito alla remunerazione degli investitori. Il terzo grande tema del rapporto Draghi è la necessità di un mercato unico dei capitali. L’integrazione dei mercati finanziari europei rappresenta una grande opportunità per le aziende italiane, in particolare per quelle del settore bancario, che potrebbero beneficiare di una maggiore armonizzazione delle regole e di un accesso più facile ai capitali. La prima mossa l’ha messa a segno Unicredit, che la scorsa settimana ha annunciato l’acquisizione del 9% di Commerzbank con l’intenzione di esplorare una possibile fusione tra la banca tedesca e la controllata Hvb. Con una solida base di capitale e una forte presenza in Europa centrale e orientale, la banca ha le carte in regola per sfruttare al meglio un’ulteriore integrazione del sistema finanziario europeo. Una strategia premiante? Nel frattempo negli ultimi 12 mesi il rendimento totale è stato dell’80%.
+
 
 
 	
@@ -693,6 +712,28 @@ NOTIZIE_ECONOMICHE
 				Sparkasse ha chiuso il 2023 con un utile, a livello consolidato, per 82,2 milioni.
 
 				© RIPRODUZIONE RISERVATA
+
+	ITALGAS
+		2024
+			2024_10_08_(«Italgas campione europeo, investimenti per 15,6 miliardi»)
+
+				Gallo: «Anche l’AI nel piano al 2030»
+				«L’acquisizione di 2i Rete Gas è trasformativa non solo per Italgas ma per tutta l’industria: stiamo creando un
+				campione europeo non solo in termini di distribuzione del gas, anche di quelli verdi, ma anche in innovazione e
+				digitalizzazione. Un player che può affrontare gli obiettivi sfidanti della transizione». Paolo Gallo, ceo di Italgas,
+				parte dall’operazione annunciata sabato scorso per presentare la nuova strategia al 2030, un piano atteso in
+				estate e rinviato proprio per considerare il nuovo perimetro che raggiungerà il gruppo. Le dimensioni esatte si
+				conosceranno solo dopo la pronuncia dell’Antitrust. «Stiamo predisponendo la documentazione. Riteniamo che
+				l’Autorità risponderà in sei mesi», ha dichiarato Gallo a proposito della richiesta di possibili dismissioni per un
+				gruppo che, tra Italia e Grecia, avrà 12,9 milioni di clienti: come nessuno in Europa. Gli investimenti
+				raddoppieranno a 15,6 miliardi, destinati — oltre all’acquisizione — agli interventi sulla distribuzione del gas e
+				all’efficienza energetica. Il grosso si concentrerà sull’infrastruttura per portare lo stesso livello di innovazione su
+				tutta la rete italiana del gruppo, che raggiungerà 154 mila chilometri. Per farlo, Italgas investirà 2,7 miliardi nella
+				digitalizzazione e punterà sull’intelligenza artificiale a cui andranno 300 milioni. Dal punto di vista finanziario, è
+				previsto un aumento degli utili a doppia cifra in arco piano ed è stata alzata la politica dei dividendi al 2026
+				portando la garanzia di crescita al 5% annuo, con l’impegno di mantenere il rating anche dopo l’aumento di
+				capitale. Acqua ed efficienza energetica sono gli altri due focus: «Il piano non prevede M&A, se non con piccole
+				operazioni nell’acqua e nell’efficienza energetica», ha concluso Gallo.
 
 
 # M
