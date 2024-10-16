@@ -15,3 +15,17 @@ FinecoWebinar.md
 			Prezzi si 
 			analista fondamentale 
 				valuta i bilanci delle aziende e vede i prezzi se sono scontati oppure apprezzati
+
+	FIBONACCI
+		2024_10_16_Strategi di trading con Fibonacci
+			Le indicazioni formidabili di fibonacci con le sue proporzioni
+			di fibonacci che si trovano nei cristalli di ghiaccio nelle 
+			conchiglie ecc.
+
+
+			OBIETTIVI
+				come calcolare dei punti di entrata con fibonacci
+
+
+			ESEMPI
+				
