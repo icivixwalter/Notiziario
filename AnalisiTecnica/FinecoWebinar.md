@@ -18,6 +18,10 @@ FinecoWebinar.md
 
 	FIBONACCI
 		2024_10_16_Strategi di trading con Fibonacci
+			Prataviera
+				E il tecnico delle analisi lunghe, 
+					controllare quale lezione aveva fatto per i buchi di 
+					trading
 			Le indicazioni formidabili di fibonacci con le sue proporzioni
 			di fibonacci che si trovano nei cristalli di ghiaccio nelle 
 			conchiglie ecc.
@@ -28,4 +32,4 @@ FinecoWebinar.md
 
 
 			ESEMPI
-				
+				.... FINIRE...
