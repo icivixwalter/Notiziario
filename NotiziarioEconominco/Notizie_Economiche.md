@@ -892,7 +892,72 @@ NOTIZIE_ECONOMICHE
 
 				Luigi Berlusconi è azionista di diverse startup, in proprio o attraverso la holding H14, compartecipata dalle sorelle Barbara ed Eleonora. Nel portafoglio del più giovane dei figli di Silvio Berlusconi figurano, fra le altre, aziende come Jakala, Satispay, Westwing, Deliveroo e Qualifyze.
 
+	STARLINK
+		2024
+			2024_10_21 Perché Elon Musk (che tifa Trump) ha il conflitto d’interessi più grande del mondo
+						@STARLINK
+					Elon Musk è il genio imprenditoriale ma è anche il propagandista politico che usa dosi tossiche e massicce di disinformazione, che abusa del suo controllo di X (ex Twitter) ed è il più grande finanziatore e sostenitore di Donald Trump
 
+					Perché Elon Musk, l’uomo più ricco del mondo, tifa per Donald Trump
+					Ascolta l'articolo
+					12 min
+					i
+					new
+					La settimana scorsa hanno vinto il Nobel per l’Economia, strameritandolo, Daron Acemoglu e i suoi coautori Simon Johnson e James A. Robinson (quest’ultimo, un antropologo). La loro idea di fondo è che istituzioni sbagliate, disegnate per tutelare élite dedite a estrarre e sfruttare le risorse delle loro comunità, generano sottosviluppo. Invece società “inclusive” – libere cioè da élite sclerotizzate che controllino e si approprino della ricchezza – incoraggiano tutti a creare una prosperità maggiore e più condivisa. Al cuore sono dunque le istituzioni: possono garantire gli interessi delle “élite estrattive”, impoverendo intere nazioni; o permettere lo sviluppo di un sistema aperto (“inclusivo”) nel quale la crescita è superiore e i frutti di questa sono condivisi.
+
+					Fin qui la teoria. Nel mondo reale, invece, Elon Musk (sopra nella foto con Donald Trump) sembra la confutazione vivente delle idee dei nuovi Nobel. Lui è il genio imprenditoriale che ha rivoluzionato le tecnologie di pagamento, l’industria dell’auto, l’industria aerospaziale e la connettività di Internet. Ha di fatto inventato l’auto elettrica come prodotto di consumo. Le sue navicelle spaziali di SpaceX mandano in orbita sette volte più tonnellaggio di tutto il resto del mondo – Nasa, Russia, Cina ed Europa messe insieme – a una frazione dei costi. I suoi satelliti Starlink sono i soli a poter dare connessione in rete dallo spazio a quasi tutto il mondo, anche qui a prezzi imbattibili.
+
+					Ma Musk è anche il propagandista politico che usa dosi tossiche e massicce di disinformazione; è il tycoon dei media che non ha pudore di abusare del suo controllo della piattaforma X (ex Twitter) per i propri fini politici; soprattutto, di recente, è diventato il più grande finanziatore e sostenitore di Donald Trump (a tre settimane dal voto per la Casa Bianca). Chi è dunque Elon Musk? (Non esitate a scrivermi: commenti o contestazioni e proposte)
+
+					Perché Elon Musk, l’uomo più ricco del mondo, tifa per Donald Trump
+					Secondo Forbes, naturalmente, Musk guida la lista degli uomini più ricchi del mondo con un patrimonio da 247,4 miliardi di dollari. Ma in questa ricchezza non si può tuffare dentro come Paperon de' Paperoni, in grandissima parte non è composta di liquidità o di un portafoglio di investimenti finanziari. Non la può spendere nel senso ordinario del termine. Né necessariamente Musk può contare su un’elevata remunerazione in denaro dalle aziende nelle quali lavora: nel 2018, per esempio, il suo imponibile annuo è stato tale che lui non ha pagato un solo dollaro di imposta sulle persone fisiche (benché fosse già in ascesa nella classifica dei più ricchi sul piano patrimoniale).
+
+					Che tipo di super-ricco è Mr Tesla
+					Il suo patrimonio deriva in grandissima parte dalle sue quote azionarie – non vendute, dunque non monetizzate in denaro contante – nelle aziende che ha lui stesso fondato e dirige. Musk possiede:
+					- Il 12% di Tesla (la quale vale oggi 691,5 miliardi di dollari, circa come i successivi dieci più grandi costruttori di auto del mondo messi insieme)
+					- Il 42% di SpaceX, la compagnia spaziale che lancia razzi e navicelle spaziali e gestisce i circa 6.400 satelliti per connessione Internet di Starlink (SpaceX ha un valore stimato di 210 miliardi di dollari).
+					- Il controllo totale del social media X (ex Twitter), acquisito per 44 miliardi ma ora probabilmente rivendibile a non più di dieci.
+					- Il 60% di xAI, una start up di intelligenza artificiale valutata a metà di quest’anno 24 miliardi di dollari.
+
+					Dunque Musk è l’uomo più ricco del mondo, non il più liquido. Per disporre concretamente della propria ricchezza e tradurla in stile di vita o in influenza – per esempio attraverso donazioni ai suoi candidati politici preferiti – egli deve in qualche modo mobilitare il proprio patrimonio azionario.
+
+					Eppure anche qui Musk incontra dei vincoli. In primo luogo aziende come Twitter, xAI e soprattutto la straordinaria SpaceX non sono quotate in borsa e dunque il loro fondatore faticherebbe a generare liquidità vendendo rapidamente le proprie quote. Inoltre né queste imprese – per quanto si sappia – né la quotata Tesla hanno mai pagato dividendi sulle azioni ordinarie: Musk non può contare troppo, per il momento, sui flussi di cassa degli eventuali profitti di queste imprese. Infine Musk non ha intenzione di vendere le proprie quote, soprattutto in Tesla, perché vuole mantenere il controllo strategico e operativo sulle società. In passato per esempio ha detto di non voler quotare in borsa SpaceX, per non subire pressioni dal mercato prima di aver messo al sicuro la missione dell’impresa: portare l’uomo su Marte, obiettivo al quale punta attorno al 2030.
+
+					Il maxi-pegno
+					Eppure Musk non può accontentarsi di avere un patrimonio immobilizzato, poco importa che si vanti di vivere ora in un mini-appartamento del valore di 50 mila euro. La sua vita dimostra che ha grandi disponibilità. Per esempio, versando in un colpo solo 75 milioni di dollari, di recente ha costituito il suo “America Pac” (“Political action committee") a favore di Trump e ha promesso 47 dollari l’uno a un milione di cittadini che dovessero spingere un conoscente a sottoscrivere una petizione trumpiana.
+					Oggi stesso il Wall Street Journal informa che sta offrendo tramite una lotteria un premio da un milione di dollari al giorno per 17 giorni, a cui si può concorrere firmando quella stessa petizione.
+					Dunque Musk è estremamente liquido. Ma da dove vengono i dollari sulla sua carta di credito? Paradossalmente, da debiti. ProPublica – mai smentito – informa che il 29 maggio 2021 Musk aveva preso vari prestiti bancari a suo nome garantiti da un pegno di proprie azioni di Tesla del valore di 57,7 miliardi di dollari. E Forbes scrive che, ai dati più recenti, nel 2024 aveva presentato alle banche un pegno di azioni di Tesla per 3,5 miliardi di dollari per un “prestito personale”.
+
+					In sostanza Musk fa quello che fanno tanti miliardari: riduce al minimo i redditi personali tassabili e attinge liquidità in prestito dalle banche garantendo con il valore del proprio patrimonio azionario. Così paga molte meno tasse sui redditi e, dalle poche a suo carico, può dedurre il costo degli interessi bancari. Il fondatore di Tesla è dunque un uomo ricchissimo e indebitatissimo, la cui sostenibilità finanziaria personale dipende dal valore di mercato delle azioni di Tesla in ogni dato giorno. Se il titolo crolla, lui è costretto a reintegrare le garanzie impegnando in banca ancora altre quote o deve rimborsare precipitosamente i suoi debiti, magari vendendo azioni.
+
+					Su ghiaccio (finanziariamente) sottile
+					Il tallone d’Achille di Musk sta tutto qui. Non nella qualità straordinaria delle sue innovazioni e delle sue aziende. Avrete notato che il pegno del maggio 2021 è addirittura di 57 miliardi, mentre quello più recente sembra essere di oltre dieci volte più piccolo. Dunque Musk ha ridotto la sua esposizione e presumibilmente la liquidità disponibile, forse in parte perché ora i debiti in banca costano di più in interessi. Ma un’altra ragione della sua cautela dev’essere che l’uomo più ricco del mondo forse è un po’ più preoccupato. Tesla vale oggi più o meno tanto quanto valeva nel maggio del 2021, ma da allora il mercato ha iniziato ad avere molti dubbi sulla sostenibilità delle quotazioni attuali del titolo.
+
+					Qualche anno fa il gruppo americano dell’auto elettrica era un innovatore assoluto, che aveva sconvolto un intero settore industriale diventando popolarissimo fra gli investitori. Adesso gruppi cinesi dell’auto elettrica come Byd o Xiaomi hanno colmato il ritardo tecnologico, forse a qualità inferiore ma a prezzi molto più competitivi. E improvvisamente il mercato si rende conto che il titolo di Tesla è valutato ancora oltre 60 volte gli utili attesi di un anno, un prezzo del tutto soprannaturale anche per le medie gonfiate delle Big Tech americane (persino la dopatissima Nvidia scambia su multipli rispetto all’utile di poco più della metà di Tesla, come si vede nel grafico all'inizio di questo articolo).
+
+					In poche parole, per quanto geniale, Musk cammina finanziariamente su ghiaccio sottile. Quando una decina di giorni fa ha presentato il deludente “Robotaxi” di Tesla, il mercato ha reagito facendo crollare il titolo di quasi il 9% e ha spazzato via così 68 miliardi di valore di borsa in poche ore. Pensate che effetto fa l’avvitarsi verso il basso del valore della vostra casa quando l’avete impegnata in banca a copertura di un prestito. E’ ciò che sta provando Musk in questo momento, con l’aggravante che lui senz’altro ora teme altri crolli semplicemente per il normalizzarsi della percezione di Tesla fra gli investitori. La sua creatura non è più un oggetto totalmente magico per il mercato. Se tra qualche mese il titolo trattasse sugli stessi multipli di Amazon, Apple o Microsoft – pur sempre elevati ma molto più razionali – Musk potrebbe trovarsi in serie difficoltà finanziarie personali.
+
+					La conversione politica
+					È così che mi spiego l’improvviso innamoramento per Trump, a questo punto ormai tardo della campagna elettorale. In un passato non lontano il fondatore di Tesla aveva espresso per il tycoon di Mar-a-Lago, aveva detto che doveva “veleggiare verso il tramonto”, l’aveva definito un “perdente freddo come una pietra” e aveva sostenuto il suo avversario repubblicano Ron De Sanctis. Ora invece scommette centinaia di milioni su Trump, mette a disposizione della sua campagna alcuni dei migliori ingegneri di SpaceX, si dice pronto a fare di persona dei porta-a-porta per lui in Pennsylvania e a servire nella sua amministrazione. Usa persino la disinformazione a favore di Trump: ha scritto per esempio ai suoi 202 milioni di followers su X (ex Twitter) che i democratici nazionalizzano gli immigrati apposta per farli votare per Kamala Harris.
+
+					Perché? Escludo che Musk non veda i limiti di Trump. Escludo anche che tutto dipenda dai contratti della Nasa e del Dipartimento della Difesa Usa con SpaceX, perché l’azienda è così efficiente da essere necessaria al governo americano. Il punto è piuttosto Starlink, la rete che attualmente ha nell’atmosfera 6.400 satelliti per la connessione Internet (ma potranno raddoppiare o quadruplicare in breve tempo). Starlink può fornire compagnie navali o aeree – queste ultime spesso pubbliche – ma gli interlocutori fondamentali per i suoi contratti sono e saranno sempre centinaia di governi e grandi aziende statali in tutto il mondo. La sponsorizzazione dietro porte chiuse dell’amministrazione americana aprirebbe innumerevoli porte. Lo stesso negoziato per un accordo di Starlink con il governo italiano, dopo gli incontri fra Giorgia Meloni e Musk prima alla festa di partito di Fratelli d'Italia e poi a New York, dimostra come per il fondatore di SpaceX simpatie politiche e business non siano mai molto distanti. E Morgan Stanley stima che nel giro di un quindicennio Starlink può arrivare a fatturare fino a 250 o 300 miliardi di dollari all’anno, ed è già molto discussa l’ipotesi di staccarla da SpaceX e quotarla in borsa da sola entro non molto tempo.
+
+					Starlink quotata a Wall Street darebbe a Musk la stabilità finanziaria che Tesla non gli assicura più. E la spinta di un presidente come Trump su governi partner, amici e alleati darebbe a Starlink una massa critica inarrestabile. Musk sta dunque cercando di catturare oggi Trump – generando un credito nei suoi confronti – per catturare domani le istituzioni americane, in modo da farle lavorare per sé.
+					No, lui non è la confutazione vivente delle teorie di Acemoglu e colleghi. Ne è la conferma, aggiornata al mondo di domani. 
+
+					Questo articolo è apparso originariamente nella newsletter «Whatever it takes» del Corriere della Sera, curata da Federico Fubini. Per iscriversi, cliccare qui.
+
+
+
+					Scarica la nuova app L'Economia per un'esperienza personalizzata e senza pubblicità
+					Grazie all’intelligenza artificiale gli articoli e i consigli degli esperti del Corriere della Sera rispondono ai tuoi dubbi su Casa, Fisco, Risparmio, Pensioni e non solo; oltre alle news in tempo reale, le migliori firme e tutto quello che ti può essere più utile per una vita più semplice e informata.
+
+# T
+	TESLA
+		2024
+			2024_10_21 SOPRAVVALUTATA
+				per capire perchè è sopravvaulatata di leggere l'articolo sull'altra azienda di Musk starlink.
+					vedi ----> @STARLINK
 # U
 	UNICREDIT
 					@Unicredit_(banca italiana notizie)
