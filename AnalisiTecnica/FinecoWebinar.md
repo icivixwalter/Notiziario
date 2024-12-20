@@ -36,7 +36,7 @@ FinecoWebinar.md
 
 
 
-	CERTIFICATI A LEVA FISSA
+	2024_12_17=CERTIFICATI A LEVA FISSA
 		strumenti derivati sottostante con replica
 		giornaliere sul segmento Vorvel
 
@@ -89,5 +89,26 @@ FinecoWebinar.md
 				le minus entro 4 anni con tutti i
 				prodotti. Le minus vanno nello zainetto fiscale per le compensazioni.
 				
+
+
+
+
+	2024_12_20=COME COSTRUIRE SEGNALI OPERATIVI CON IL GONOGO
+		Dovrebbe essere un indicatore completo brevettato.
+		con indicatore mix segreto in cui cancella tutti gli indicatori
+		che sono all'interno e segreto che vengono cancellati e solo
+		5 colori delle candele.
+		MISURA SOLO LA DIREZIONE ED INTENSITA DEL TREND ossia da un 
+		segnale di QUANDO PARTE UN SEGNALE  con una CANDELA di DIREZIONALITA 
+		dando il segnale di GO.
+		Se invece non da nessun segnale di partenza allora non è rialzista
+		ma non dice nulla se è uno SHORT ma da solo un segnale NOGO
+			colori:
+			VIOLA 		= NOGO-FORTE non va in acquisto
+			ROSA 	 	= NOGO-DEBOLE non va in acquisto il segnale debole.
+			ARANCIONE 	= NEUTRO  segnale misto incertezza
+			ACQUAMARINA	= GO-debole segnale debole andare long
+			BLUE	 	= GO-FORTE andare LONG
+
 
 
