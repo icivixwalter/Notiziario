@@ -111,4 +111,68 @@ FinecoWebinar.md
 			BLUE	 	= GO-FORTE andare LONG
 
 
+		PROVA SUL TITOLO NOVO NORDISK, farmaco per la perdita di peso potrebbe
+		salire e sui cui viene ma da oggi il tracollo, è una societa tra i primi
+		5 di europa, 
+
+
+
+
+
+	2024_01_09=Kit Del Trader: Tecniche Fondamentali Di Entrata e Uscita"
+
+		PIANIFICARE I TRADE 
+			A MERCATI CHIUSI	
+				Analizzare il contesto di mercato ossia obbligazioni
+				a mercati chiusi per evitare distrazioni 
+					indici, cambi e materie prime
+
+				CREARE UNA WATHCH LIST
+					su azioni = capitalizzazioni e con notizie
+
+					indici , valute materie prime 
+
+					analisi tecnica	= controllare i livelli di prezzo dei titolo ecc..
+
+				SCREENING 
+					dopo la WATHCH list della giornata  oppure settimanale o mensile per semplificare il processo 
+					di pianificiazione dei trade che puo essere contestualizzato 
+
+
+				ATTENZIONE I MERCATI SONO INTERCONESSI 	
+					es. se c'è una riduzione delle obbligazioni esse 
+					influenzano le azioni 
+
+
+				STUDIARE 
+				ANALISI TECNICA DEI MERCATI FINANZIARI
+					mupray
+
+				INVESTITORE INTELLIGENTE
+					benjamini graham 
+
+				STREET  SMART  di LINDA RANSCKE
+
+
+				PIANIFICAZIONE 
+					è il passo nro 1 per avere rendimenti costanti.
+					ma sempre studiare, pianificare 
+					DEFINIRE il rischio al massimo 4% del capitale 
+					a disposizione es. conto di 10.000,00 sulla singola
+					operazione possiamo rischiare 200,00
+
+
+
+					es 1 punto 1 euro su sp 500  entrare per urn rischio
+					massimo del 2% di 10.000,00 = 140,00  calcolo 
+					2 contratti con stloss per 140,00 punti massimo 
+
+
+				TIMEFRAME	
+					2 SETTIMANE PRECEDENTI per calcolare trend di 1 2 giorni.
+					
+
+
+
+
 
