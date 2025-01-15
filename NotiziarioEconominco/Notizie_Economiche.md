@@ -958,6 +958,7 @@ NOTIZIE_ECONOMICHE
 			2024_10_21 SOPRAVVALUTATA
 				per capire perchè è sopravvaulatata di leggere l'articolo sull'altra azienda di Musk starlink.
 					vedi ----> @STARLINK
+
 # U
 	UNICREDIT
 					@Unicredit_(banca italiana notizie)
@@ -1012,3 +1013,155 @@ NOTIZIE_ECONOMICHE
 				Nel futuro di Webuild c’è anche l’atomo. La società guidata da Pietro Salini ha siglato ieri un memorandum of understanding con Ansaldo Nucleare per sviluppare potenziali soluzioni modulari all’avanguardia, sicure, sostenibili e flessibili, nel settore dell’energia. L’intesa preliminare vedrà i due gruppi collaborare nei prossimi cinque anni per progettare e implementare tecnologie nucleari innovative, combinando le competenze del mondo infrastrutturale e di trasmissione della potenza. Il fine sarà favorire l’espansione e l’adozione su scala globale degli «Small Modular Reactor», cioè reattori a fissione nucleare di piccola taglia (circa 300 megawatt), modulari e flessibili, e successivamente degli «Advanced Modular Reactor», reattori a fissione nucleare derivati dalle tecnologie di quarta generazione. Questi ultimi in particolare utilizzeranno nuovi sistemi di raffreddamento, come ad esempio metalli fusi, per offrire prestazioni migliori e nuove funzionalità come cogenerazione, produzione di idrogeno, soluzioni per la chiusura del ciclo del combustibile e la gestione dei rifiuti nucleari.
 
 				L’accordo conferma l’attenzione di Webuild per il settore energetico («in curriculum» la società vanta 313 dighe e impianti idroelettrici per 52.900 megawatt di capacità installata), che negli ultimi anni ha visto anche l’ingresso nel gruppo dell’australiana Clough, storica società di Perth specializzata in ingegneria, costruzioni e servizi di manutenzione principalmente nel settore petrolifero e del gas. Tra i progetti per la produzione di energia pulita Webuild annovera il Grand Ethiopian Renaissance Dam Project (GERDP), sul Nilo Azzurro, progettato e costruito per soddisfare il fabbisogno energetico interno dell’Etiopia, il Progetto Idroelettrico di Rogun in Tagikistan, con la diga più alta del mondo, che raddoppierà la produzione energetica del Paese asiatico e Snowy 2.0 in Australia, impianto idroelettrico destinato a produrre energia elettrica in base ai picchi di domanda, con un tempo di risposta di appena 90 secondi. I nuovi small reactor (e successivamente quelli «avanzati») costituiranno a partire dai prossimi anni uno strumento fondamentale a beneficio della produzione di un’energia economica, programmabile e decarbonizzata.
+
+
+
+# COSA COMPRARE NEL 2025
+	Punto 
+
+	Bond btp  se scende il bond sale il prezzo
+
+	BPER	
+		In attesa di vendita
+
+	INTESA SANPAOLO
+		vanno ad edgiare ad un anno
+		capitale in eccesso 
+		by basck 
+
+		queste cose il rendimento 
+
+	WEBUILD
+		capitalizzazione bassa 
+
+	MICROSOFT	
+		perche è integrata con l'intellegenza
+		artificiale. 
+
+
+	MERIDIAN 
+		TAVOLA PERIODICA DEI RENDIMENTI 
+		dal 2015-2024 
+
+		il settore migliore degli anni precedenti non avranno rendimenti anche nel 2025 
+
+		TITOLI AMERICANI	
+			NVIDIA
+			altri hitech 
+
+				se aumentano i rialzi saranno
+				penalizzati le dell’hi-tech
+
+		TROPPA LIQUIDITA
+			tassi alti saranno colpita da
+			inflazione.
+
+		SPX 500 
+			le magnifiche 7 utili 36% non sono 
+			troppo valide
+
+			Trump aumeti le tariffe aumenti 
+			l'inflazione importata che fa male 
+			alle aziende + la fed aumentera i 
+			tassi. 
+			equilibri che saltano:
+			   - conti americani 
+			   - 
+
+		   deregulation 
+		   		fa bene ai titoli per 
+		   		aziende  a piccola capitalizzazione 
+
+		   		INDICE RUSSEL 
+		   			va bene all'inizio e poi no.
+	   				per le piccole aziende quotate
+
+		AREA DOLLARO - VALUTE 
+			DOLLARO forte abbasso l'inflazione importata ma male per le esportazione.
+
+			Il dollaro si rafforzera a spese 
+			dell'europa. 
+
+
+
+		AREA CINA 
+			domanda interna debole 
+			crisi immobiliare 
+			pil atteso 5% ma i economisti 
+			cinesi forse al 2,5%
+
+
+
+		CONCLUSIONE 
+			tema forte delle banche
+			es. bpm che compra assicurazione 
+
+			debole il settore auto europeo 
+
+			hithech  lato cip ed intellegienza
+				artificale 
+
+			tesla 
+				pensa auto  + robot ecc. 
+
+			TITOLO DIFESA 
+				NON COSIGLIA i titolo della difesa faranno bene ma solo se sono uniche, EUROPEI	 (emenei)
+
+				quindi Leonardo + Fincantieri ecc. si uniscono a livello europeo ma solo se le spese 
+				militari vanno almeno al 2% europeo.
+
+
+			STELLANTIS 
+				non vendono macchine popolari 
+				tavares  ha venduto macchine  
+				suv non popolari, i margini sono 
+				saliti ma i ricavi scesi 
+				ORA COSTA la rimessa in sesto 
+				della stellantis  + i cinesi vendono a costi minori .
+
+				FORSE i dazi europei sono necessari almeno con incentivi 
+				elettrici,  ed il processo 
+				di risalito  
+
+
+			CAMPARI 
+				TITOLO in sofferenza CAMPARI sottovalutato  ma a fine anno sale.
+
+				anche perche è un titolo basso impatto nel medio lungo 
+
+
+				FINECO  anche  
+
+
+			NEXI 
+				compete con la trasformazione del tel settore con concorrenti tipo Satispay + altre carte. 
+
+				ha avuto molto vantaggio iniziale adesso c'è concorrenza 
+
+			ORO 
+				con la guerra in russia alcune paesi hanno inziato l'aumento delle riserve di oro. Per creare riserve es. Cina + ITALIA ed aumentato il prezzo dell'oro con tassi reali bassi perchè l'oro è legato
+
+				concorrente difensivo è anche il Bitcoin  
+
+				prezzo quantita di moneta/oro 
+
+				TAVOLA DI CALLAN 	 non mi aspetto l'oro forte è gia cresciuto .
+
+				video si vedono:
+
+				orafinanza youtub 
+					https://www.orafinanza.it/it?gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrPQBfxCO_aHlFbwDRdT__JkiUErGEiS9bJptgv8LabJr1NaiGsHvesaAvvUEALw_wcB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
