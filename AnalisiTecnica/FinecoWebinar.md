@@ -176,3 +176,30 @@ FinecoWebinar.md
 
 
 
+
+
+
+    2025_01_21=FinecoX: Come gestire il rischio automaticamente" e' oggi alle 13:00.
+    	
+    	Trading e investimenti
+    		Per le abilitazioni:
+    			Derivati = gratuito 
+
+    	Come definire il risk management
+    		gestione del rischio, e monitora i rischi nel processo produttivo, con il trading si puo diventare imprenditori di noi stessi.
+    		Avere delle regole diverso da:
+    			risk management = quantifico i rischi es. 1000,00 rischio il 2%
+
+    			evitare il drou raund = se non rispettiamo tali regole 
+    			cerchiamo di sopravvivere sul mercato con regole attenti al rischio.
+    			Diventari bravi a gestire le perdite per miglioare i profitti.
+    			Non esistono il 100% di posizioni con successo.
+
+
+			vedere le 24 regole di Gann
+					https://www.soldionline.it/guide/grandi-investitori/le-ventiquattro-regole-infallibili-di-w-d-gann 
+				1) usare sempre lo stop stlos
+				2) non cancellare lo stop loss 
+				3) dividi il campitale in 10 parti uguali e rischia al rischiomassimo solo uno per operazione.
+				4) non sovraesporti (overtrade)
+
