@@ -203,3 +203,23 @@ FinecoWebinar.md
 				3) dividi il campitale in 10 parti uguali e rischia al rischiomassimo solo uno per operazione.
 				4) non sovraesporti (overtrade)
 
+
+				prodotti: 
+					questi due prodotti si ha la perdita determinata.
+					certificati turbo/leva fissa   = leva limitato all'importo 
+					KnockOut Options = come le opzioi paghi solo un premio pari all'investimento 
+
+					cf + azioni = si puo colpire il capitale piu rischiosi 
+
+
+			esempio
+				campari su finecox  
+				Timeframe settimana per Anno impostare il supporto.
+
+				Timeframe ad 1 giorno 
+				Timeframe INTRADEY
+					ad 1 ora  
+
+					prendere Averege True Range a 10 candele  
+					perche ci permette 
+
