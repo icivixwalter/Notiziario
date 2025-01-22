@@ -223,3 +223,169 @@ FinecoWebinar.md
 					prendere Averege True Range a 10 candele  
 					perche ci permette 
 
+
+2025
+	ETF 
+		2022_01_22="Come investire con gli ETF
+			EFT CARATTERISTICHE
+					ETF (acronimo di Exchange Traded Funds)  fondi di investimento passivi,
+					sono fondi comuni di investimento quotati in borsa.
+					Fondi comuni di investimento = sono un portafoglio dove all'interno ci sono  asset class costruite dal gestore
+					in azioni, obbligazioni materie prime
+		
+					ATTENZIONE I FONDI DI INVESTIMENTO PASSIVI ossia costruito
+					il paniere e vengono monitorate dal gestore. Il Gestore
+					deve mantenere i pesi all'interno del portafoglio in modo
+					se es. un'azione è salito troppo deve esere bilanciata.
+					Nella gestione passiva il gestore non tocca nulla ma segue
+					un indice.
+					es.
+						acquisto 1 etf = futsemib
+							replica l'andamento dell'indice.
+							se l'indice sale del 0,5% o scende del 0,5 e quindi
+							l'etf si adegua.
+		
+						vantaggio etf = posso investire negli indici americani
+						obbligazionari ecc.. 
+		
+						es.
+							volendo creare un portafoglio di tutte le azioni del
+							futsimib, dovrei comprare tutte ed alcune con peso 
+							maggiore ed altre minore.
+							Per acquistare tutte le azioni 
+							1) conoscere 
+							2) monitorar
+							3) costa
+		
+							quindi se compro ETFMIB il gestore ha acquistato
+							le azioni e replica l'andameto dell'indice.
+		
+			GESTIONE
+					GESTIONE PASSIVA = REPLICO dell'indice 
+						con i vantaggi = 
+						 	quindi il gestiore monitora i costi sono 			inferiori
+						svantaggi = prendo tutto la volatalità dell'indice.
+									difficile gestire la volatilita.
+									la volatilita è in capo a noi
+					GESTIONE ATTIVA = gestione attivo a comporre il portafoglio
+						SVANTAGGI
+							costi maggiori
+						VANTAGGI
+							sovraperformance del mercato
+							gestione della volatalita.
+		
+					ATTENZIONE
+						le differenze con i derivati = si fanno per trading 
+							speculativo
+		
+						etf = utilizzo investimento di lungo periodo
+						etf a leva = sono tra derivati etf normale, possono
+							essere utilizzati per breve periodo.
+		
+					INDICE DI RIFERIMENTO
+						posso costruire asset class come indici degli emergenti
+						quindi l'indice è un paniere.
+		
+			LE CARATTERISTICHE
+					REPLICA
+		
+						come fa il gestore a replicare il sottostante?:
+							REPLICA SINTETICA
+								tramite il derivato swap replica il sottostante
+								vantaggi
+									swap meno costoso
+									l'indice puo essere replicabile es. etf
+										indice brasiliano e quindi il gestore
+										compra un indice swap dell'indice brasiliano.
+		
+								svantaggi
+									meno trasparente nel comprare lo swap
+		
+							REPLICA FISICA
+								comrpo tutti i titolo dell'indice es. Futsmib
+		
+									vantaggi = trasparenza e precisione
+									svantaggi = maggiori costi e replica difficele
+						La replica è fondamentale per la nostra scelta dell'etf
+		
+						VERIFICA REPLICA
+							solo un titolo è swap
+							solo 10 titoli è replica fisica e. iShares core
+			TIPO ETF
+						se l'etf contiene azione che emettono dividendi 
+		
+						A DISTRIBUZIONE
+							se voglio avere flussi di cassa regolare prendo
+							etf a distribuzione 
+							vantaggi
+								flusso di cassa regolare
+							svantaggi
+								tassazione
+									sui dividenti è come le azioni non recupera
+									minus valenza al 26% in azioni /obbligazioni
+									corporate; 12,5% in titoli di stato
+		
+						A ACCUMULAZIONE
+							il etf che preleva i dividendi vengono accumulati
+							nella quota
+								vantaggi
+									reinvesto i dividenti (a capitalizzazione
+									composta)
+								svantaggi
+									nessun flusso di cassa
+		
+			COSTRUIRE IL PORTAFOGLIO
+				 	LUNGO PERIODO
+				 		5-7 ANNI
+				 			sul lungo periodo la componente 
+				 				azionaria = sovraperformato di piu
+				 				obbligazioniario = di meno
+				 				materie prime    = di meno 
+		
+			 				la volatilita sempre piu alta nelle azioni
+			 				con rendimento piu altro delle obbligazioni e
+			 				delle materie prime.
+		
+			 				pesi 
+			 					60% = azioni
+			 					40% = obbligazionario
+		
+			 					il portafogli avra un rendimento azionario
+				 	MEDIO PERIODO
+				 		2-5 ANNI
+		
+			 					50% = azioni
+			 					50% = obbligazionario
+		
+			 					selezionarie gli etf azionari
+			 					selezionarie gli etf obbligazionari
+		
+			AVVIARE PAC
+					tipologia di investimento creando un capitale nel 
+					tempo
+		
+			CONCLUSIONE
+				I vantaggi degli ETF è che sono molto diversificati
+				
+				Gli etf monetari si muovono poco e danno pochissimo
+				rispetto agli etf azionari
+	
+				andate sulle case investimento conosciute
+					fam
+					isher
+					ecc.
+	
+				costi di gestione
+					ci sono sempre dipendono dalla casa di gestione
+				costi di negoziazione
+					dipendono dal broker, fineco con la possibilita
+					di zero commissioni solo in acquisto ma non di 
+					vendita.
+	
+				liquidata
+					vendita immediata con contabilizzazione dopo 2 gg.
+					lavoro rispetto ad un fondo comune di investimento
+					dove la liquidazione va per 4/5 gg.
+	
+					
+	
