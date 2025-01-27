@@ -226,7 +226,7 @@ FinecoWebinar.md
 
 2025
 	ETF 
-		2022_01_22="Come investire con gli ETF
+		2025_01_22="Come investire con gli ETF
 			EFT CARATTERISTICHE
 					ETF (acronimo di Exchange Traded Funds)  fondi di investimento passivi,
 					sono fondi comuni di investimento quotati in borsa.
@@ -389,3 +389,22 @@ FinecoWebinar.md
 	
 					
 	
+
+
+
+
+
+		2025_01_27_ETF=WISDOMTREE BROAD COMMODITIES TUTTE LE COMMODITY DEL MONDO DI BLOOMGERG 
+			notizie	
+				Questo etf delle commoditi di tutto il mondo di bloonberg dimotra CHE LE COMOMMODY sono salite a prezzo
+				gennaio e adesso sono ridiscese. 
+				La caratteristica delle commody è che se le stesse salgono sale l'inflazione e le banche centrali alzano i 
+				tassi. Se scendono le commody scende l'inflazione e quindi l'economia va meglio.
+
+
+
+MINUS VALENZE 
+			Le minus valenza per il recupero del 26 % di tasse ci sono per questi strumenti:
+		ETF, AZIONI, OBBLIGAZIONI, DERIVATI  hanno la gestione di MINUS VALENZE
+
+		EFC NO MINUS VALENZE
