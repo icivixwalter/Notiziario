@@ -386,7 +386,62 @@ FinecoWebinar.md
 					vendita immediata con contabilizzazione dopo 2 gg.
 					lavoro rispetto ad un fondo comune di investimento
 					dove la liquidazione va per 4/5 gg.
-	
+	MACD
+		2025_01_30="L'angolo dell'analista tecnico: come usare il MACD da professionista"
+
+			COSA E' IL @MACD
+				MOVING AVARAGE CONVERGENZE DIVERGENZE (MACD)
+					Controllare la formula matematica per capire
+
+					due indicatori completamente diversi utilizzati
+					in antitesi tra di loro:
+						MACD = vero e proprio la differenza tra due  
+						medie esponenziale:
+						MACD= EMA(12 PERIODO)-EMA(26 PERIODI)
+
+
+						SIGNAL LINE = MEA(MACD)9  periodi dello stesso MACD.
+
+				il MACD utilizza le medie mobili che deve essere utilizzato per definire un TREND.
+				Essendo un indicatore con 2 medie mobili esponeziali 
+				viene utilizzato solo per LE SITUAZIONI DI TRAND up o down.
+				NON UTILIZZARE = quando il mercato laterale ossia con 
+				massimi e minimi allo stesso livello. Infatti le medie
+				mobili con mercato laterale si appiattiscono 
+
+				NON LIMITI = essendo medie non hanno limiti quindi si può sbagliare se non accorti.
+
+				TIMEFRAME = il MACD si adatta al TIMEFRAME quindi puo essere utilizzato per qualsiasi PERIODO.
+
+				>0 = MACD a 26 è superiore della MACD 9 (PIU LENTA) il trend positivo.
+				<0 = MACD a 26 inferiore del MACD 9 il trend è positivo.
+
+				VEDI: https://it.wikipedia.org/wiki/MACD
+
+
+				LO ZERO = filtro > 0 solo posizioni LONG perche trend crescente mentre <0 il trend è negativo POSIZIONI SHORT. QUINDI E' UN FILTRO per trovare segnali operativi piu qualititivi e meno quantitativi.
+
+
+				ESEMPIO PRIMO SEGNALE OPERATIVO = l'incrocio tra le due linee se sopra zero la candella corrispondente è un segnale di acquisto. 
+
+				CREAZIONE = degli oscillatori sono stati creati negli anni 60 con potenza di calcolo molto bassa. Oggi il calcoli di pc sono piu veloci quindi dovete stre attendi.
+				Puoi anche ridurre i periodi ma con prudente, puoi anche collegare anche agli oscillatori. 
+
+				
+
+
+
+
+
+
+
+
+
+			QUANDO UTILIZZARLO E QUANDO NO
+			COME ANALIZZARE UN GRAFICO 
+			LE STRATEGIA ASSOCIATE
+
+		
 					
 	
 
