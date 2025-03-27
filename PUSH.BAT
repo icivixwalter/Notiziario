@@ -1,4 +1,4 @@
-@ECHO ON
+@ECHO off
 @REM Disabilita la visualizzazione dei comandi nella shell
 
 @REM Verificare se Git è installato
