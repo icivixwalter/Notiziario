@@ -178,6 +178,48 @@ NOTIZIE_ECONOMICHE
 			2024_09_04_(Cina, mega fusione nel navale   China Cssc Holdings)
 				Mega fusione nelle costruzioni navali statali in Cina. China Cssc Holdings assorbirà la più piccola China Shipbuilding Industry Corporation. Le due controllate di China State Shipbuilding Corporation creano una nuova entità da 38 miliardi di dollari di capitalizzazione, consolidando la Cina come big mondiale del settore.
 
+      Criptovalute
+         2024_03_10_(L’era delle criptovalute Chi guadagna davvero)_(Dogecoin)
+               
+               di Francesco Bertolinoe Milena Gabanelli
+               dopo il bitcoin è nato un mercato da 3.300 miliardi di dollari
+               
+               il riciclaggio e la fregatura del Dogecoin, esaltato da musk
+               
+               cosa sono gli stablecoin e come si saldano ai piani di trump
+               
+               
+               «H o lavorato su un sistema di pagamento elettronico totalmente privo di intermediari, che elimina la necessità di garanti». Con questa breve dichiarazione, il 31 ottobre 2008, il misterioso Satoshi Nakamoto lanciava il Bitcoin, una moneta virtuale senza Paesi emittenti né banche centrali. Al loro posto una blockchain, un registro digitale pubblico delle transazioni, immodificabile e aggiornato dalla comunità degli utenti. Oggi l’identità del suo creatore è ancora ignota, si sa soltanto che possiede un milione di bitcoin che, ai corsi attuali, corrisponde a 84 miliardi di euro. Nel frattempo, pochissimi hanno utilizzato la moneta «anarchica» per pagare a causa delle oscillazioni estreme del suo valore. Il Bitcoin è invece diventato una sorta di «oro digitale»: raro perché la quantità massima coniabile è fissata dall’algoritmo a 21 milioni; desiderato proprio perché scarso e nella convinzione che la sua corsa al rialzo sia destinata a proseguire. Alcuni ci hanno guadagnato, altri ci hanno perso, altri ancora lo hanno utilizzato per riciclare denaro sporco.
+               
+               In questi 16 anni, intanto, hanno proliferato milioni di imitazioni, perlopiù prive di alcun valore se non quello che viene riconosciuto dai loro acquirenti. Ne è nato un mercato da oltre 3.300 miliardi di dollari, quattro volte la capitalizzazione totale di Borsa Italiana. Solo nel 2024 sono spuntati oltre due milioni di nuovi token, con finalità non sempre chiare.
+               
+               In alcuni casi sono serviti per attuare frodi note come «wash trading» e «pump and dump». Con la prima un gruppo di persone o un esercito di bot si scambia più volte un bene digitale per aumentarne artificialmente il valore e poi venderlo a un ignaro acquirente. Con la seconda, «gonfia e scarica», i detentori di una criptovaluta o, più di frequente, i suoi creatori ne magnificano sui social le prospettive di crescita, ne fanno così salire le quotazioni e, infine, liquidano sul mercato i propri portafogli, realizzando enormi profitti a spese degli ultimi investitori che ci hanno creduto.
+               
+               La manipolazione non è reato
+               La società di ricerca Chainalysis stima che schemi di «pump and dump» abbiano coinvolto circa il 3,6% delle monete digitali create nell’ultimo anno, quota che equivale a oltre 74 mila potenziali cripto-truffe. Un caso sospetto è quello del Dogecoin, una criptovaluta nata per scherzo nel 2013 (una memecoin) e sostenuta da Elon Musk. Fra il 2019 e il 2021 il patron di Tesla lo ha esaltato con una sfilza di tweet: «Sarà la futura moneta del pianeta Terra»; «L’ho comprata per mio figlio»; «SpaceX porterà il Dogecoin sulla Luna». Il prezzo è schizzato in due anni del 36 mila per cento. Poi a maggio 2021 Musk, ospite del programma Saturday Night Live, ha detto che il Dogecoin è «una bufala». Tanto è bastato a scatenare un’ondata di vendite che ha causato un crollo del 90%.
+               
+               Un gruppo di investitori ha promosso contro il numero uno di Tesla una class action per manipolazione del mercato con richiesta di risarcimento per 258 miliardi di dollari. La causa è stata respinta dal tribunale di New York. Le dichiarazioni di Musk erano «aspirazionali e roboanti», ha detto il giudice; quindi, «nessun investitore ragionevole avrebbe potuto dar loro credito». D’altra parte, negli Stati Uniti non esiste alcuna regolamentazione specifica per Bitcoin & co; l’eventuale iniziativa repressiva è affidata a singole autorità, come la Security Exchange Commission e il Dipartimento di Giustizia, che negli ultimi anni hanno sanzionato influencer e società.
+               
+               Difficilmente però si attiveranno con la nuova amministrazione, dopo che l’industria cripto ha sostenuto con donazioni milionarie la campagna elettorale di Donald Trump. Il neopresidente, che nel 2021 aveva bollato il Bitcoin come una truffa, ora ha cambiato idea.
+               
+               L’incasso di Trump
+               Nel settembre del 2024 Trump e i suoi famigliari hanno fondato World Liberty Financial, e coniato il token Wlfi: in pochi mesi ne sono stati venduti 24 miliardi a un prezzo crescente fino a 5 centesimi l’uno, per un incasso di oltre mezzo miliardo. Poi, due giorni prima dell’ingresso alla Casa Bianca, il presidente ha lanciato la sua criptomoneta, $Trump. Partita da 18 centesimi, è schizzata a 75 dollari, salvo poi precipitare a 15, causando 2,2 miliardi di perdite a 885 mila investitori.
+               
+               Non tutti, però, ci hanno rimesso. Un anonimo trader, per esempio, ha piazzato una scommessa da un milione di dollari su $Trump a distanza di due minuti dal suo annuncio. Due giorni dopo ha ceduto quasi sei milioni di token con un profitto di 109 milioni. A vincere, però, è sempre il banco. La Trump Organization detiene 800 milioni di $Trump e li rilascerà sul mercato nei prossimi tre anni, passando gradualmente all’incasso, e ottiene anche una commissione per ogni scambio. Secondo Chainalysis, nei portafogli della Trump Organization sono già arrivati 349,6 milioni in poco più di un mese.
+               
+               Ascesa delle stablecoin
+               Il piano della Casa Bianca punta a rendere l’America il centro della finanza digitale globale, costituendo fra l’altro una riserva nazionale di bitcoin. L’ordine esecutivo del 23 gennaio di Trump richiede «di proteggere e promuovere la sovranità del dollaro statunitense, anche attraverso azioni per favorire lo sviluppo e la crescita globale di stablecoin lecite e ancorate al dollaro».
+               
+               Le stablecoin sono valute digitali che promettono di mantenere un valore stabile perché ricalcano l’andamento di una moneta sovrana. Le due principali stablecoin si chiamano Circle e Tether. Quest’ultima, creata nel 2013 dal torinese Giancarlo Devasini e guidata dal ligure Paolo Ardoino, ha molto successo. La ragione sta nel fatto che per ogni tether (UsdT) coniato esiste un equivalente deposito in dollari, sempre convertibile. Almeno questo è quanto assicura la società, che dichiara di avere più di 400 milioni di utenti (prevalentemente fra i risparmiatori dei mercati emergenti) e di aver coniato oltre 140 miliardi di UsdT. Le riserve dovrebbero quindi ammontare a oltre 140 miliardi di dollari, anche se Tether non ne ha mai sottoposto la consistenza a un esame completo e indipendente. È qui che i progetti delle stablecoin in dollari si saldano con i piani di Trump. Gran parte delle riserve di Tether e Circle è investita in titoli di Stato americani, per un totale di quasi 150 miliardi di dollari. In sostanza quando un argentino, un libanese o un nigeriano compra un UsdT di Tether o un UsdC di Circle sta di fatto finanziando il bilancio americano e, in prospettiva, i tagli alle tasse promessi da Trump. Ecco perché la Casa Bianca ha tanto interesse a che si diffondano il più possibile.
+               
+               Euro digitale: il no degli Usa
+               Dal 31 marzo Tether non sarà più acquistabile sulle cripto-borse Ue perché la normativa MiCAR impone di mantenere almeno il 60% delle loro riserve presso banche europee. Ma, ha avvertito il governatore di Banca d’Italia, Fabio Panetta, non è da escludere che altre piattaforme tecnologiche con miliardi di utenti possano lanciare una criptovaluta, con conseguenze dirompenti per la stabilità finanziaria e per la sovranità monetaria.
+               
+               Cosa accadrebbe se Meta, Amazon o X decidessero di lanciare una stablecoin? La Bce ritiene perciò indispensabile accelerare sul completamento del progetto di un euro digitale. La banca centrale di Pechino ha già coniato lo yuan digitale nel 2019, mentre la Fed ha abbandonato l’idea del dollaro digitale. L’ordine esecutivo di Trump impone del resto l’adozione di misure «per proteggere gli americani dai rischi delle monete digitali delle banche centrali». Se del caso, anche «vietando la loro circolazione e utilizzo» nel Paese. Un monito a tutte le banche centrali: le vostre monete digitali non avranno corso nella giurisdizione degli Stati Uniti. Benvenute invece cripto come Tether, società privata con sede nel paradiso fiscale di El Salvador.
+
+        
+
+
 # E
 	ENEL
 		2023
