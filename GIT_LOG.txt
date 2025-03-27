@@ -1,25 +1,27 @@
  
 [LOG] Inizio esecuzione script 
 ================================================== 
+[INFO] Contenuto della directory: 
  Il volume nell'unit… C Š Acer
  Numero di serie del volume: 9AC9-8549
 
  Directory di C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario
 
-27/03/2025  10:30    <DIR>          .
-27/03/2025  10:30    <DIR>          ..
+27/03/2025  10:37    <DIR>          .
+27/03/2025  10:37    <DIR>          ..
 18/04/2024  13:14    <DIR>          AnalisiTecnica
-27/03/2025  10:31                89 GIT_LOG.txt
+27/03/2025  10:37               125 GIT_LOG.txt
 04/12/2023  17:15                41 git_OpenGitHub.bat
 27/03/2025  09:24               912 git_STATUS+ADD+COMMIT+PUSH.BAT
 18/04/2024  13:14    <DIR>          NotiziarioEconominco
 07/10/2024  09:57    <DIR>          PDF
 04/12/2023  17:15                53 Progetto_Notiziario.sublime-project
 27/03/2025  09:24            33.593 Progetto_Notiziario.sublime-workspace
-27/03/2025  10:31             3.740 PUSH.BAT
-               6 File         38.428 byte
-               5 Directory  163.575.136.256 byte disponibili
+27/03/2025  10:37             4.352 PUSH.BAT
+               6 File         39.076 byte
+               5 Directory  163.577.937.920 byte disponibili
 [INFO] Controllo dello stato del repository... 
+[INFO] Stato del repository: 
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -35,5 +37,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 ================================================== 
 [INFO] Scarico aggiornamenti dal web... 
 Already up to date.
+[INFO] Aggiornamenti scaricati con successo! 
 ================================================== 
 [INFO] Aggiunta e commit delle modifiche... 
