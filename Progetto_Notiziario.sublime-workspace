@@ -24,36 +24,22 @@
 	"buffers":
 	[
 		{
-			"contents": "@ECHO ON\n@REM Disabilita la visualizzazione dei comandi nella shell\n\n@REM Verificare se Git è installato\ngit --version \n\n\n@REM Verificare se la directory del repository esiste\nIF NOT EXIST \"C:\\CASA\\GE_MARINO\\GE_CASA\\BANCA\\Notiziario\\\" (\n    ECHO [ERRORE] Directory del repository non trovata! >> GIT_LOG.txt\n    EXIT /B 1\n) ELSE (\n    ECHO [INFO] Directory trovata: C:\\CASA\\GE_MARINO\\GE_CASA\\BANCA\\Notiziario\\ >> GIT_LOG.txt\n)\n\n@REM Spostarsi nella directory del repository\n@CD /D c:\\CASA\\GE_MARINO\\GE_CASA\\BANCA\\Notiziario\\\n\n@REM Creare o svuotare il file di log\nECHO. > GIT_LOG.txt\nECHO [LOG] Inizio esecuzione script >> GIT_LOG.txt\n\n@ECHO ================================================== >> GIT_LOG.txt\nECHO ==================================================\n\n@REM Mostrare il contenuto della directory per verifica\n@ECHO [INFO] Contenuto della directory: >> GIT_LOG.txt\n@DIR >> GIT_LOG.txt 2>&1\n\n@REM ===================================================================\n@REM 01 - GIT STATUS: Controllo dello stato del repository\n@REM ===================================================================\nECHO [INFO] Controllo dello stato del repository... >> GIT_LOG.txt\n\ngit status >> temp_git_status.txt 2>&1\n@IF %ERRORLEVEL% NEQ 0 (\n    ECHO [ERRORE] git status ha fallito! >> GIT_LOG.txt\n) ELSE (\n    ECHO [INFO] Stato del repository: >> GIT_LOG.txt\n    findstr /V \"LF will be replaced by CRLF\" temp_git_status.txt >> GIT_LOG.txt\n)\nDEL temp_git_status.txt\n\n@ECHO ================================================== >> GIT_LOG.txt\nECHO ==================================================\n\n@REM Pausa di 3 secondi per il controllo\nTIMEOUT /T 3 /NOBREAK > NUL\n\n@REM ===================================================================\n@REM 02 - GIT PULL: Scaricare gli aggiornamenti dal repository remoto\n@REM ===================================================================\nECHO [INFO] Scarico aggiornamenti dal web... >> GIT_LOG.txt\n\ngit pull >> GIT_LOG.txt 2>&1\n@IF %ERRORLEVEL% NEQ 0 (\n    ECHO [ERRORE] git pull ha fallito! >> GIT_LOG.txt\n) ELSE (\n    ECHO [INFO] Aggiornamenti scaricati con successo! >> GIT_LOG.txt\n)\n\nECHO ================================================== >> GIT_LOG.txt\nECHO ==================================================\n\n@REM Pausa di 5 secondi per il controllo\nTIMEOUT /T 5 /NOBREAK > NUL\n\n@REM ===================================================================\n@REM 03 - GIT COMMIT: Aggiunta e commit delle modifiche\n@REM ===================================================================\nECHO [INFO] Aggiunta e commit delle modifiche... >> GIT_LOG.txt\n\ngit add . >> GIT_LOG.txt 2>&1\nIF %ERRORLEVEL% NEQ 0 (\n    ECHO [ERRORE] git add ha fallito! >> GIT_LOG.txt\n) ELSE (\n    ECHO [INFO] Modifiche aggiunte con successo! >> GIT_LOG.txt\n)\n\ngit commit -m \"aggiornamento Notiziario Economico\" >> GIT_LOG.txt 2>&1\nIF %ERRORLEVEL% NEQ 0 (\n    ECHO [ERRORE] git commit ha fallito! >> GIT_LOG.txt\n) ELSE (\n    ECHO [INFO] Commit effettuato con successo! >> GIT_LOG.txt\n)\n\nECHO ================================================== >> GIT_LOG.txt\nECHO ==================================================\n\n@REM Pausa di 10 secondi per garantire il commit\nTIMEOUT /T 10 /NOBREAK > NUL\n\n@REM ===================================================================\n@REM 04 - GIT PUSH: Invio delle modifiche al repository remoto\n@REM ===================================================================\nECHO [INFO] Invio delle modifiche al repository remoto... >> GIT_LOG.txt\n\ngit push >> GIT_LOG.txt 2>&1\nIF %ERRORLEVEL% NEQ 0 (\n    ECHO [ERRORE] git push ha fallito! >> GIT_LOG.txt\n) ELSE (\n    ECHO [INFO] Modifiche inviate con successo al repository remoto! >> GIT_LOG.txt\n)\n\nECHO ================================================== >> GIT_LOG.txt\nECHO ==================================================\n\n@REM Pausa di 3 secondi per il controllo finale\nTIMEOUT /T 3 /NOBREAK > NUL\n\nECHO [INFO] Operazione completata con successo! >> GIT_LOG.txt\nECHO ================================================== >> GIT_LOG.txt\n\nEXIT\n",
 			"file": "PUSH.BAT",
-			"file_size": 4154,
-			"file_write_time": 133875419958982704,
 			"settings":
 			{
-				"buffer_size": 4041,
+				"buffer_size": 4261,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
 				[
-					4,
+					3,
 					1,
-					"insert",
-					{
-						"characters": "@"
-					},
-					"AQAAAL4EAAAAAAAAvwQAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC+BAAAAAAAAL4EAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					14,
-					1,
-					"insert",
-					{
-						"characters": "@"
-					},
-					"AQAAALEHAAAAAAAAsgcAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACxBwAAAAAAALEHAAAAAAAAAAAAAAAAAAA"
+					"right_delete",
+					null,
+					"AQAAAA4QAAAAAAAADhAAAAAAAAAFAAAAUEFVU0U",
+					"AQAAAAAAAAABAAAAExAAAAAAAAAOEAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -277,15 +263,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4041,
+						"buffer_size": 4261,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2256,
-								2256
+								4110,
+								4110
 							]
 						],
 						"settings":
@@ -293,7 +279,7 @@
 							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 36.0,
+						"translation.y": 1937.6,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
