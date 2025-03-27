@@ -96,7 +96,7 @@ IF %ERRORLEVEL% NEQ 0 (
 @ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
 
-PAUSE
+
 
 @ECHO Pausa di 5 secondi per garantire il commit
 @ECHO ==================================================

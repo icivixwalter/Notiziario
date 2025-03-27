@@ -10,19 +10,19 @@ Mostrare il contenuto della directory per verifica
 
  Directory di C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario
 
-27/03/2025  12:40    <DIR>          .
-27/03/2025  12:40    <DIR>          ..
+27/03/2025  12:41    <DIR>          .
+27/03/2025  12:41    <DIR>          ..
 18/04/2024  13:14    <DIR>          AnalisiTecnica
-27/03/2025  12:41               301 GIT_LOG.txt
+27/03/2025  12:42               301 GIT_LOG.txt
 04/12/2023  17:15                41 git_OpenGitHub.bat
 27/03/2025  09:24               912 git_STATUS+ADD+COMMIT+PUSH.BAT
 18/04/2024  13:14    <DIR>          NotiziarioEconominco
 07/10/2024  09:57    <DIR>          PDF
 04/12/2023  17:15                53 Progetto_Notiziario.sublime-project
 27/03/2025  11:47            15.837 Progetto_Notiziario.sublime-workspace
-27/03/2025  12:41             4.406 PUSH.BAT
-               6 File         21.550 byte
-               5 Directory  162.821.353.472 byte disponibili
+27/03/2025  12:42             4.401 PUSH.BAT
+               6 File         21.545 byte
+               5 Directory  162.820.980.736 byte disponibili
 [INFO] Controllo dello stato del repository... 
 [INFO] Stato del repository: 
 On branch main
