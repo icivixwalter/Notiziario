@@ -98,9 +98,9 @@ IF %ERRORLEVEL% NEQ 0 (
 
 
 
-@ECHO Pausa di 10 secondi per garantire il commit
+@ECHO Pausa di 5 secondi per garantire il commit
 @ECHO ==================================================
-TIMEOUT /T 10 /NOBREAK > NUL
+TIMEOUT /T 5 /NOBREAK > NUL
 
 @ECHO
 @ECHO ===================================================================
