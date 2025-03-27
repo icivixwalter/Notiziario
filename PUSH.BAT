@@ -5,7 +5,7 @@
 git --version 
 
 
-@REM Verificare se la directory del repository esiste
+@ECHO Verificare se la directory del repository esiste
 IF NOT EXIST "C:\\CASA\\GE_MARINO\\GE_CASA\\BANCA\\Notiziario\\" (
     ECHO [ERRORE] Directory del repository non trovata! >> GIT_LOG.txt
     EXIT /B 1
@@ -13,10 +13,10 @@ IF NOT EXIST "C:\\CASA\\GE_MARINO\\GE_CASA\\BANCA\\Notiziario\\" (
     ECHO [INFO] Directory trovata: C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\ >> GIT_LOG.txt
 )
 
-@REM Spostarsi nella directory del repository
+@ECHO Spostarsi nella directory del repository
 @CD /D c:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\
 
-@REM Creare o svuotare il file di log
+@ECHO Creare o svuotare il file di log
 ECHO. > GIT_LOG.txt
 ECHO [LOG] Inizio esecuzione script >> GIT_LOG.txt
 
@@ -68,14 +68,14 @@ git pull >> GIT_LOG.txt 2>&1
 
 ECHO.
 ECHO ================================================== >> GIT_LOG.txt
+@ECHO Pausa di 5 secondi per il controllo
 ECHO ==================================================
 
-@REM Pausa di 5 secondi per il controllo
 TIMEOUT /T 5 /NOBREAK > NUL
 
-@REM ===================================================================
-@REM 03 - GIT COMMIT: Aggiunta e commit delle modifiche
-@REM ===================================================================
+@ECHO ===================================================================
+@ECHO 03 - GIT COMMIT: Aggiunta e commit delle modifiche
+@ECHO ===================================================================
 
 ECHO.
 ECHO [INFO] Aggiunta e commit delle modifiche... >> GIT_LOG.txt
@@ -101,9 +101,9 @@ IF %ERRORLEVEL% NEQ 0 (
 @REM Pausa di 10 secondi per garantire il commit
 TIMEOUT /T 10 /NOBREAK > NUL
 
-@REM ===================================================================
-@REM 04 - GIT PUSH: Invio delle modifiche al repository remoto
-@REM ===================================================================
+@ECHO ===================================================================
+@ECHO 04 - GIT PUSH: Invio delle modifiche al repository remoto
+@ECHO ===================================================================
 
 @ECHO.
 @ECHO [INFO] Invio delle modifiche al repository remoto... >> GIT_LOG.txt
@@ -117,9 +117,9 @@ IF %ERRORLEVEL% NEQ 0 (
 
 @ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
+@ECHO Pausa di 3 secondi per il controllo finale
 @ECHO ==================================================
 
-@REM Pausa di 3 secondi per il controllo finale
 TIMEOUT /T 3 /NOBREAK > NUL
 
 @ECHO.
