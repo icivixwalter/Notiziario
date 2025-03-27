@@ -96,7 +96,7 @@ IF %ERRORLEVEL% NEQ 0 (
 @ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
 
-
+PAUSE
 
 @ECHO Pausa di 5 secondi per garantire il commit
 @ECHO ==================================================
@@ -111,11 +111,12 @@ TIMEOUT /T 5 /NOBREAK > NUL
 @ECHO [INFO] Invio delle modifiche al repository remoto... >> GIT_LOG.txt
 
 git push >> GIT_LOG.txt 2>&1
-IF %ERRORLEVEL% NEQ 0 (
-    @ECHO [ERRORE] git push ha fallito! >> GIT_LOG.txt
-) ELSE (
-    @ECHO [INFO] Modifiche inviate con successo al repository remoto! >> GIT_LOG.txt
-)
+
+      IF %ERRORLEVEL% NEQ 0 (
+          @ECHO [ERRORE] git push ha fallito! >> GIT_LOG.txt
+      ) ELSE (
+          @ECHO [INFO] Modifiche inviate con successo al repository remoto! >> GIT_LOG.txt
+      )
 
 @ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
