@@ -95,11 +95,14 @@ IF %ERRORLEVEL% NEQ 0 (
 
 @ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
-@ECHO ==================================================
 
-@REM Pausa di 10 secondi per garantire il commit
+
+
+@ECHO Pausa di 10 secondi per garantire il commit
+@ECHO ==================================================
 TIMEOUT /T 10 /NOBREAK > NUL
 
+@ECHO
 @ECHO ===================================================================
 @ECHO 04 - GIT PUSH: Invio delle modifiche al repository remoto
 @ECHO ===================================================================
