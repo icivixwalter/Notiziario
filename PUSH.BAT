@@ -29,13 +29,13 @@ ECHO.
 @ECHO [INFO] Contenuto della directory: >> GIT_LOG.txt
 @DIR >> GIT_LOG.txt 2>&1
 
-@REM ===================================================================
-@REM 01 - GIT STATUS: Controllo dello stato del repository
-@REM ===================================================================
-ECHO.
-ECHO [INFO] Controllo dello stato del repository... >> GIT_LOG.txt
+@ECHO ===================================================================
+@ECHO 01 - GIT STATUS: Controllo dello stato del repository
+@ECHO ===================================================================
+@ECHO.
+@ECHO [INFO] Controllo dello stato del repository... >> GIT_LOG.txt
 
-ECHO.
+
 git status >> temp_git_status.txt 2>&1
 @IF %ERRORLEVEL% NEQ 0 (
     ECHO [ERRORE] git status ha fallito! >> GIT_LOG.txt
@@ -52,9 +52,9 @@ ECHO ==================================================
 @REM Pausa di 3 secondi per il controllo
 TIMEOUT /T 3 /NOBREAK > NUL
 
-@REM ===================================================================
-@REM 02 - GIT PULL: Scaricare gli aggiornamenti dal repository remoto
-@REM ===================================================================
+@ECHO ===================================================================
+@ECHO 02 - GIT PULL: Scaricare gli aggiornamenti dal repository remoto
+@ECHO ===================================================================
 ECHO.
 ECHO [INFO] Scarico aggiornamenti dal web... >> GIT_LOG.txt
 
