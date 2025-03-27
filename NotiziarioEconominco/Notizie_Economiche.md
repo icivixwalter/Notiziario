@@ -216,6 +216,99 @@ NOTIZIE_ECONOMICHE
                Dal 31 marzo Tether non sarà più acquistabile sulle cripto-borse Ue perché la normativa MiCAR impone di mantenere almeno il 60% delle loro riserve presso banche europee. Ma, ha avvertito il governatore di Banca d’Italia, Fabio Panetta, non è da escludere che altre piattaforme tecnologiche con miliardi di utenti possano lanciare una criptovaluta, con conseguenze dirompenti per la stabilità finanziaria e per la sovranità monetaria.
                
                Cosa accadrebbe se Meta, Amazon o X decidessero di lanciare una stablecoin? La Bce ritiene perciò indispensabile accelerare sul completamento del progetto di un euro digitale. La banca centrale di Pechino ha già coniato lo yuan digitale nel 2019, mentre la Fed ha abbandonato l’idea del dollaro digitale. L’ordine esecutivo di Trump impone del resto l’adozione di misure «per proteggere gli americani dai rischi delle monete digitali delle banche centrali». Se del caso, anche «vietando la loro circolazione e utilizzo» nel Paese. Un monito a tutte le banche centrali: le vostre monete digitali non avranno corso nella giurisdizione degli Stati Uniti. Benvenute invece cripto come Tether, società privata con sede nel paradiso fiscale di El Salvador.
+                
+         2025_03_26_Borse automatiche, così l’algoritmo altera le nuove cripto
+            Vittorio Carlini 26 marzo 2025
+
+                  La finanza decentralizzata. Un mondo in espansione. La riprova? La offre la
+                  crescita dei cosiddetti Decentralized exchange. Cioè: mercati automatici
+                  decentralizzati dove possono scambiarsi criptovalute, in maniera efficace,
+                  “peer to peer” e con bassi costi. In altre parole: piattaforme digitali in cui le
+                  proposte di negoziazione in vendita e acquisto sono “gestite” tramite
+                  contratti automatici (smart contract), i quali sfruttano scorte (pool) di
+                  liquidità per concretizzare gli scambi. In generale, un mondo che supera la
+                  necessità di avere terze parti (società di gestione del listino o stanza di
+                  compensazione) per realizzare il trading. In particolare, luoghi dove c’è
+                  anche il rischio di manipolazione delle quotazioni dei token e le possibili
+                  minusvalenze per l’investitore non mancano.
+                  Un esempio? Lo offre un’inchiesta realizzata dall’Università di Bologna e la
+                  Scuola Normale Superiore di Pisa. Nello studio gli scienziati hanno
+                  analizzato i token, collegati ad ether, creati e lanciati sulla piattaforma di
+                  finanza decentralizzata Uniswap V2 dal 10 ottobre al 2 dicembre 2024. Nella
+                  sostanza si tratta di 17.194 asset digitali. Una quantità che è stata raggiunta
+                  tramite la creazione di circa 15 nuovi token accoppiati con ether ogni ora
+                  (intorno a 500 al giorno). Un “mare” di coin i quali sono contraddistinti da
+                  alcune caratteristiche. Una di queste è «che, all’inizio e spesso in scia
+                  all’operatività di robot trader - spiegano Manuel Naviglio e Francesco
+                  Tarantelli coautori del paper insieme Fabrizio Lillo-, il prezzo dei tokencresce molto». Poi, però, in poco tempo «la loro quotazione diminuisce». In
+                  tal senso: il 58,2% dei token perde valore prima dei 60 swap mentre «90,6%
+                  dei medesimi decade prima che si concretizzino 500 swap». Insomma:
+                  un’immediata partenza all’insù e, poi, il ritorno sulla terra. In linea teorica,
+                  dicono sempre gli esperti, «lo scenario potrebbe portare ad un guadagno
+                  interessante per gli investitori. Se, infatti, è possibile comprare subito e
+                  rivendere dopo il boom, il profitto dovrebbe essere assicurato». Simulando
+                  questa strategia sul campione analizzato nel paper, gli scienziati mostrano
+                  un rendimento apparentemente altissimo: la plusvalenza per l’investitore di
+                  turno è del 1.556%
+                  Sennonché, la realtà è più complicata. Esistono delle situazioni - che gli
+                  esperti, similmente a quanto accade nei mercati tradizionali, sottolineano
+                  non essere in alcun modo legate alla gestione della piattaforma da parte di
+                  Uniswap - le quali possono dare vita a problemi. «Un’importante quota di
+                  liquidità - dicono Naviglio e Tarantelli- viene “intrappolata” nei token». Vale
+                  a dire? «Negli smart contrat che gestiscono l’usabilità del token stessi -
+                  spiegano i ricercatori - sono spesso inserite clausole le quali impediscono al
+                  compratore di vendere l’asset 
+                  tout cort 
+                  o non prima di un determinato
+                  momento». Si tratta di condizioni in teoria legittime le quali, però, da una
+                  parte «sfruttano il fatto che è di per sé difficile - anche per un esperto -
+                  individuare la clausola medesima che è scritta in un codice informatico»; e
+                  che, dall’altra, «risultano di fatto impossibili per il semplice investitore da
+                  interpretare». La situazione, a ben vedere, è riconducibile ai cosiddetti
+                  “honeypots” (“vasi miele”). Cioè: contratti che attirano - con il “miele” del
+                  possibile guadagno-l’operatore, nascondendo però delle insidie. Ebbene:
+                  questi rappresentano una grande parte dei token analizzati. Circa l’88% dei
+                  titoli digitali, spiegano gli sperti, può considerarsi tale. Ma non è solo una
+                  questione di “vasi di miele”. C’è un ulteriore elemento tipico. L’iniziale balzo
+                  verso l’alto, e successiva, discesa configura un contesto (sempre
+                  indipendente da Uniswap) dove è possibile la realizzazione di manipolazioni
+                  di mercato. Un esempio? Il cosiddetto “Rug pull” (letteralmente “ritirare iltappeto”). Qui il creatore del token crea un pool di liquidità sul token
+                  collegato agli ether, dando l’illusione che ci sia interesse per l’asset. Gli
+                  investitori corrono a comprarlo, facendone salire il prezzo. Quando le
+                  quotazioni sono andate all’insù, il “costruttore” del token rimuove la
+                  liquidità (soprattutto la parte in ether). Risultato? Il coin digitale non ha più
+                  mercato. Gli investitori non possono più venderlo e il creatore dell’asset si
+                  porta a casa il guadagno.
+                  Già, portare a casa il guadagno. «C’è anche un altro rischio» specificano
+                  Naviglio e Tarantelli. Il pericolo è che venga messa in atto la tecnica
+                  cosiddetta del sandwich. «In questo caso il meccanismo è il seguente:
+                  immaginiamo che il soggetto A voglia comprare un token per un ether».
+                  Questo acquisto farà salire il prezzo del token medesimo. «L’attaccante,
+                  spesso un robot ultra veloce - affermano gli esperti -, vede la transazione del
+                  soggetto A in attesa nella mempool». Cioè: lo spazio temporaneo dove tutte
+                  le proposte di negoziazione attendono di essere validate, ed inserite, in un
+                  blocco della blockchain stessa. Ebbene: l’operatore ultraveloce invia una
+                  transazione con una fee più alta. Così - avendo offerto, nella compravendita,
+                  una commissione maggiore - da un lato, la sua proposta sopravanza quella
+                  del soggetto A»; e, dall’altro, «riesce ad acquistare il token ad una quotazione
+                  inferiore a quella dello stesso A». Quest’ultimo, ignaro, compra come
+                  previsto e il prezzo del titolo digitale sale. A quel punto, l’attaccante vende e
+                  guadagna in quanto la quotazione è aumentata proprio in scia all’acquisto di
+                  A. Può obiettarsi: è una situazione eccezionale. «Non è così - ribattono
+                  Naviglio e Tarantelli-. Abbiamo calcolato che il 90% dei token vendibili e il
+                  68% degli “honeypots” sono stati colpiti da almeno un attacco sandwich».
+                  Insomma: ciò che appare come un luogo dove il guadagno è facile in realtà
+                  nasconde molte insidie. Certo! Le manipolazioni sono presenti anche sui
+                  mercati della finanza tradizionale. «E, però - sottolinea il giurista Andrea
+                  Conso- , si tratta di un settore che non è ancora intercettato dal regolamento
+                  europeo sulle cripto. La situazione, quindi, è più rischiosa e deve essere
+                  sanata al più presto. Ciò detto, da un lato non stupisce che simili fenomeni siconcretizzino; e, dall’altro, è fondamentale che l’investitore abbia piena
+                  consapevolezza di dove si trova e delle tecnicalità usate su queste
+                  piattaforme».
+                  © RIPRODUZIONE RISERVATA   
+
+
+
 
         
 
