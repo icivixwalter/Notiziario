@@ -120,10 +120,12 @@ git push >> GIT_LOG.txt 2>&1
 
 @ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
-@ECHO Pausa di 3 secondi per il controllo finale
+@ECHO. Pausa di 3 secondi per il controllo finale
 @ECHO ==================================================
 
 TIMEOUT /T 3 /NOBREAK > NUL
+
+PAUSE
 
 @ECHO.
 @ECHO [INFO] Operazione completata con successo! >> GIT_LOG.txt
