@@ -20,12 +20,12 @@ IF NOT EXIST "C:\\CASA\\GE_MARINO\\GE_CASA\\BANCA\\Notiziario\\" (
 ECHO. > GIT_LOG.txt
 ECHO [LOG] Inizio esecuzione script >> GIT_LOG.txt
 
-ECHO.
+@ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
-ECHO ==================================================
+@ECHO ==================================================
 
 ECHO.
-@REM Mostrare il contenuto della directory per verifica
+@ECHO Mostrare il contenuto della directory per verifica
 @ECHO [INFO] Contenuto della directory: >> GIT_LOG.txt
 @DIR >> GIT_LOG.txt 2>&1
 
