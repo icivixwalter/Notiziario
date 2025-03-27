@@ -20,18 +20,18 @@ IF NOT EXIST "C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\" (
 )
 
 @REM Spostarsi nella directory del repository
-CD /D c:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\
+@CD /D c:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\
 
 @REM Creare o svuotare il file di log
-ECHO. > GIT_LOG.txt
-ECHO [LOG] Inizio esecuzione script >> GIT_LOG.txt
+@ECHO. > GIT_LOG.txt
+@ECHO [LOG] Inizio esecuzione script >> GIT_LOG.txt
 
 ECHO ================================================== >> GIT_LOG.txt
 ECHO ==================================================
 
 @REM Mostrare il contenuto della directory per verifica
 ECHO [INFO] Contenuto della directory: >> GIT_LOG.txt
-DIR >> GIT_LOG.txt 2>&1
+@DIR >> GIT_LOG.txt 2>&1
 
 @REM ===================================================================
 @REM 01 - GIT STATUS: Controllo dello stato del repository
