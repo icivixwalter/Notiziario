@@ -5,7 +5,7 @@
 @ECHO OFF  @REM Disabilita la visualizzazione dei comandi nella shell
 
 @REM Verificare se Git è installato
-WHERE git >NUL 2>NUL
+git --version >NUL 2>NUL
 IF %ERRORLEVEL% EQU 0 (
     ECHO [INFO] Git trovato. >> GIT_LOG.txt
 ) ELSE (
@@ -13,7 +13,7 @@ IF %ERRORLEVEL% EQU 0 (
     EXIT /B 1
 )
 
-@REM Verificare se la directory esiste
+@REM Verificare se la directory del repository esiste
 IF NOT EXIST "C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\" (
     ECHO [ERRORE] Directory del repository non trovata! >> GIT_LOG.txt
     EXIT /B 1
@@ -33,9 +33,6 @@ ECHO ==================================================
 
 @REM Mostrare il contenuto della directory per verifica
 DIR >> GIT_LOG.txt 2>&1
-
-ECHO ================================================== >> GIT_LOG.txt
-ECHO ==================================================
 
 @REM ===================================================================
 @REM 01 - GIT STATUS: Controllo dello stato del repository
