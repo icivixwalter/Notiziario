@@ -47,7 +47,6 @@ DEL temp_git_status.txt
 
 ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
-ECHO ==================================================
 
 @REM Pausa di 3 secondi per il controllo
 TIMEOUT /T 3 /NOBREAK > NUL
