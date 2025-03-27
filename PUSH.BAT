@@ -42,7 +42,7 @@ IF %ERRORLEVEL% GTR 1 (
 DEL temp_git_status.txt
 
 
-PAUSE
+
 IF %ERRORLEVEL% NEQ 0 ECHO [ERRORE] git status ha fallito! >> GIT_LOG.txt
 ECHO ================================================== >> GIT_LOG.txt
 
