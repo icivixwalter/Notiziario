@@ -45,17 +45,17 @@ git status >> temp_git_status.txt 2>&1
 )
 DEL temp_git_status.txt
 
-ECHO.
+@ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
 
-@REM Pausa di 3 secondi per il controllo
+@ECHO Pausa di 3 secondi per il controllo
 TIMEOUT /T 3 /NOBREAK > NUL
 
 @ECHO ===================================================================
 @ECHO 02 - GIT PULL: Scaricare gli aggiornamenti dal repository remoto
 @ECHO ===================================================================
-ECHO.
-ECHO [INFO] Scarico aggiornamenti dal web... >> GIT_LOG.txt
+@ECHO.
+@ECHO [INFO] Scarico aggiornamenti dal web... >> GIT_LOG.txt
 
 ECHO.
 git pull >> GIT_LOG.txt 2>&1
