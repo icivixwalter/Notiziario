@@ -17,9 +17,9 @@
 07/10/2024  09:57    <DIR>          PDF
 04/12/2023  17:15                53 Progetto_Notiziario.sublime-project
 27/03/2025  09:24            33.593 Progetto_Notiziario.sublime-workspace
-27/03/2025  10:39             4.357 PUSH.BAT
-               6 File         39.081 byte
-               5 Directory  163.576.786.944 byte disponibili
+27/03/2025  10:39             4.154 PUSH.BAT
+               6 File         38.878 byte
+               5 Directory  163.576.418.304 byte disponibili
 [INFO] Controllo dello stato del repository... 
 [INFO] Stato del repository: 
 On branch main

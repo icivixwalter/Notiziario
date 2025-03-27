@@ -3,13 +3,7 @@
 
 @REM Verificare se Git è installato
 git --version 
-PAUSE
-IF %ERRORLEVEL% EQU 0 (
-    ECHO [INFO] Git trovato. >> GIT_LOG.txt
-) ELSE (
-    ECHO [ERRORE] Git non trovato! Assicurati che sia installato e aggiunto a PATH. >> GIT_LOG.txt
-    EXIT /B 1
-)
+
 
 @REM Verificare se la directory del repository esiste
 IF NOT EXIST "C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\" (
