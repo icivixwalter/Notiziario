@@ -1,8 +1,5 @@
-@REM ===================================================================
-@REM Script per la gestione del repository Git
-@REM ===================================================================
-
-@ECHO OFF  @REM Disabilita la visualizzazione dei comandi nella shell
+@ECHO OFF
+@REM Disabilita la visualizzazione dei comandi nella shell
 
 @REM Verificare se Git è installato
 git --version >NUL 2>NUL
