@@ -6,7 +6,7 @@ git --version
 
 
 @REM Verificare se la directory del repository esiste
-IF NOT EXIST "C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\" (
+IF NOT EXIST "C:\\CASA\\GE_MARINO\\GE_CASA\\BANCA\\Notiziario\\" (
     ECHO [ERRORE] Directory del repository non trovata! >> GIT_LOG.txt
     EXIT /B 1
 ) ELSE (
@@ -20,9 +20,11 @@ IF NOT EXIST "C:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\" (
 ECHO. > GIT_LOG.txt
 ECHO [LOG] Inizio esecuzione script >> GIT_LOG.txt
 
+ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
 ECHO ==================================================
 
+ECHO.
 @REM Mostrare il contenuto della directory per verifica
 @ECHO [INFO] Contenuto della directory: >> GIT_LOG.txt
 @DIR >> GIT_LOG.txt 2>&1
@@ -30,8 +32,10 @@ ECHO ==================================================
 @REM ===================================================================
 @REM 01 - GIT STATUS: Controllo dello stato del repository
 @REM ===================================================================
+ECHO.
 ECHO [INFO] Controllo dello stato del repository... >> GIT_LOG.txt
 
+ECHO.
 git status >> temp_git_status.txt 2>&1
 @IF %ERRORLEVEL% NEQ 0 (
     ECHO [ERRORE] git status ha fallito! >> GIT_LOG.txt
@@ -41,6 +45,7 @@ git status >> temp_git_status.txt 2>&1
 )
 DEL temp_git_status.txt
 
+ECHO.
 @ECHO ================================================== >> GIT_LOG.txt
 ECHO ==================================================
 
@@ -50,8 +55,10 @@ TIMEOUT /T 3 /NOBREAK > NUL
 @REM ===================================================================
 @REM 02 - GIT PULL: Scaricare gli aggiornamenti dal repository remoto
 @REM ===================================================================
+ECHO.
 ECHO [INFO] Scarico aggiornamenti dal web... >> GIT_LOG.txt
 
+ECHO.
 git pull >> GIT_LOG.txt 2>&1
 @IF %ERRORLEVEL% NEQ 0 (
     ECHO [ERRORE] git pull ha fallito! >> GIT_LOG.txt
@@ -59,6 +66,7 @@ git pull >> GIT_LOG.txt 2>&1
     ECHO [INFO] Aggiornamenti scaricati con successo! >> GIT_LOG.txt
 )
 
+ECHO.
 ECHO ================================================== >> GIT_LOG.txt
 ECHO ==================================================
 
@@ -68,6 +76,8 @@ TIMEOUT /T 5 /NOBREAK > NUL
 @REM ===================================================================
 @REM 03 - GIT COMMIT: Aggiunta e commit delle modifiche
 @REM ===================================================================
+
+ECHO.
 ECHO [INFO] Aggiunta e commit delle modifiche... >> GIT_LOG.txt
 
 git add . >> GIT_LOG.txt 2>&1
@@ -84,8 +94,9 @@ IF %ERRORLEVEL% NEQ 0 (
     ECHO [INFO] Commit effettuato con successo! >> GIT_LOG.txt
 )
 
-ECHO ================================================== >> GIT_LOG.txt
-ECHO ==================================================
+@ECHO.
+@ECHO ================================================== >> GIT_LOG.txt
+@ECHO ==================================================
 
 @REM Pausa di 10 secondi per garantire il commit
 TIMEOUT /T 10 /NOBREAK > NUL
@@ -93,22 +104,26 @@ TIMEOUT /T 10 /NOBREAK > NUL
 @REM ===================================================================
 @REM 04 - GIT PUSH: Invio delle modifiche al repository remoto
 @REM ===================================================================
-ECHO [INFO] Invio delle modifiche al repository remoto... >> GIT_LOG.txt
+
+@ECHO.
+@ECHO [INFO] Invio delle modifiche al repository remoto... >> GIT_LOG.txt
 
 git push >> GIT_LOG.txt 2>&1
 IF %ERRORLEVEL% NEQ 0 (
-    ECHO [ERRORE] git push ha fallito! >> GIT_LOG.txt
+    @ECHO [ERRORE] git push ha fallito! >> GIT_LOG.txt
 ) ELSE (
-    ECHO [INFO] Modifiche inviate con successo al repository remoto! >> GIT_LOG.txt
+    @ECHO [INFO] Modifiche inviate con successo al repository remoto! >> GIT_LOG.txt
 )
 
-ECHO ================================================== >> GIT_LOG.txt
-ECHO ==================================================
+@ECHO.
+@ECHO ================================================== >> GIT_LOG.txt
+@ECHO ==================================================
 
 @REM Pausa di 3 secondi per il controllo finale
 TIMEOUT /T 3 /NOBREAK > NUL
 
-ECHO [INFO] Operazione completata con successo! >> GIT_LOG.txt
-ECHO ================================================== >> GIT_LOG.txt
+@ECHO.
+@ECHO [INFO] Operazione completata con successo! >> GIT_LOG.txt
+@ECHO ================================================== >> GIT_LOG.txt
 
 EXIT
