@@ -23,26 +23,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "PUSH.BAT",
-			"settings":
-			{
-				"buffer_size": 4261,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					3,
-					1,
-					"right_delete",
-					null,
-					"AQAAAA4QAAAAAAAADhAAAAAAAAAFAAAAUEFVU0U",
-					"AQAAAAAAAAABAAAAExAAAAAAAAAOEAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -256,36 +236,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "PUSH.BAT",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4261,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4110,
-								4110
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1937.6,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -352,7 +302,7 @@
 		[
 			[
 				"",
-				"C:\\GESTIONI\\GESTIONE_LLPP\\25_GESTIONE_LLPP\\NUMERI_TELEFONICI_Dipendenti in Servizio.sublime-project"
+				"Y:\\LAVORI_PUBBLICI_FINO_AL_30_09_2019\\Valter\\OPERE_PUBBLICHE\\51_TERRITORIO_COMUNALE_MESSA_IN_SICUREZZA\\02_LARGO_TURRIZIANI\\Project_LARGO_TURRIZIANI.sublime-project"
 			]
 		],
 		"width": 389.6

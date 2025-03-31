@@ -44,3 +44,17 @@ Already up to date.
 [INFO] Aggiornamenti scaricati con successo! 
 ================================================== 
 [INFO] Aggiunta e commit delle modifiche... 
+warning: in the working copy of 'GIT_LOG.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Progetto_Notiziario.sublime-workspace', LF will be replaced by CRLF the next time Git touches it
+[INFO] Modifiche aggiunte con successo! 
+[main 497bbdb] aggiornamento Notiziario Economico
+ 3 files changed, 20 insertions(+), 33 deletions(-)
+[INFO] Commit effettuato con successo! 
+================================================== 
+[INFO] Invio delle modifiche al repository remoto... 
+To https://github.com/icivixwalter/Notiziario.git
+   c179ea8..497bbdb  main -> main
+[INFO] Modifiche inviate con successo al repository remoto! 
+================================================== 
+[INFO] Operazione completata con successo! 
+================================================== 
