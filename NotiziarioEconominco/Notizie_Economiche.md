@@ -467,6 +467,31 @@ NOTIZIE_ECONOMICHE
 
 			«Dobbiamo essere chiari - dice Assia - le criptovalute non devono superare il 3-4% del totale delle attività di un investitore, solo in alcuni casi possiamo spingerci fino al 10%, a seconda della propensione al rischio e dell’età dell’investitore. EToro è una piattaforma unica, ma lo diciamo noi per primi: non è fatta per tutti. Se qualcuno sta cercando attività di tipo previdenziale eToro non è la migliore offerta. Ma in tutti gli altri casi offriamo servizi unici nel panorama mondiale». Partner di Twitter, eToro ha una manifesta ambizione a crescere. Il 2025 potrebbe essere l’anno dello sbarco sui mercati azionari, con la quotazione a Londra o a Wall Street. Al momento, oltre alla famiglia Assia e ad alcuni manager, partecipano il capitale di eToro il gruppo Ion, Softbank Vision fund 2, Velvet Sea ventures e Aglaé ventures, una società di venture capital partecipata dal gruppo Arnault (Lvmh). L’obiettivo è crescere. Anche nell’offerta di servizi. Già oggi in Gran Bretagna è disponibile una card fisica, appoggiata al circuito Visa per i pagamenti di tutti i giorni e per rendere eToro un po’ più simile alla banca di nonno Yehuda.
 # D
+   DAZI 
+      2025_04_22_DAZI_USA_PANNELLI_SOLARI 
+
+         @Dazi, Usa annunciano tariffe fino al 3.521% su pannelli solari da sud-est asiatico
+         Secondo un’indagine, molte aziende del Sud-est asiatico sarebbero controllate da colossi cinesi e sosterrebbero una concorrenza sleale grazie a sovvenzioni statali
+         
+         Gli Stati Uniti si preparano a imporre dazi doganali fino al 3.521% sui pannelli solari importati da Cambogia, Malesia, Thailandia e Vietnam. È quanto annunciato dal Dipartimento del Commercio, che accusa Pechino di sostenere in modo indiretto la produzione in questi Paesi, aggirando così le restrizioni esistenti contro i prodotti cinesi.
+         
+         L’iniziativa nasce da un’indagine avviata nell’aprile 2024, su richiesta dell’American Solar Industry Alliance, secondo cui molte aziende del Sud-est asiatico sarebbero in realtà controllate da colossi cinesi e dunque sosterrebbero una concorrenza sleale grazie a sovvenzioni statali. Secondo l’International Trade Administration (ITA), sono emerse per la prima volta prove concrete di sussidi transnazionali, una pratica che ha permesso a produttori stranieri di abbassare artificialmente i costi, danneggiando il mercato statunitense.
+         
+         Le tariffe proposte variano da un minimo del 34,41% per i prodotti malesi a un impressionante 651,85% per quelli cambogiani. Ma per due aziende in particolare, 
+         @aziende@pannelli@solari
+         Hounen Solar e Solar Long PV-Tech, il dazio salirebbe addirittura al 3.521%, più di 35 volte il valore dei prodotti venduti.
+         
+         
+         
+         In totale, sarebbero coinvolti quasi 12 miliardi di dollari di importazioni registrate nel 2023. La misura, se approvata, andrebbe a sommarsi al 10% di dazio generalizzato introdotto dal presidente Trump il 2 aprile su una vasta gamma di beni importati, incluso il fotovoltaico, oltre ad altri balzelli doganali momentaneamente sospesi.
+         
+         
+         Prima dell’entrata in vigore, spetterà all’International Trade Commission (ITC) valutare entro il 2 giugno se i sussidi abbiano effettivamente distorto la concorrenza sul mercato americano. Solo allora i dazi diventeranno operativi.
+         
+         Per Washington, si tratta di un nuovo fronte nella guerra commerciale contro Pechino, che, pur non direttamente colpita, vede ora nel Sud-est asiatico una rete di produzione che rischia di essere chiusa alla più grande economia del mondo.
+
+
+
 
 	DE NORA ITALY
 		2024
