@@ -225,7 +225,41 @@ FinecoWebinar.md
 
 
 2025
-	ETF 
+	DIFESA
+      2025_04_22=DIFESA EUROPEA 
+            Note 
+               aumento della domandi di investimenti nel settore della difesa 
+               europea 
+               Attenzione che il benckmark degli investimenti SI BASA SUGLI ETF perchè il presentataore si è basato solo gli etf gli altri investimenti no.
+
+
+
+            INPEGNI NATO
+               gli obiettivi primari è colmare le lacune che ha la nato nella 
+               difesa che è aumentata dal 2021 al 2024 con l'invazione dell'ucraina e la slide i paesi dell'est europeo si trovano al 4% dalla Polonia, Grecia  Estonia e Lituania sono tra il 4% fino al 3% rimane indietro Itali e Spagna che non raggiunge 1%.
+               Il CAGR = tasso annuo di crescita composto si evidenza che gli ordini margini statali sono passati dall' 11% fino a 15,9% del 2024 fino al 2029 (avranno le imprese un vendite del 11% e utili 16%)
+               La diffrenza tra USA che spende il 16% mentre l'europa solo il 4,50%.
+               l'europa ha la necessita di aumentare le tecnologie per sganciarsi dagli Usa.
+               Le finanze pubbliche USA sono limitate per la difesa infatti dal 2020 sono aumentate le spese sociali e si sono ridotte quelle della difesa a causa del debito statale infatti i titoli stato sono al 4% con gli interessi che assorbono l'11% degli intressi 
+               mai cosi alto per gli stati uniti.
+               Il rapporto draghi prevede che per i prossimi decenni occorrono
+               500 migliardi di euro per la difesa.
+               Tali importo senvono per costituire le scorte e munizioni, sostituzione dei carri armati pesanti  ed i corazzati ed artiglieria, e rafforzare la difesa aerea e missilistica.
+
+               Le proposte della difesa europea sono:
+                  EPF = fondo di bilancio per 17 mld per l'acquisto di materiale militare e munizioni per le forze armate ucraini.
+
+                  FED = secondo strumento, il fondo europea per la difesa per un totale di 8 mld per 5 anni per combattimento aereo terrestre e spazio.
+
+                  ASPA = 500 mln per la produzione di munizioni e proiettili 
+                  
+
+            TENSIONI GEOPOLITICHE 
+            PROGRESSI TECNOLOGICI 
+            CONSOLIDAMENTO DELL'INDUSTRIA EUROPEA 
+
+
+   ETF 
 		2025_01_22="Come investire con gli ETF
 			EFT CARATTERISTICHE
 					ETF (acronimo di Exchange Traded Funds)  fondi di investimento passivi,
