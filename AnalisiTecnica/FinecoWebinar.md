@@ -252,7 +252,56 @@ FinecoWebinar.md
                   FED = secondo strumento, il fondo europea per la difesa per un totale di 8 mld per 5 anni per combattimento aereo terrestre e spazio.
 
                   ASPA = 500 mln per la produzione di munizioni e proiettili 
-                  
+
+            EDIS Strategia europea per il settore della difesa 
+               sono 500 Mld  annuo per 10 anni per le industrie europee.
+
+               Attenzione alla autonmia strategica 
+                  appunto per le aziende europea e non usa
+
+               Innovazione ed espansione 
+                  dell'europa per la vendita delle armi.
+
+               GLI OBIETTIVI 
+                  1) COMMERIO INTEREUROPE NEL SETTORE DELLA DIFESA EUROPEA
+                     il 35% delle spesa deve essere europeo si
+                  2) INVESTIMENTO NEL SETTORE DELLA DIFESA EUROPEA   
+                     entro il 2030 %50 deve essere speso per la difesa per
+                  3) 60% del bilancio deve essere speso per
+
+
+               PERSONALE MILITARE   
+                  Usa      1.830.000
+                  Europa   1.816.000
+
+                  La nato ha 2,4 milioni di militari .
+
+
+
+            LEADER DELLA DIFESA EUROPEA 
+
+               Babcok
+               Bae 
+               cheming group 
+               ....
+               Leonardo 
+               Fincantieri spa 
+
+
+               Saab 
+
+                  le anziende europee inserite in ETF per gli investimenti.
+
+                  AZIENDE 
+
+                        START "AZIENDE DIFESA" "c:\CASA\GE_MARINO\GE_CASA\BANCA\Notiziario\PDF\2025_04_22_AZIENDE_DIFESA.pdf"
+
+
+
+
+
+
+
 
             TENSIONI GEOPOLITICHE 
             PROGRESSI TECNOLOGICI 
