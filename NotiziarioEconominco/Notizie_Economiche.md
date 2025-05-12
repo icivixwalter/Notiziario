@@ -174,169 +174,196 @@ NOTIZIE_ECONOMICHE
 				Restando nel mondo delle materie prime, i prossimi mesi si annunciano tranquilli per il petrolio che, nel caso del Brent si muove senza grande direzionalità tra 77 e 92 dollari e questo va di pari passo con il cambio euro-dollaro, che sta attraversando una lunga fase laterale. Ma dopo le elezioni statunitensi ci si aspetta un euro più forte con un’estensione fino ad area 1,25. Dulcis in fundo, Piazza Affari. L’indice Ftse Mib da marzo 2024 è in un range tra 32 e 35 mila. È in corso una rotazione settoriale, ma i bancari continuano a tenere nonostante il taglio dei tassi Bce. «Dal punto di vista settoriale – conclude Ramigni – pare essere tornato l’interesse sui titoli farmaceutici. Il lusso è in discesa, ma ciò rappresenta un’opportunità di acquisto, in particolare Moncler che in area 53 euro diventa interessante, mentre Stm ha un supporto rilevante a 30 euro da cui potrebbe ripartire. Il titolo che piace di più è Fincantieri che, post aumento di capitale, potrebbe beneficiare di una situazione simile a quella di Saipem e Monte dei Paschi di Siena, rivitalizzate dopo la ricapitalizzazione. Sarebbe la grande sorpresa di fine anno, con target a 7 euro».
 
 # C
-		CHINA CSSC HOLDINGS
-			2024_09_04_(Cina, mega fusione nel navale   China Cssc Holdings)
-				Mega fusione nelle costruzioni navali statali in Cina. China Cssc Holdings assorbirà la più piccola China Shipbuilding Industry Corporation. Le due controllate di China State Shipbuilding Corporation creano una nuova entità da 38 miliardi di dollari di capitalizzazione, consolidando la Cina come big mondiale del settore.
+   CH
+            CHINA CSSC HOLDINGS
+               2024_09_04_(Cina, mega fusione nel navale   China Cssc Holdings)
+                  Mega fusione nelle costruzioni navali statali in Cina. China Cssc Holdings assorbirà la più piccola China Shipbuilding Industry Corporation. Le due controllate di China State Shipbuilding Corporation creano una nuova entità da 38 miliardi di dollari di capitalizzazione, consolidando la Cina come big mondiale del settore.
+      
+            Criptovalute
+               2024_03_10_(L’era delle criptovalute Chi guadagna davvero)_(Dogecoin)
+                     
+                     di Francesco Bertolinoe Milena Gabanelli
+                     dopo il bitcoin è nato un mercato da 3.300 miliardi di dollari
+                     
+                     il riciclaggio e la fregatura del Dogecoin, esaltato da musk
+                     
+                     cosa sono gli stablecoin e come si saldano ai piani di trump
+                     
+                     
+                     «H o lavorato su un sistema di pagamento elettronico totalmente privo di intermediari, che elimina la necessità di garanti». Con questa breve dichiarazione, il 31 ottobre 2008, il misterioso Satoshi Nakamoto lanciava il Bitcoin, una moneta virtuale senza Paesi emittenti né banche centrali. Al loro posto una blockchain, un registro digitale pubblico delle transazioni, immodificabile e aggiornato dalla comunità degli utenti. Oggi l’identità del suo creatore è ancora ignota, si sa soltanto che possiede un milione di bitcoin che, ai corsi attuali, corrisponde a 84 miliardi di euro. Nel frattempo, pochissimi hanno utilizzato la moneta «anarchica» per pagare a causa delle oscillazioni estreme del suo valore. Il Bitcoin è invece diventato una sorta di «oro digitale»: raro perché la quantità massima coniabile è fissata dall’algoritmo a 21 milioni; desiderato proprio perché scarso e nella convinzione che la sua corsa al rialzo sia destinata a proseguire. Alcuni ci hanno guadagnato, altri ci hanno perso, altri ancora lo hanno utilizzato per riciclare denaro sporco.
+                     
+                     In questi 16 anni, intanto, hanno proliferato milioni di imitazioni, perlopiù prive di alcun valore se non quello che viene riconosciuto dai loro acquirenti. Ne è nato un mercato da oltre 3.300 miliardi di dollari, quattro volte la capitalizzazione totale di Borsa Italiana. Solo nel 2024 sono spuntati oltre due milioni di nuovi token, con finalità non sempre chiare.
+                     
+                     In alcuni casi sono serviti per attuare frodi note come «wash trading» e «pump and dump». Con la prima un gruppo di persone o un esercito di bot si scambia più volte un bene digitale per aumentarne artificialmente il valore e poi venderlo a un ignaro acquirente. Con la seconda, «gonfia e scarica», i detentori di una criptovaluta o, più di frequente, i suoi creatori ne magnificano sui social le prospettive di crescita, ne fanno così salire le quotazioni e, infine, liquidano sul mercato i propri portafogli, realizzando enormi profitti a spese degli ultimi investitori che ci hanno creduto.
+                     
+                     La manipolazione non è reato
+                     La società di ricerca Chainalysis stima che schemi di «pump and dump» abbiano coinvolto circa il 3,6% delle monete digitali create nell’ultimo anno, quota che equivale a oltre 74 mila potenziali cripto-truffe. Un caso sospetto è quello del Dogecoin, una criptovaluta nata per scherzo nel 2013 (una memecoin) e sostenuta da Elon Musk. Fra il 2019 e il 2021 il patron di Tesla lo ha esaltato con una sfilza di tweet: «Sarà la futura moneta del pianeta Terra»; «L’ho comprata per mio figlio»; «SpaceX porterà il Dogecoin sulla Luna». Il prezzo è schizzato in due anni del 36 mila per cento. Poi a maggio 2021 Musk, ospite del programma Saturday Night Live, ha detto che il Dogecoin è «una bufala». Tanto è bastato a scatenare un’ondata di vendite che ha causato un crollo del 90%.
+                     
+                     Un gruppo di investitori ha promosso contro il numero uno di Tesla una class action per manipolazione del mercato con richiesta di risarcimento per 258 miliardi di dollari. La causa è stata respinta dal tribunale di New York. Le dichiarazioni di Musk erano «aspirazionali e roboanti», ha detto il giudice; quindi, «nessun investitore ragionevole avrebbe potuto dar loro credito». D’altra parte, negli Stati Uniti non esiste alcuna regolamentazione specifica per Bitcoin & co; l’eventuale iniziativa repressiva è affidata a singole autorità, come la Security Exchange Commission e il Dipartimento di Giustizia, che negli ultimi anni hanno sanzionato influencer e società.
+                     
+                     Difficilmente però si attiveranno con la nuova amministrazione, dopo che l’industria cripto ha sostenuto con donazioni milionarie la campagna elettorale di Donald Trump. Il neopresidente, che nel 2021 aveva bollato il Bitcoin come una truffa, ora ha cambiato idea.
+                     
+                     L’incasso di Trump
+                     Nel settembre del 2024 Trump e i suoi famigliari hanno fondato World Liberty Financial, e coniato il token Wlfi: in pochi mesi ne sono stati venduti 24 miliardi a un prezzo crescente fino a 5 centesimi l’uno, per un incasso di oltre mezzo miliardo. Poi, due giorni prima dell’ingresso alla Casa Bianca, il presidente ha lanciato la sua criptomoneta, $Trump. Partita da 18 centesimi, è schizzata a 75 dollari, salvo poi precipitare a 15, causando 2,2 miliardi di perdite a 885 mila investitori.
+                     
+                     Non tutti, però, ci hanno rimesso. Un anonimo trader, per esempio, ha piazzato una scommessa da un milione di dollari su $Trump a distanza di due minuti dal suo annuncio. Due giorni dopo ha ceduto quasi sei milioni di token con un profitto di 109 milioni. A vincere, però, è sempre il banco. La Trump Organization detiene 800 milioni di $Trump e li rilascerà sul mercato nei prossimi tre anni, passando gradualmente all’incasso, e ottiene anche una commissione per ogni scambio. Secondo Chainalysis, nei portafogli della Trump Organization sono già arrivati 349,6 milioni in poco più di un mese.
+                     
+                     Ascesa delle stablecoin
+                     Il piano della Casa Bianca punta a rendere l’America il centro della finanza digitale globale, costituendo fra l’altro una riserva nazionale di bitcoin. L’ordine esecutivo del 23 gennaio di Trump richiede «di proteggere e promuovere la sovranità del dollaro statunitense, anche attraverso azioni per favorire lo sviluppo e la crescita globale di stablecoin lecite e ancorate al dollaro».
+                     
+                     Le stablecoin sono valute digitali che promettono di mantenere un valore stabile perché ricalcano l’andamento di una moneta sovrana. Le due principali stablecoin si chiamano Circle e Tether. Quest’ultima, creata nel 2013 dal torinese Giancarlo Devasini e guidata dal ligure Paolo Ardoino, ha molto successo. La ragione sta nel fatto che per ogni tether (UsdT) coniato esiste un equivalente deposito in dollari, sempre convertibile. Almeno questo è quanto assicura la società, che dichiara di avere più di 400 milioni di utenti (prevalentemente fra i risparmiatori dei mercati emergenti) e di aver coniato oltre 140 miliardi di UsdT. Le riserve dovrebbero quindi ammontare a oltre 140 miliardi di dollari, anche se Tether non ne ha mai sottoposto la consistenza a un esame completo e indipendente. È qui che i progetti delle stablecoin in dollari si saldano con i piani di Trump. Gran parte delle riserve di Tether e Circle è investita in titoli di Stato americani, per un totale di quasi 150 miliardi di dollari. In sostanza quando un argentino, un libanese o un nigeriano compra un UsdT di Tether o un UsdC di Circle sta di fatto finanziando il bilancio americano e, in prospettiva, i tagli alle tasse promessi da Trump. Ecco perché la Casa Bianca ha tanto interesse a che si diffondano il più possibile.
+                     
+                     Euro digitale: il no degli Usa
+                     Dal 31 marzo Tether non sarà più acquistabile sulle cripto-borse Ue perché la normativa MiCAR impone di mantenere almeno il 60% delle loro riserve presso banche europee. Ma, ha avvertito il governatore di Banca d’Italia, Fabio Panetta, non è da escludere che altre piattaforme tecnologiche con miliardi di utenti possano lanciare una criptovaluta, con conseguenze dirompenti per la stabilità finanziaria e per la sovranità monetaria.
+                     
+                     Cosa accadrebbe se Meta, Amazon o X decidessero di lanciare una stablecoin? La Bce ritiene perciò indispensabile accelerare sul completamento del progetto di un euro digitale. La banca centrale di Pechino ha già coniato lo yuan digitale nel 2019, mentre la Fed ha abbandonato l’idea del dollaro digitale. L’ordine esecutivo di Trump impone del resto l’adozione di misure «per proteggere gli americani dai rischi delle monete digitali delle banche centrali». Se del caso, anche «vietando la loro circolazione e utilizzo» nel Paese. Un monito a tutte le banche centrali: le vostre monete digitali non avranno corso nella giurisdizione degli Stati Uniti. Benvenute invece cripto come Tether, società privata con sede nel paradiso fiscale di El Salvador.
+                      
+               2025_03_26_Borse automatiche, così l’algoritmo altera le nuove cripto
+                  Vittorio Carlini 26 marzo 2025
+      
+                        La finanza decentralizzata. Un mondo in espansione. La riprova? La offre la
+                        crescita dei cosiddetti Decentralized exchange. Cioè: mercati automatici
+                        decentralizzati dove possono scambiarsi criptovalute, in maniera efficace,
+                        “peer to peer” e con bassi costi. In altre parole: piattaforme digitali in cui le
+                        proposte di negoziazione in vendita e acquisto sono “gestite” tramite
+                        contratti automatici (smart contract), i quali sfruttano scorte (pool) di
+                        liquidità per concretizzare gli scambi. In generale, un mondo che supera la
+                        necessità di avere terze parti (società di gestione del listino o stanza di
+                        compensazione) per realizzare il trading. In particolare, luoghi dove c’è
+                        anche il rischio di manipolazione delle quotazioni dei token e le possibili
+                        minusvalenze per l’investitore non mancano.
+                        Un esempio? Lo offre un’inchiesta realizzata dall’Università di Bologna e la
+                        Scuola Normale Superiore di Pisa. Nello studio gli scienziati hanno
+                        analizzato i token, collegati ad ether, creati e lanciati sulla piattaforma di
+                        finanza decentralizzata Uniswap V2 dal 10 ottobre al 2 dicembre 2024. Nella
+                        sostanza si tratta di 17.194 asset digitali. Una quantità che è stata raggiunta
+                        tramite la creazione di circa 15 nuovi token accoppiati con ether ogni ora
+                        (intorno a 500 al giorno). Un “mare” di coin i quali sono contraddistinti da
+                        alcune caratteristiche. Una di queste è «che, all’inizio e spesso in scia
+                        all’operatività di robot trader - spiegano Manuel Naviglio e Francesco
+                        Tarantelli coautori del paper insieme Fabrizio Lillo-, il prezzo dei tokencresce molto». Poi, però, in poco tempo «la loro quotazione diminuisce». In
+                        tal senso: il 58,2% dei token perde valore prima dei 60 swap mentre «90,6%
+                        dei medesimi decade prima che si concretizzino 500 swap». Insomma:
+                        un’immediata partenza all’insù e, poi, il ritorno sulla terra. In linea teorica,
+                        dicono sempre gli esperti, «lo scenario potrebbe portare ad un guadagno
+                        interessante per gli investitori. Se, infatti, è possibile comprare subito e
+                        rivendere dopo il boom, il profitto dovrebbe essere assicurato». Simulando
+                        questa strategia sul campione analizzato nel paper, gli scienziati mostrano
+                        un rendimento apparentemente altissimo: la plusvalenza per l’investitore di
+                        turno è del 1.556%
+                        Sennonché, la realtà è più complicata. Esistono delle situazioni - che gli
+                        esperti, similmente a quanto accade nei mercati tradizionali, sottolineano
+                        non essere in alcun modo legate alla gestione della piattaforma da parte di
+                        Uniswap - le quali possono dare vita a problemi. «Un’importante quota di
+                        liquidità - dicono Naviglio e Tarantelli- viene “intrappolata” nei token». Vale
+                        a dire? «Negli smart contrat che gestiscono l’usabilità del token stessi -
+                        spiegano i ricercatori - sono spesso inserite clausole le quali impediscono al
+                        compratore di vendere l’asset 
+                        tout cort 
+                        o non prima di un determinato
+                        momento». Si tratta di condizioni in teoria legittime le quali, però, da una
+                        parte «sfruttano il fatto che è di per sé difficile - anche per un esperto -
+                        individuare la clausola medesima che è scritta in un codice informatico»; e
+                        che, dall’altra, «risultano di fatto impossibili per il semplice investitore da
+                        interpretare». La situazione, a ben vedere, è riconducibile ai cosiddetti
+                        “honeypots” (“vasi miele”). Cioè: contratti che attirano - con il “miele” del
+                        possibile guadagno-l’operatore, nascondendo però delle insidie. Ebbene:
+                        questi rappresentano una grande parte dei token analizzati. Circa l’88% dei
+                        titoli digitali, spiegano gli sperti, può considerarsi tale. Ma non è solo una
+                        questione di “vasi di miele”. C’è un ulteriore elemento tipico. L’iniziale balzo
+                        verso l’alto, e successiva, discesa configura un contesto (sempre
+                        indipendente da Uniswap) dove è possibile la realizzazione di manipolazioni
+                        di mercato. Un esempio? Il cosiddetto “Rug pull” (letteralmente “ritirare iltappeto”). Qui il creatore del token crea un pool di liquidità sul token
+                        collegato agli ether, dando l’illusione che ci sia interesse per l’asset. Gli
+                        investitori corrono a comprarlo, facendone salire il prezzo. Quando le
+                        quotazioni sono andate all’insù, il “costruttore” del token rimuove la
+                        liquidità (soprattutto la parte in ether). Risultato? Il coin digitale non ha più
+                        mercato. Gli investitori non possono più venderlo e il creatore dell’asset si
+                        porta a casa il guadagno.
+                        Già, portare a casa il guadagno. «C’è anche un altro rischio» specificano
+                        Naviglio e Tarantelli. Il pericolo è che venga messa in atto la tecnica
+                        cosiddetta del sandwich. «In questo caso il meccanismo è il seguente:
+                        immaginiamo che il soggetto A voglia comprare un token per un ether».
+                        Questo acquisto farà salire il prezzo del token medesimo. «L’attaccante,
+                        spesso un robot ultra veloce - affermano gli esperti -, vede la transazione del
+                        soggetto A in attesa nella mempool». Cioè: lo spazio temporaneo dove tutte
+                        le proposte di negoziazione attendono di essere validate, ed inserite, in un
+                        blocco della blockchain stessa. Ebbene: l’operatore ultraveloce invia una
+                        transazione con una fee più alta. Così - avendo offerto, nella compravendita,
+                        una commissione maggiore - da un lato, la sua proposta sopravanza quella
+                        del soggetto A»; e, dall’altro, «riesce ad acquistare il token ad una quotazione
+                        inferiore a quella dello stesso A». Quest’ultimo, ignaro, compra come
+                        previsto e il prezzo del titolo digitale sale. A quel punto, l’attaccante vende e
+                        guadagna in quanto la quotazione è aumentata proprio in scia all’acquisto di
+                        A. Può obiettarsi: è una situazione eccezionale. «Non è così - ribattono
+                        Naviglio e Tarantelli-. Abbiamo calcolato che il 90% dei token vendibili e il
+                        68% degli “honeypots” sono stati colpiti da almeno un attacco sandwich».
+                        Insomma: ciò che appare come un luogo dove il guadagno è facile in realtà
+                        nasconde molte insidie. Certo! Le manipolazioni sono presenti anche sui
+                        mercati della finanza tradizionale. «E, però - sottolinea il giurista Andrea
+                        Conso- , si tratta di un settore che non è ancora intercettato dal regolamento
+                        europeo sulle cripto. La situazione, quindi, è più rischiosa e deve essere
+                        sanata al più presto. Ciò detto, da un lato non stupisce che simili fenomeni siconcretizzino; e, dall’altro, è fondamentale che l’investitore abbia piena
+                        consapevolezza di dove si trova e delle tecnicalità usate su queste
+                        piattaforme».
+                        © RIPRODUZIONE RISERVATA   
+      
+            COINBASE 
+               2024_03_30_Coinbase, doppia sfida con gli Etf su bitcoin e il broker Robinhood
+      
+                  Focus. I conti della cripto Borsa crescono, ma il titolo cala: pesano la vendita generalizzata sull’ hi tech e la concorrenza di fondi passivi e piattaforme online
+      
+                  Da una parte contrastare la sempre più agguerrita concorrenza. Dall’altra proseguire nella diversificazione del business. Sono tra i focus di Coinbase a sostegno del business. Già, il business. Riguardo ad esso proprio la maggiore articolazione dell’attività - anche per ridurre la dipendenza da bitcoin & co - è un obiettivo primario. Il target è raggiunto? La risposta è essenzialmente positiva e per rendersene conto è opportuno guardare alla dinamica dei ricavi nel tempo.
+                  
+                  Oggetto sociale
+                  
+                  L’azienda articola il fatturato in due grandi aree: le entrate legate alle transazioni sui token e quelle generate da Abbonamenti e servizi. Appannaggio del primo fronte ci sono le commissioni sull’operatività del cliente consumer (a sua volta articolato tra utenti semplici e più esperti) e, poi, degli investitori istituzionali. Nella seconda area, invece, vengono ricondotte diverse situazioni: dall’abbonamento alla piattaforma per il retail (Coinbase One) ai margini generati dalla stablecoin Usdc fino alla custodia di cripto asset e ai servizi di staking. Senza dimenticare, infine, i finanziamenti agli istituzionali e le soluzioni per lo sviluppo informatico di funzionalità da inserirsi negli eventuali cripto progetti della clientela.
+                  
+                  La dinamica dei ricavi
+                  
+                  Ebbene: a fronte di un simile breakdown possono rilevarsi, rispetto al passato, le seguenti dinamiche. Nel 2020 (ricavi totali a 1,14 miliardi di dollari) il 96% delle vendite era generato dalle Transaction revenue. In particolare, la stragrande maggioranza proveniva dal mondo retail (1,04 miliardi). Di fatto inesistenti, invece, le entrare da Abbonamenti e servizi (45 milioni). Nel 2021 - in scia al balzo del bitcoin - c’è il salto in alto dei ricavi complessivi, i quali arrivano a 7,35 miliardi. L’incremento, per quanto la voce Subscription and services arrivi al mezzo miliardo, è sempre dovuto al mondo delle transazioni consumer (6,5 miliardi le fee sul trading). Nel 2022, invece, si assiste - contemporaneamente all’avvio della stagione “winter” per la cripto regina - al tracollo del giro d’affari complessivo (3,15 miliardi). Al tonfo, però, fa da contraltare la continua espansione della voce Abbonamenti e servizi. Un trend che - in maniera slegata dai ricavi consolidati - ha proseguito negli anni successivi. La divisione in oggetto è salita nel 2023 e 2024 rispettivamente a 1,4 e 2,3 miliardi di dollari. A fronte di un simile andamento, nello scorso anno, il peso dei ricavi transazionali sul fatturato globale si è assestato al 60,6% mentre i Subscriptions and services hanno raggiunto il 35% del totale. Insomma: i numeri segnalano, da una parte, come il mondo di Abbonamenti e servizi abbia iniziato a recitare un ruolo importante nel business; e, dall’altra, che le entrare - essendo le fee da transazioni volatili e legate agli umori di bitcoin & co - hanno acquisito una maggiore stabilità e visibilità. In generale - è l’indicazione degli esperti - si tratta di un’evoluzione positiva. Come è stata positiva l’ultima trimestrale. Il gruppo ha aumentato sia i ricavi che la redditività. Le revenues nette, nel quarto quarter del 2024, sono state 2,2 miliardi di dollari (a fronte dei 905 milioni di un anno prima). L’utile netto, dal canto suo, è arrivato a 1,3 miliardi (erano stati 273 milioni nello stesso periodo del 2023). Infine: l’ utile per azione. Questo è stato pari a 4,68 dollari. I numeri in oggetto spesso sono superiori al consensus. Secondo Facset, ad esempio, l’Eps era previsto a 2,11 dollari.
+                  
+                  La dinamica sul listino
+                  
+                  Tutto facile come bere un bicchiere d’acqua, quindi? La realtà è molto più problematica. Soprattutto, sul fronte dell’andamento del titolo in Borsa. Coinbase, quotato al Nasdaq, nell’ultimo anno - ad esempio - è in calo di oltre il 30% mentre il bitcoin è salito di circa il 20%. Vero! Nel biennio l’exchange ha guadagnato più del 190%. E, però, il prezzo del direct listing al Nasdaq - il 14/4/2021 - era di 250 dollari. Cioè: un valore superiore all’attuale. Nel frattempo, la cripto regina - tra picchi e crolli - è salita di oltre il 33%. Detto diversamente: la correlazione positiva tra bitcoin e Coinbase esiste. Ma, a fonte di ciò, può riportarsi il detto che rimbalza tra le sale operative: mentre Coinbase dipende dal ciclo del bitcoin, quest’ultimo non dipende da Coinbase.
+                  
+                  Ciò considerato, al fine di meglio cogliere le dinamiche di mercato del gruppo è utile guardare agli ultimi 12 mesi. I fondamentali dell’azienda - per l’appunto - sono positivi e la diversificazione del business è sempre più concreta. Tuttavia, il rendimento sul listino non è stato all’altezza. Perchè? Con riferimento a gran parte del 2024, deve ricordarsi che, durante l’ultimo fase dell’amministrazione Biden, la Sec presieduta da Gery Gensler aveva messo nel mirino la piattaforma di scambi centralizzati. Un contesto di indagini ed accuse - cui il ceo Brian Armstrong ha reagito duramente- che evidentemente non ha aiutato il titolo in Borsa. Adesso, con l’arrivo di Donald Trump alla Casa Bianca, lo scenario è cambiato. Le accuse della Sec sono cadute e il contesto è favorevole. Eppure, la performance al Nasdaq ancora latita.
+                  
+                  Certo! Similmente a tante altre realtà legate a bitcoin & co, il gruppo - dopo il voto del 4 novembre 2024 - è schizzato verso l’alto. Successivamente, tuttavia, ha ritracciato. Addirittura il mercato, sebbene nel giorno precedente alla pubblicazione della trimestrale il titolo sia salito dell’8,44%, non ha reagito bene ai dati. Nelle sedute successive alle comunicazioni, Coinbase è scesa al Nasdaq. Per quale motivo? I motivi sono differenti. In primis, bisogna sottolineare come l’andamento della società in Borsa - di recente - abbia seguito quello del Nasdaq. In altre parole: a fronte della sfida di DeepSeek e della caotica politica sui dazi di Washington, gli investitori - a partire soprattutto dalla fine di febbraio scorso - hanno ridotto la sovraesposizione sui mercati Usa. Soprattutto, rispetto alle aziende tecnologiche che - essendo tra le altre cose scambiate complessivamente a multipli più elevati - vengono considerate maggiormente rischiose. Compresa Coinbase la quale - tra un balzo e l’altro - è stata fatta oggetto di un flusso di vendite. In tal senso, non stupisce più di tanto che la correlazione tra il Nasdaq stesso è la società delle cripto valute sia di recente salita, passando da 0,28 a 0,59.
+                  
+                  La concorrenza
+                  
+                  Ma non è solamente questione di legami, più o meno forti, tra asset. Altro elemento sul tavolo è - per l’appunto - quello della concorrenza. Qui - va subito detto - gli esperti sono piuttosto divisi nei loro commenti. Alcuni sottolineano che l’offerta focalizzata di Coinbase, ma sempre più diversificata, sul mondo delle cripto non deve temere l’arrivo di nuovi player. Altri analisti, invece, ribattono che la questione non può risolversi in maniera cosi semplice. In tal senso, quale esempio, viene citato il caso di Robinhood. La piattaforma online di trading, nel 2024, ha acquisito l’exchange centralizzato Bitstamp. Si tratta di una mossa - è l’indicazione- che permette alla società di Menlo Park di proporre un’ampia offerta (dall’operatività su tradizionali azioni ai titoli cripto fino al servizio di staking) in grado di attirare molti utenti. Non solo. Coinbase - similmente alla stessa Robinhood - deve fronteggiare il boom degli Etf spot sul bitcoin. Gli investitori - al fine di esporsi alle cripto -possono preferire la strada dei fondi passivi, piuttosto che quella degli exchange centralizzati (o di piattaforme come Robinhood). Di più. nel recente passato hanno preso piede i Decentralized exchance (Dex). Cioè: protocolli automatizzati dove è possibile lo scambio “peer to peer”. Vero! La crescita dei Dex è stata anche dovuta alla volontà di “sfuggire” a potenziali strette sul fronte regolatorio. Soprattutto, negli Usa. Adesso, venendo meno la motivazione in oggetto in scia al nuovo approccio della Casa Bianca, la corsa agli exchange decentralizzati -peraltro molto complessi da utilizzare - potrebbe perdere di abbrivio. Al di là di ciò è, però, innegabile che, da un lato, la concorrenza aumenta; e che, dall’altro, uno dei maggiori focus di Coinbase è mantenere un alto tasso di crescita nella base di utenti. Un obiettivo il quale, nel contesto descritto, non è di così facile concretizzazione.
+                  
+                  Un’occhio all’analisi tecnica
+                  
+                  A fronte di un simile scenario, quale allora la situazione del titolo in Borsa? Riguardo ai multipli, secondo il terminale Bloomberg, il rapporto tra prezzo ed utile previsto sul 2025 (al 27/3/2025) è di 23 volte. Il dato è inferiore sia a quello definito nel 2024 (25,23) che all’indicatore di due anni fa, il quale era risultato di 101,8. Con riferimento, invece, all’analisi tecnica, «l’impostazione nel lungo periodo - dice l’analista indipendente Silvio Bona - rimane al rialzo. Più sul breve, invece, deve sottolinearsi che dopo avere avvicinato, il 5 dicembre scorso, i massimi storici in area 360 dollari, le azioni di Coinbase hanno avviato una correzione. Così ci si è riportati sul supporto statico di medio periodo posizionato intorno a 167 dollari. Attualmente la fase correttiva non è conclusa, in quanto non si sono concretizzate figure tecniche che segnalino l’inversione di tendenza. In un simile contesto, il risparmiatore deve fare attenzione, oltre che al supporto già indicato, anche al “pavimento” inferiore situato in area 163 dollari»
+   CR
+      2025
+         2025_05_08 Gli investimenti scommettono sulla crittografia post-quantistica
+            Il Sole 24 Ore
+            Supercalcolo. Secondo McKinsey, la comunicazione quantistica sfiorerà i 15 miliardi nei prossimi dieci anni. Prioritaria la sicurezza, favorita dalla minori complessità dell’hardware e da costi contenuti
 
-      Criptovalute
-         2024_03_10_(L’era delle criptovalute Chi guadagna davvero)_(Dogecoin)
-               
-               di Francesco Bertolinoe Milena Gabanelli
-               dopo il bitcoin è nato un mercato da 3.300 miliardi di dollari
-               
-               il riciclaggio e la fregatura del Dogecoin, esaltato da musk
-               
-               cosa sono gli stablecoin e come si saldano ai piani di trump
-               
-               
-               «H o lavorato su un sistema di pagamento elettronico totalmente privo di intermediari, che elimina la necessità di garanti». Con questa breve dichiarazione, il 31 ottobre 2008, il misterioso Satoshi Nakamoto lanciava il Bitcoin, una moneta virtuale senza Paesi emittenti né banche centrali. Al loro posto una blockchain, un registro digitale pubblico delle transazioni, immodificabile e aggiornato dalla comunità degli utenti. Oggi l’identità del suo creatore è ancora ignota, si sa soltanto che possiede un milione di bitcoin che, ai corsi attuali, corrisponde a 84 miliardi di euro. Nel frattempo, pochissimi hanno utilizzato la moneta «anarchica» per pagare a causa delle oscillazioni estreme del suo valore. Il Bitcoin è invece diventato una sorta di «oro digitale»: raro perché la quantità massima coniabile è fissata dall’algoritmo a 21 milioni; desiderato proprio perché scarso e nella convinzione che la sua corsa al rialzo sia destinata a proseguire. Alcuni ci hanno guadagnato, altri ci hanno perso, altri ancora lo hanno utilizzato per riciclare denaro sporco.
-               
-               In questi 16 anni, intanto, hanno proliferato milioni di imitazioni, perlopiù prive di alcun valore se non quello che viene riconosciuto dai loro acquirenti. Ne è nato un mercato da oltre 3.300 miliardi di dollari, quattro volte la capitalizzazione totale di Borsa Italiana. Solo nel 2024 sono spuntati oltre due milioni di nuovi token, con finalità non sempre chiare.
-               
-               In alcuni casi sono serviti per attuare frodi note come «wash trading» e «pump and dump». Con la prima un gruppo di persone o un esercito di bot si scambia più volte un bene digitale per aumentarne artificialmente il valore e poi venderlo a un ignaro acquirente. Con la seconda, «gonfia e scarica», i detentori di una criptovaluta o, più di frequente, i suoi creatori ne magnificano sui social le prospettive di crescita, ne fanno così salire le quotazioni e, infine, liquidano sul mercato i propri portafogli, realizzando enormi profitti a spese degli ultimi investitori che ci hanno creduto.
-               
-               La manipolazione non è reato
-               La società di ricerca Chainalysis stima che schemi di «pump and dump» abbiano coinvolto circa il 3,6% delle monete digitali create nell’ultimo anno, quota che equivale a oltre 74 mila potenziali cripto-truffe. Un caso sospetto è quello del Dogecoin, una criptovaluta nata per scherzo nel 2013 (una memecoin) e sostenuta da Elon Musk. Fra il 2019 e il 2021 il patron di Tesla lo ha esaltato con una sfilza di tweet: «Sarà la futura moneta del pianeta Terra»; «L’ho comprata per mio figlio»; «SpaceX porterà il Dogecoin sulla Luna». Il prezzo è schizzato in due anni del 36 mila per cento. Poi a maggio 2021 Musk, ospite del programma Saturday Night Live, ha detto che il Dogecoin è «una bufala». Tanto è bastato a scatenare un’ondata di vendite che ha causato un crollo del 90%.
-               
-               Un gruppo di investitori ha promosso contro il numero uno di Tesla una class action per manipolazione del mercato con richiesta di risarcimento per 258 miliardi di dollari. La causa è stata respinta dal tribunale di New York. Le dichiarazioni di Musk erano «aspirazionali e roboanti», ha detto il giudice; quindi, «nessun investitore ragionevole avrebbe potuto dar loro credito». D’altra parte, negli Stati Uniti non esiste alcuna regolamentazione specifica per Bitcoin & co; l’eventuale iniziativa repressiva è affidata a singole autorità, come la Security Exchange Commission e il Dipartimento di Giustizia, che negli ultimi anni hanno sanzionato influencer e società.
-               
-               Difficilmente però si attiveranno con la nuova amministrazione, dopo che l’industria cripto ha sostenuto con donazioni milionarie la campagna elettorale di Donald Trump. Il neopresidente, che nel 2021 aveva bollato il Bitcoin come una truffa, ora ha cambiato idea.
-               
-               L’incasso di Trump
-               Nel settembre del 2024 Trump e i suoi famigliari hanno fondato World Liberty Financial, e coniato il token Wlfi: in pochi mesi ne sono stati venduti 24 miliardi a un prezzo crescente fino a 5 centesimi l’uno, per un incasso di oltre mezzo miliardo. Poi, due giorni prima dell’ingresso alla Casa Bianca, il presidente ha lanciato la sua criptomoneta, $Trump. Partita da 18 centesimi, è schizzata a 75 dollari, salvo poi precipitare a 15, causando 2,2 miliardi di perdite a 885 mila investitori.
-               
-               Non tutti, però, ci hanno rimesso. Un anonimo trader, per esempio, ha piazzato una scommessa da un milione di dollari su $Trump a distanza di due minuti dal suo annuncio. Due giorni dopo ha ceduto quasi sei milioni di token con un profitto di 109 milioni. A vincere, però, è sempre il banco. La Trump Organization detiene 800 milioni di $Trump e li rilascerà sul mercato nei prossimi tre anni, passando gradualmente all’incasso, e ottiene anche una commissione per ogni scambio. Secondo Chainalysis, nei portafogli della Trump Organization sono già arrivati 349,6 milioni in poco più di un mese.
-               
-               Ascesa delle stablecoin
-               Il piano della Casa Bianca punta a rendere l’America il centro della finanza digitale globale, costituendo fra l’altro una riserva nazionale di bitcoin. L’ordine esecutivo del 23 gennaio di Trump richiede «di proteggere e promuovere la sovranità del dollaro statunitense, anche attraverso azioni per favorire lo sviluppo e la crescita globale di stablecoin lecite e ancorate al dollaro».
-               
-               Le stablecoin sono valute digitali che promettono di mantenere un valore stabile perché ricalcano l’andamento di una moneta sovrana. Le due principali stablecoin si chiamano Circle e Tether. Quest’ultima, creata nel 2013 dal torinese Giancarlo Devasini e guidata dal ligure Paolo Ardoino, ha molto successo. La ragione sta nel fatto che per ogni tether (UsdT) coniato esiste un equivalente deposito in dollari, sempre convertibile. Almeno questo è quanto assicura la società, che dichiara di avere più di 400 milioni di utenti (prevalentemente fra i risparmiatori dei mercati emergenti) e di aver coniato oltre 140 miliardi di UsdT. Le riserve dovrebbero quindi ammontare a oltre 140 miliardi di dollari, anche se Tether non ne ha mai sottoposto la consistenza a un esame completo e indipendente. È qui che i progetti delle stablecoin in dollari si saldano con i piani di Trump. Gran parte delle riserve di Tether e Circle è investita in titoli di Stato americani, per un totale di quasi 150 miliardi di dollari. In sostanza quando un argentino, un libanese o un nigeriano compra un UsdT di Tether o un UsdC di Circle sta di fatto finanziando il bilancio americano e, in prospettiva, i tagli alle tasse promessi da Trump. Ecco perché la Casa Bianca ha tanto interesse a che si diffondano il più possibile.
-               
-               Euro digitale: il no degli Usa
-               Dal 31 marzo Tether non sarà più acquistabile sulle cripto-borse Ue perché la normativa MiCAR impone di mantenere almeno il 60% delle loro riserve presso banche europee. Ma, ha avvertito il governatore di Banca d’Italia, Fabio Panetta, non è da escludere che altre piattaforme tecnologiche con miliardi di utenti possano lanciare una criptovaluta, con conseguenze dirompenti per la stabilità finanziaria e per la sovranità monetaria.
-               
-               Cosa accadrebbe se Meta, Amazon o X decidessero di lanciare una stablecoin? La Bce ritiene perciò indispensabile accelerare sul completamento del progetto di un euro digitale. La banca centrale di Pechino ha già coniato lo yuan digitale nel 2019, mentre la Fed ha abbandonato l’idea del dollaro digitale. L’ordine esecutivo di Trump impone del resto l’adozione di misure «per proteggere gli americani dai rischi delle monete digitali delle banche centrali». Se del caso, anche «vietando la loro circolazione e utilizzo» nel Paese. Un monito a tutte le banche centrali: le vostre monete digitali non avranno corso nella giurisdizione degli Stati Uniti. Benvenute invece cripto come Tether, società privata con sede nel paradiso fiscale di El Salvador.
-                
-         2025_03_26_Borse automatiche, così l’algoritmo altera le nuove cripto
-            Vittorio Carlini 26 marzo 2025
-
-                  La finanza decentralizzata. Un mondo in espansione. La riprova? La offre la
-                  crescita dei cosiddetti Decentralized exchange. Cioè: mercati automatici
-                  decentralizzati dove possono scambiarsi criptovalute, in maniera efficace,
-                  “peer to peer” e con bassi costi. In altre parole: piattaforme digitali in cui le
-                  proposte di negoziazione in vendita e acquisto sono “gestite” tramite
-                  contratti automatici (smart contract), i quali sfruttano scorte (pool) di
-                  liquidità per concretizzare gli scambi. In generale, un mondo che supera la
-                  necessità di avere terze parti (società di gestione del listino o stanza di
-                  compensazione) per realizzare il trading. In particolare, luoghi dove c’è
-                  anche il rischio di manipolazione delle quotazioni dei token e le possibili
-                  minusvalenze per l’investitore non mancano.
-                  Un esempio? Lo offre un’inchiesta realizzata dall’Università di Bologna e la
-                  Scuola Normale Superiore di Pisa. Nello studio gli scienziati hanno
-                  analizzato i token, collegati ad ether, creati e lanciati sulla piattaforma di
-                  finanza decentralizzata Uniswap V2 dal 10 ottobre al 2 dicembre 2024. Nella
-                  sostanza si tratta di 17.194 asset digitali. Una quantità che è stata raggiunta
-                  tramite la creazione di circa 15 nuovi token accoppiati con ether ogni ora
-                  (intorno a 500 al giorno). Un “mare” di coin i quali sono contraddistinti da
-                  alcune caratteristiche. Una di queste è «che, all’inizio e spesso in scia
-                  all’operatività di robot trader - spiegano Manuel Naviglio e Francesco
-                  Tarantelli coautori del paper insieme Fabrizio Lillo-, il prezzo dei tokencresce molto». Poi, però, in poco tempo «la loro quotazione diminuisce». In
-                  tal senso: il 58,2% dei token perde valore prima dei 60 swap mentre «90,6%
-                  dei medesimi decade prima che si concretizzino 500 swap». Insomma:
-                  un’immediata partenza all’insù e, poi, il ritorno sulla terra. In linea teorica,
-                  dicono sempre gli esperti, «lo scenario potrebbe portare ad un guadagno
-                  interessante per gli investitori. Se, infatti, è possibile comprare subito e
-                  rivendere dopo il boom, il profitto dovrebbe essere assicurato». Simulando
-                  questa strategia sul campione analizzato nel paper, gli scienziati mostrano
-                  un rendimento apparentemente altissimo: la plusvalenza per l’investitore di
-                  turno è del 1.556%
-                  Sennonché, la realtà è più complicata. Esistono delle situazioni - che gli
-                  esperti, similmente a quanto accade nei mercati tradizionali, sottolineano
-                  non essere in alcun modo legate alla gestione della piattaforma da parte di
-                  Uniswap - le quali possono dare vita a problemi. «Un’importante quota di
-                  liquidità - dicono Naviglio e Tarantelli- viene “intrappolata” nei token». Vale
-                  a dire? «Negli smart contrat che gestiscono l’usabilità del token stessi -
-                  spiegano i ricercatori - sono spesso inserite clausole le quali impediscono al
-                  compratore di vendere l’asset 
-                  tout cort 
-                  o non prima di un determinato
-                  momento». Si tratta di condizioni in teoria legittime le quali, però, da una
-                  parte «sfruttano il fatto che è di per sé difficile - anche per un esperto -
-                  individuare la clausola medesima che è scritta in un codice informatico»; e
-                  che, dall’altra, «risultano di fatto impossibili per il semplice investitore da
-                  interpretare». La situazione, a ben vedere, è riconducibile ai cosiddetti
-                  “honeypots” (“vasi miele”). Cioè: contratti che attirano - con il “miele” del
-                  possibile guadagno-l’operatore, nascondendo però delle insidie. Ebbene:
-                  questi rappresentano una grande parte dei token analizzati. Circa l’88% dei
-                  titoli digitali, spiegano gli sperti, può considerarsi tale. Ma non è solo una
-                  questione di “vasi di miele”. C’è un ulteriore elemento tipico. L’iniziale balzo
-                  verso l’alto, e successiva, discesa configura un contesto (sempre
-                  indipendente da Uniswap) dove è possibile la realizzazione di manipolazioni
-                  di mercato. Un esempio? Il cosiddetto “Rug pull” (letteralmente “ritirare iltappeto”). Qui il creatore del token crea un pool di liquidità sul token
-                  collegato agli ether, dando l’illusione che ci sia interesse per l’asset. Gli
-                  investitori corrono a comprarlo, facendone salire il prezzo. Quando le
-                  quotazioni sono andate all’insù, il “costruttore” del token rimuove la
-                  liquidità (soprattutto la parte in ether). Risultato? Il coin digitale non ha più
-                  mercato. Gli investitori non possono più venderlo e il creatore dell’asset si
-                  porta a casa il guadagno.
-                  Già, portare a casa il guadagno. «C’è anche un altro rischio» specificano
-                  Naviglio e Tarantelli. Il pericolo è che venga messa in atto la tecnica
-                  cosiddetta del sandwich. «In questo caso il meccanismo è il seguente:
-                  immaginiamo che il soggetto A voglia comprare un token per un ether».
-                  Questo acquisto farà salire il prezzo del token medesimo. «L’attaccante,
-                  spesso un robot ultra veloce - affermano gli esperti -, vede la transazione del
-                  soggetto A in attesa nella mempool». Cioè: lo spazio temporaneo dove tutte
-                  le proposte di negoziazione attendono di essere validate, ed inserite, in un
-                  blocco della blockchain stessa. Ebbene: l’operatore ultraveloce invia una
-                  transazione con una fee più alta. Così - avendo offerto, nella compravendita,
-                  una commissione maggiore - da un lato, la sua proposta sopravanza quella
-                  del soggetto A»; e, dall’altro, «riesce ad acquistare il token ad una quotazione
-                  inferiore a quella dello stesso A». Quest’ultimo, ignaro, compra come
-                  previsto e il prezzo del titolo digitale sale. A quel punto, l’attaccante vende e
-                  guadagna in quanto la quotazione è aumentata proprio in scia all’acquisto di
-                  A. Può obiettarsi: è una situazione eccezionale. «Non è così - ribattono
-                  Naviglio e Tarantelli-. Abbiamo calcolato che il 90% dei token vendibili e il
-                  68% degli “honeypots” sono stati colpiti da almeno un attacco sandwich».
-                  Insomma: ciò che appare come un luogo dove il guadagno è facile in realtà
-                  nasconde molte insidie. Certo! Le manipolazioni sono presenti anche sui
-                  mercati della finanza tradizionale. «E, però - sottolinea il giurista Andrea
-                  Conso- , si tratta di un settore che non è ancora intercettato dal regolamento
-                  europeo sulle cripto. La situazione, quindi, è più rischiosa e deve essere
-                  sanata al più presto. Ciò detto, da un lato non stupisce che simili fenomeni siconcretizzino; e, dall’altro, è fondamentale che l’investitore abbia piena
-                  consapevolezza di dove si trova e delle tecnicalità usate su queste
-                  piattaforme».
-                  © RIPRODUZIONE RISERVATA   
-
-      COINBASE 
-         2024_03_30_Coinbase, doppia sfida con gli Etf su bitcoin e il broker Robinhood
-
-            Focus. I conti della cripto Borsa crescono, ma il titolo cala: pesano la vendita generalizzata sull’ hi tech e la concorrenza di fondi passivi e piattaforme online
-
-            Da una parte contrastare la sempre più agguerrita concorrenza. Dall’altra proseguire nella diversificazione del business. Sono tra i focus di Coinbase a sostegno del business. Già, il business. Riguardo ad esso proprio la maggiore articolazione dell’attività - anche per ridurre la dipendenza da bitcoin & co - è un obiettivo primario. Il target è raggiunto? La risposta è essenzialmente positiva e per rendersene conto è opportuno guardare alla dinamica dei ricavi nel tempo.
+            Secondo molti addetti ai lavori, rappresenta una delle frontiere tecnologiche più affascinanti e promettenti dei prossimi 5-10 anni. Finita sotto la lente di ingrandimento degli analisti di McKinsey, la comunicazione quantistica si è palesata come un settore in rapida espansione, guidato da un mix di esigenze di cybersecurity, crescita della domanda di reti quantistiche e investimenti sia pubblici che privati. Non stiamo parlando di una visione futuristica confinata ai laboratori di ricerca ma di una tecnologia attuale e già disponibile, pronta per lo sviluppo a scala e con impatti potenzialmente rivoluzionari sulla sicurezza dei protocolli di comunicazione e sull’infrastruttura stessa del calcolo quantistico.
             
-            Oggetto sociale
+            Ma di cosa si tratta, concretamente? Di applicazioni che spaziano dalla distribuzione di chiavi quantistiche (la cosiddetta quantum key distribution, Qkd) per garantire l’inviolabilità delle comunicazioni sfruttando avanzati sistemi di cifratura a nodi di rete che diventano fondamentali per interconnettere sistemi di calcolo modulari basati sulla tecnologia dei qubit e abilitare forme di computazione distribuita per arrivare, non in ultimo, a un vero e proprio “internet quantistico” globale.
             
-            L’azienda articola il fatturato in due grandi aree: le entrate legate alle transazioni sui token e quelle generate da Abbonamenti e servizi. Appannaggio del primo fronte ci sono le commissioni sull’operatività del cliente consumer (a sua volta articolato tra utenti semplici e più esperti) e, poi, degli investitori istituzionali. Nella seconda area, invece, vengono ricondotte diverse situazioni: dall’abbonamento alla piattaforma per il retail (Coinbase One) ai margini generati dalla stablecoin Usdc fino alla custodia di cripto asset e ai servizi di staking. Senza dimenticare, infine, i finanziamenti agli istituzionali e le soluzioni per lo sviluppo informatico di funzionalità da inserirsi negli eventuali cripto progetti della clientela.
+            Tre, in sintesi, sono le macro categorie che compongono la comunicazione quantistica (sicurezza, reti e servizi) e fra le diramazioni verticali che la caratterizzano quella più matura a oggi è - dati alla mano - la crittografia post-quantistica, per via della sua maggiore semplicità di implementazione e della possibilità di integrarsi più velocemente nelle infrastrutture esistenti.
             
-            La dinamica dei ricavi
+            Secondo le rilevazioni McKinsey, nel 2023 il giro d’affari della comunicazione quantistica ha raggiunto su base globale un valore stimato tra 0,9 e 1,0 miliardi di dollari. Una cifra di per sé già significativa, destinata però a crescere rapidamente nell’arco della prossima decade: entro il 2035, infatti, si prevede che questo comparto possa raggiungere nello scenario più favorevole quota 14,9 miliardi (quello peggiore si ferma a 10,5 miliardi), con un tasso di crescita composto annuo stimato fra il 23 e il 25 per cento.
             
-            Ebbene: a fronte di un simile breakdown possono rilevarsi, rispetto al passato, le seguenti dinamiche. Nel 2020 (ricavi totali a 1,14 miliardi di dollari) il 96% delle vendite era generato dalle Transaction revenue. In particolare, la stragrande maggioranza proveniva dal mondo retail (1,04 miliardi). Di fatto inesistenti, invece, le entrare da Abbonamenti e servizi (45 milioni). Nel 2021 - in scia al balzo del bitcoin - c’è il salto in alto dei ricavi complessivi, i quali arrivano a 7,35 miliardi. L’incremento, per quanto la voce Subscription and services arrivi al mezzo miliardo, è sempre dovuto al mondo delle transazioni consumer (6,5 miliardi le fee sul trading). Nel 2022, invece, si assiste - contemporaneamente all’avvio della stagione “winter” per la cripto regina - al tracollo del giro d’affari complessivo (3,15 miliardi). Al tonfo, però, fa da contraltare la continua espansione della voce Abbonamenti e servizi. Un trend che - in maniera slegata dai ricavi consolidati - ha proseguito negli anni successivi. La divisione in oggetto è salita nel 2023 e 2024 rispettivamente a 1,4 e 2,3 miliardi di dollari. A fronte di un simile andamento, nello scorso anno, il peso dei ricavi transazionali sul fatturato globale si è assestato al 60,6% mentre i Subscriptions and services hanno raggiunto il 35% del totale. Insomma: i numeri segnalano, da una parte, come il mondo di Abbonamenti e servizi abbia iniziato a recitare un ruolo importante nel business; e, dall’altra, che le entrare - essendo le fee da transazioni volatili e legate agli umori di bitcoin & co - hanno acquisito una maggiore stabilità e visibilità. In generale - è l’indicazione degli esperti - si tratta di un’evoluzione positiva. Come è stata positiva l’ultima trimestrale. Il gruppo ha aumentato sia i ricavi che la redditività. Le revenues nette, nel quarto quarter del 2024, sono state 2,2 miliardi di dollari (a fronte dei 905 milioni di un anno prima). L’utile netto, dal canto suo, è arrivato a 1,3 miliardi (erano stati 273 milioni nello stesso periodo del 2023). Infine: l’ utile per azione. Questo è stato pari a 4,68 dollari. I numeri in oggetto spesso sono superiori al consensus. Secondo Facset, ad esempio, l’Eps era previsto a 2,11 dollari.
+            Il segmento più promettente è per l’appunto quello della crittografia post-quantistica, il cui obiettivo di fondo è quello di garantire la protezione dei sistemi dagli attacchi dei futuri computer quantistici pur continuando a utilizzare infrastrutture informatiche di tipo convenzionale. Non è comunque ancora chiaro, spiegano però gli analisti, se questo slancio iniziale attribuito alla post quantum cryptography (Pqc) manterrà velocità di sviluppo costanti nel tempo o se conoscerà un rallentamento qualora emergessero significative vulnerabilità di questa tecnologia (la sicurezza delle chiavi quantistiche distribuite è invece garantita dalle leggi fondamentali della fisica). La minore complessità hardware richiesta, i costi di adozione più contenuti e uno stato di maturità che cresce in modo costante anche per effetto della standardizzazione promossa da enti come l’agenzia governativa americana Nist (National Institute of Standards and Technology), concorrono però a fare della Pqc un business potenziale compreso tra i 2,4 e i 3,4 miliardi di dollari entro il 2035, e quindi circa un quinto delle dimensioni complessive del mercato della comunicazione quantistica.
             
-            La dinamica sul listino
+            Interessante, in tal senso, è il dato che rimarca come a livello geografico sia il Nord America la regione candidata a guidare il settore entro la fine della prossima decade, per quanto l’Europa sia ritenuta all’avanguardia in questo campo, e soprattutto in quello della quantum key distribution, grazie alla spinta di iniziative istituzionali (come quelle della Nato, per esempio) e di un ecosistema di start up innovative molto vivace. Per quanto riguarda le classi di utenza di queste soluzioni, invece, la fetta principale della domanda (fra il 62% e il 66%) è oggi appannaggio del settore pubblico mentre gli investimenti in ambito privato dovrebbero conoscere un’importante accelerazione nei comparti delle telecomunicazioni e della cybersecurity, che potrebbero arrivare a pesare fra il 16% e il 26% del mercato totale da qui 2035, sfruttando la necessità di proteggere le infrastrutture digitali critiche (reti e data center) e l’onda lunga dell’adozione di tecnologie quantistiche da parte di telcos, Big Tech e aziende di cybersicurezza.
             
-            Tutto facile come bere un bicchiere d’acqua, quindi? La realtà è molto più problematica. Soprattutto, sul fronte dell’andamento del titolo in Borsa. Coinbase, quotato al Nasdaq, nell’ultimo anno - ad esempio - è in calo di oltre il 30% mentre il bitcoin è salito di circa il 20%. Vero! Nel biennio l’exchange ha guadagnato più del 190%. E, però, il prezzo del direct listing al Nasdaq - il 14/4/2021 - era di 250 dollari. Cioè: un valore superiore all’attuale. Nel frattempo, la cripto regina - tra picchi e crolli - è salita di oltre il 33%. Detto diversamente: la correlazione positiva tra bitcoin e Coinbase esiste. Ma, a fonte di ciò, può riportarsi il detto che rimbalza tra le sale operative: mentre Coinbase dipende dal ciclo del bitcoin, quest’ultimo non dipende da Coinbase.
+            Lo sviluppo a ritmo sostenuto della comunicazione quantistica, si legge infine nel rapporto di McKinsey, si spiega quindi con alcune dinamiche chiave, e fra queste spicca in modo netto la preoccupazione crescente per i rischi legati al cosiddetto Q-Day, ovvero sia il momento in cui i computer quantistici saranno in grado di decifrare gli algoritmi di crittografia classica aprendo nuovi fronti di minaccia per i dati sensibili. Alcuni settori con elevati requisiti di data protection (come finanza, assicurazioni, sanità e difesa) potrebbero subire un impatto significativo e di conseguenza aumenta l’urgenza di adottare soluzioni avanzate come le sopracitate Pqc e Qkd, con molte organizzazioni pronte sposare entrambe le tecnologie attraverso modelli ibridi. La sensazione degli analisti è che sia arrivata l’alba di una nuova era della sicurezza digitale, ponendo governi e imprese di fronte a un bivio tra ricerca avanzata e applicazione su scala industriale: i prossimi anni saranno quindi decisivi per stabilire non solo le tecnologie vincenti e lo “stack” infrastrutturale richiesto, ma anche gli attori che giocheranno da protagonisti in questo mercato e nel mondo sempre più interconnesso di domani.
             
-            Ciò considerato, al fine di meglio cogliere le dinamiche di mercato del gruppo è utile guardare agli ultimi 12 mesi. I fondamentali dell’azienda - per l’appunto - sono positivi e la diversificazione del business è sempre più concreta. Tuttavia, il rendimento sul listino non è stato all’altezza. Perchè? Con riferimento a gran parte del 2024, deve ricordarsi che, durante l’ultimo fase dell’amministrazione Biden, la Sec presieduta da Gery Gensler aveva messo nel mirino la piattaforma di scambi centralizzati. Un contesto di indagini ed accuse - cui il ceo Brian Armstrong ha reagito duramente- che evidentemente non ha aiutato il titolo in Borsa. Adesso, con l’arrivo di Donald Trump alla Casa Bianca, lo scenario è cambiato. Le accuse della Sec sono cadute e il contesto è favorevole. Eppure, la performance al Nasdaq ancora latita.
+            © RIPRODUZIONE RISERVATA
             
-            Certo! Similmente a tante altre realtà legate a bitcoin & co, il gruppo - dopo il voto del 4 novembre 2024 - è schizzato verso l’alto. Successivamente, tuttavia, ha ritracciato. Addirittura il mercato, sebbene nel giorno precedente alla pubblicazione della trimestrale il titolo sia salito dell’8,44%, non ha reagito bene ai dati. Nelle sedute successive alle comunicazioni, Coinbase è scesa al Nasdaq. Per quale motivo? I motivi sono differenti. In primis, bisogna sottolineare come l’andamento della società in Borsa - di recente - abbia seguito quello del Nasdaq. In altre parole: a fronte della sfida di DeepSeek e della caotica politica sui dazi di Washington, gli investitori - a partire soprattutto dalla fine di febbraio scorso - hanno ridotto la sovraesposizione sui mercati Usa. Soprattutto, rispetto alle aziende tecnologiche che - essendo tra le altre cose scambiate complessivamente a multipli più elevati - vengono considerate maggiormente rischiose. Compresa Coinbase la quale - tra un balzo e l’altro - è stata fatta oggetto di un flusso di vendite. In tal senso, non stupisce più di tanto che la correlazione tra il Nasdaq stesso è la società delle cripto valute sia di recente salita, passando da 0,28 a 0,59.
+            Gianni Rusconi
             
-            La concorrenza
             
-            Ma non è solamente questione di legami, più o meno forti, tra asset. Altro elemento sul tavolo è - per l’appunto - quello della concorrenza. Qui - va subito detto - gli esperti sono piuttosto divisi nei loro commenti. Alcuni sottolineano che l’offerta focalizzata di Coinbase, ma sempre più diversificata, sul mondo delle cripto non deve temere l’arrivo di nuovi player. Altri analisti, invece, ribattono che la questione non può risolversi in maniera cosi semplice. In tal senso, quale esempio, viene citato il caso di Robinhood. La piattaforma online di trading, nel 2024, ha acquisito l’exchange centralizzato Bitstamp. Si tratta di una mossa - è l’indicazione- che permette alla società di Menlo Park di proporre un’ampia offerta (dall’operatività su tradizionali azioni ai titoli cripto fino al servizio di staking) in grado di attirare molti utenti. Non solo. Coinbase - similmente alla stessa Robinhood - deve fronteggiare il boom degli Etf spot sul bitcoin. Gli investitori - al fine di esporsi alle cripto -possono preferire la strada dei fondi passivi, piuttosto che quella degli exchange centralizzati (o di piattaforme come Robinhood). Di più. nel recente passato hanno preso piede i Decentralized exchance (Dex). Cioè: protocolli automatizzati dove è possibile lo scambio “peer to peer”. Vero! La crescita dei Dex è stata anche dovuta alla volontà di “sfuggire” a potenziali strette sul fronte regolatorio. Soprattutto, negli Usa. Adesso, venendo meno la motivazione in oggetto in scia al nuovo approccio della Casa Bianca, la corsa agli exchange decentralizzati -peraltro molto complessi da utilizzare - potrebbe perdere di abbrivio. Al di là di ciò è, però, innegabile che, da un lato, la concorrenza aumenta; e che, dall’altro, uno dei maggiori focus di Coinbase è mantenere un alto tasso di crescita nella base di utenti. Un obiettivo il quale, nel contesto descritto, non è di così facile concretizzazione.
             
-            Un’occhio all’analisi tecnica
-            
-            A fronte di un simile scenario, quale allora la situazione del titolo in Borsa? Riguardo ai multipli, secondo il terminale Bloomberg, il rapporto tra prezzo ed utile previsto sul 2025 (al 27/3/2025) è di 23 volte. Il dato è inferiore sia a quello definito nel 2024 (25,23) che all’indicatore di due anni fa, il quale era risultato di 101,8. Con riferimento, invece, all’analisi tecnica, «l’impostazione nel lungo periodo - dice l’analista indipendente Silvio Bona - rimane al rialzo. Più sul breve, invece, deve sottolinearsi che dopo avere avvicinato, il 5 dicembre scorso, i massimi storici in area 360 dollari, le azioni di Coinbase hanno avviato una correzione. Così ci si è riportati sul supporto statico di medio periodo posizionato intorno a 167 dollari. Attualmente la fase correttiva non è conclusa, in quanto non si sono concretizzate figure tecniche che segnalino l’inversione di tendenza. In un simile contesto, il risparmiatore deve fare attenzione, oltre che al supporto già indicato, anche al “pavimento” inferiore situato in area 163 dollari»
 
 
 # E
@@ -467,54 +494,119 @@ NOTIZIE_ECONOMICHE
 
 			«Dobbiamo essere chiari - dice Assia - le criptovalute non devono superare il 3-4% del totale delle attività di un investitore, solo in alcuni casi possiamo spingerci fino al 10%, a seconda della propensione al rischio e dell’età dell’investitore. EToro è una piattaforma unica, ma lo diciamo noi per primi: non è fatta per tutti. Se qualcuno sta cercando attività di tipo previdenziale eToro non è la migliore offerta. Ma in tutti gli altri casi offriamo servizi unici nel panorama mondiale». Partner di Twitter, eToro ha una manifesta ambizione a crescere. Il 2025 potrebbe essere l’anno dello sbarco sui mercati azionari, con la quotazione a Londra o a Wall Street. Al momento, oltre alla famiglia Assia e ad alcuni manager, partecipano il capitale di eToro il gruppo Ion, Softbank Vision fund 2, Velvet Sea ventures e Aglaé ventures, una società di venture capital partecipata dal gruppo Arnault (Lvmh). L’obiettivo è crescere. Anche nell’offerta di servizi. Già oggi in Gran Bretagna è disponibile una card fisica, appoggiata al circuito Visa per i pagamenti di tutti i giorni e per rendere eToro un po’ più simile alla banca di nonno Yehuda.
 # D
-   DAZI 
-      2025_04_22_DAZI_USA_PANNELLI_SOLARI 
+   DA 
+      DAZI
+         2025_04_22_DAZI_USA_PANNELLI_SOLARI 
 
-         @Dazi, Usa annunciano tariffe fino al 3.521% su pannelli solari da sud-est asiatico
-         Secondo un’indagine, molte aziende del Sud-est asiatico sarebbero controllate da colossi cinesi e sosterrebbero una concorrenza sleale grazie a sovvenzioni statali
+                  @Dazi, Usa annunciano tariffe fino al 3.521% su pannelli solari da sud-est asiatico
+                  Secondo un’indagine, molte aziende del Sud-est asiatico sarebbero controllate da colossi cinesi e sosterrebbero una concorrenza sleale grazie a sovvenzioni statali
+                  
+                  Gli Stati Uniti si preparano a imporre dazi doganali fino al 3.521% sui pannelli solari importati da Cambogia, Malesia, Thailandia e Vietnam. È quanto annunciato dal Dipartimento del Commercio, che accusa Pechino di sostenere in modo indiretto la produzione in questi Paesi, aggirando così le restrizioni esistenti contro i prodotti cinesi.
+                  
+                  L’iniziativa nasce da un’indagine avviata nell’aprile 2024, su richiesta dell’American Solar Industry Alliance, secondo cui molte aziende del Sud-est asiatico sarebbero in realtà controllate da colossi cinesi e dunque sosterrebbero una concorrenza sleale grazie a sovvenzioni statali. Secondo l’International Trade Administration (ITA), sono emerse per la prima volta prove concrete di sussidi transnazionali, una pratica che ha permesso a produttori stranieri di abbassare artificialmente i costi, danneggiando il mercato statunitense.
+                  
+                  Le tariffe proposte variano da un minimo del 34,41% per i prodotti malesi a un impressionante 651,85% per quelli cambogiani. Ma per due aziende in particolare, 
+                  @aziende@pannelli@solari
+                  Hounen Solar e Solar Long PV-Tech, il dazio salirebbe addirittura al 3.521%, più di 35 volte il valore dei prodotti venduti.
+                  
+                  
+                  
+                  In totale, sarebbero coinvolti quasi 12 miliardi di dollari di importazioni registrate nel 2023. La misura, se approvata, andrebbe a sommarsi al 10% di dazio generalizzato introdotto dal presidente Trump il 2 aprile su una vasta gamma di beni importati, incluso il fotovoltaico, oltre ad altri balzelli doganali momentaneamente sospesi.
+                  
+                  
+                  Prima dell’entrata in vigore, spetterà all’International Trade Commission (ITC) valutare entro il 2 giugno se i sussidi abbiano effettivamente distorto la concorrenza sul mercato americano. Solo allora i dazi diventeranno operativi.
+                  
+                  Per Washington, si tratta di un nuovo fronte nella guerra commerciale contro Pechino, che, pur non direttamente colpita, vede ora nel Sud-est asiatico una rete di produzione che rischia di essere chiusa alla più grande economia del mondo.
          
-         Gli Stati Uniti si preparano a imporre dazi doganali fino al 3.521% sui pannelli solari importati da Cambogia, Malesia, Thailandia e Vietnam. È quanto annunciato dal Dipartimento del Commercio, che accusa Pechino di sostenere in modo indiretto la produzione in questi Paesi, aggirando così le restrizioni esistenti contro i prodotti cinesi.
-         
-         L’iniziativa nasce da un’indagine avviata nell’aprile 2024, su richiesta dell’American Solar Industry Alliance, secondo cui molte aziende del Sud-est asiatico sarebbero in realtà controllate da colossi cinesi e dunque sosterrebbero una concorrenza sleale grazie a sovvenzioni statali. Secondo l’International Trade Administration (ITA), sono emerse per la prima volta prove concrete di sussidi transnazionali, una pratica che ha permesso a produttori stranieri di abbassare artificialmente i costi, danneggiando il mercato statunitense.
-         
-         Le tariffe proposte variano da un minimo del 34,41% per i prodotti malesi a un impressionante 651,85% per quelli cambogiani. Ma per due aziende in particolare, 
-         @aziende@pannelli@solari
-         Hounen Solar e Solar Long PV-Tech, il dazio salirebbe addirittura al 3.521%, più di 35 volte il valore dei prodotti venduti.
-         
-         
-         
-         In totale, sarebbero coinvolti quasi 12 miliardi di dollari di importazioni registrate nel 2023. La misura, se approvata, andrebbe a sommarsi al 10% di dazio generalizzato introdotto dal presidente Trump il 2 aprile su una vasta gamma di beni importati, incluso il fotovoltaico, oltre ad altri balzelli doganali momentaneamente sospesi.
-         
-         
-         Prima dell’entrata in vigore, spetterà all’International Trade Commission (ITC) valutare entro il 2 giugno se i sussidi abbiano effettivamente distorto la concorrenza sul mercato americano. Solo allora i dazi diventeranno operativi.
-         
-         Per Washington, si tratta di un nuovo fronte nella guerra commerciale contro Pechino, che, pur non direttamente colpita, vede ora nel Sud-est asiatico una rete di produzione che rischia di essere chiusa alla più grande economia del mondo.
-
-
-
-
-	DE NORA ITALY
-		2024
+         2025_05_07_Morgan Stanley: «Dazi e inflazione, da decenni non c’era un tale reset della politica industriale»
+            Il Sole 24 Ore
+               https://www.quotidiano.ilsole24ore.com/sfoglio/aviator.php?newspaper=S24&issue=20250507&edition=SOLE&startpage=3&displaypages=2&articleId=2018336 
+            Dal nostro corrispondente NEW YORK
+                     
+                     T ed Pick, 56 anni, è Ceo di Morgan Stanley da inizio 2024 e chairman da gennaio. È alla grande e storica banca americana dal 1990, dove ha ricoperto molteplici incarichi, tra i quali co-direttore generale e responsabile dell’Institutional Securities group, con supervisione di investment banking, equities, fixed income, capital markets e research. In un’intervista al 41esimo piano della sede dell’istituto nel cuore di Manhattan, a due passi da Times Square, mette a fuoco il nuovo clima di «incertezza e complessità» che domina mercati e dealmaking, davanti al reset della politica americana sotto Donald Trump. Ma se vede rischi di recessione, spera ancora che possa essere evitata o contenuta. In occasione del 35esimo anniversario della presenza in Italia, dà un voto di fiducia al Paese e prevede che il business della banca raggiungerà il traguardo del miliardo di dollari.
+                     
+                     L’outlook per l’economia americana e globale è peggiorato. Si parla di recessione, inflazione, anche stagflazione.
+                     
+                     Già porre la domanda in questi termini mostra il cono di incertezza che oggi esiste. Tradizionalmente, in epoca moderna, non citeremmo rischi di recessione e di inflazione nella stessa frase. E non avremmo quella conversazione nel contesto di una Federal Reserve che appare in buona forma nel rispettare il suo doppio mandato, che è quello di tenere sotto controllo l’inflazione e preservare l’occupazione. Siamo in una situazione di piena occupazione, e ci stiamo di fatto avvicinando ad un’inflazione al 2%. Ma questo precedeva la nuova amministrazione, i suoi obiettivi politici e la messa in pratica di alcuni di loro, quali la politica dei dazi con il Liberation Day.
+                     
+                     Qual è il grado di preoccupazione nel nuovo clima?
+                     
+                     Tra i clienti con cui parliamo, c’è preoccupazione per un rallentamento dell’economia. Tra gli economisti il rischio di recessione si avvicina al 50%. Per il prossimo anno vediamo una crescita del Pil Usa dello 0,5%, inferiore all’1,5% previsto ancora di recente e all’oltre 2%, forse 2,5%, stimato a fine anno scorso. C’è una chiara decelerazione e questo si ripete in tutto il mondo. Ma non siamo ancora in una recessione. Ho ancora speranza che potremo evitarla, o che se avremo una recessione non sarà grave. Che potremo andare avanti, perché in generale i consumatori negli Usa sono in buone condizioni, anche se meno nelle fasce più deboli. E perché i bilanci aziendali sono in ottima condizione.
+                     
+                     Parliamo dell’altro spettro, l’inflazione?
+                     
+                     La domanda qui è quanta pressione sui prezzi creeranno i dazi. Al momento l’impulso inflazionistico appare imperscrutabile, perché non abbiamo assistito ad una simile riconsiderazione e reset della politica industriale in molti decenni. Dovremo aspettare. Aspettare di vedere ad esempio se ci saranno alcuni accordi commerciali sulle tariffe, che offrano sollievo. Non uso invece la parola stagflazione, termine pesante. È l’estremo più negativo degli esiti possibili. Spero non si avvererà, non l’abbiamo vista in cinquant’anni. Ma non abbiamo avuto guerre in Europa per 75 anni, poi è scoppiata. E abbiamo avuto una pandemia dopo cent’anni. Lo scenario più ottimistico sull’inflazione è che al contrario rimanga contenuta.
+                     
+                     Qual è il suo auspicio davanti alle politiche dell’amministrazione?
+                     
+                     Che comincino a cristallizzarsi. Sulle tariffe, ma non solo. I dazi sono una delle tre grandi iniziative che porta avanti, seguita da riforme delle tasse e da deregulation. Le tasse sono molto importanti davanti alle sfide di enormi squilibri fiscali. La deregulation, di industrie che possono sostenere l’economia, se avverrà rapidamente potrebbe essere molto positiva. A mio modo di pensare siamo anzitutto di fronte a complessità, ad aspetti intricati. Solo tre mesi or sono, dopo le elezioni, gli “spiriti animali” suggerivano un boom, da allora la correzione è stata drammatica. Tutti gli elementi che potrebbero caratterizzare una recessione - disoccupazione, calo dell’attività - devono chiarirsi nel corso dei prossimi mesi o trimestri. Sull’inflazione le dinamiche includono anche l’immigrazione. A tutto questo si sommano gli effetti dell’intelligenza artificiale e delle transizioni energetiche. Insomma vere complessità e incertezze.
+                     
+                     Come si traduce questa incertezza sui mercati e per le banche?
+                     
+                     C’è una pausa in segmenti dell’investment banking, in aspetti del trading e la domanda è se questa sarà una pausa estesa. Tra i clienti, c’è forse chi pensa che serva un hedge sugli asset Usa. Non sono convinto che gli investitori siano necessariamente negativi sull’eccezionalismo americano, ma c’è stato un indubbio sovrappeso. La volatilità sicuramente continua e sembra essere più strutturale, difficile da quantificare. Potremmo assistere a frenate nei volumi, nella gestione di asset e patrimoniale. L’altra nostra constituency, a sua volta sotto osservazione, sono i clienti dell’investment banking, le aziende, la consulenza su attività strategica o di finanziamento. Pensano che i mercati siano aperti per raccogliere capitale? Credono che i regulators permetteranno fusioni cross border? Anche davanti alle implicazioni da chiarire delle politiche sui dazi. Se sono un Ceo oggi mi domando se sia il momento di procedere con i miei piani, se sia aperta la finestra per ampliare o rivedere il business. Oppure se ci sono preoccupazioni, ad esempio di interesse nazionale, che possano rendere più difficile liberarsi o acquisire un asset. Queste sono le domande che i nostri clienti corporate si pongono in questo momento di incertezza e sono parte della pausa.
+                     
+                     Pausa ma non uno stop?
+                     
+                     La mia opinione è che questa sia una pausa, “pause, non delete”. Una pausa scomoda, ma le penne per firmare deal non sono state riposte. Operazioni che erano rimaste bloccate, con la pandemia e il post pandemia. Aziende che devono ingrandirsi. E sponsor finanziari devono continuare a raccogliere capitale e metterlo a frutto, comprare. L’incertezza appare destinata a durare ma può essere tenuta in considerazione come la volatilità, aggiustando costi del capitale, rischio paese, rischi sui deal.
+                     
+                     Torniamo sulle guerre commerciali, siamo alla vigilia di un nuovo ordine economico?
+                     
+                     È presto per dirlo. Ci sono ragioni per sostenere che questo sia un periodo di aggiustamento, che abbiamo visto massima volatilità e massime prese di posizione politiche. O per pensare che adesso cominci un nuovo capitolo. Ai nostri clienti il consiglio è oggi di considerare che la volatilità abbia elementi strutturali.
+                     
+                     Abbiamo attraversato un periodo, dopo la grande crisi finanziaria,
+                     
+                     con un paradigma non naturale di tassi di interesse a zero e zero inflazione, un’aberrazione che richiedeva correzioni.
+                     
+                     Come vede in questa fase di incertezza i clienti in Europa e Italia?
+                     
+                     Si tratta di incoraggiare i clienti ad agire bene al momento giusto. Se sei un’azienda europea, in energia, sanità, comparti industriali, che ha visto market cap e liquidità ferme possono emergere molteplici scenari, basati sull’attività. Puoi cercare dismissioni o scorpori di una divisione. Opportunità per il core business ad alta crescita, non solo gli Usa, o in Cina e India, ma in tutta Europa. Considerare fusioni cross border, raccogliere capitale, equity e debito davanti ad una domanda sui mercati globali per corporate debt di società molto buone e che abbiano deciso di compiere nuovi passi avanti. In piani di espansione, possono essere necessarie interazioni con il più grande mercato di consumatori al mondo, gli Usa. Può essere in gioco una ristrutturazione della supply chain, adattarsi o acquisire tecnologie di IA, affrontare questioni di indipendenza energetica.
+                     
+                     Più in specifico, quel è il vostro business in Italia?
+                     
+                     Essere come siamo presenti da 35 anni è molto importante. Questa settimana celebriamo il nostro 35° anniversario con un evento per i clienti a Milano. Inoltre, come ogni anno, ospiteremo in Italia il Global Investment Leaders Summit, una delle nostre più importanti conferenze globali. Il nostro senior management spende molto tempo in Europa e in Italia. È centrale per quello che possiamo fare per i clienti, continuità culturale, radici locali e presenza globale sono nostri vantaggi competitivi. In Italia siamo top primary dealer per il debito pubblico e assistiamo il governo italiano nelle privatizzazioni e nelle operazioni strategiche. Il nostro business nel Paese può ragionevolmente crescere a un miliardo di dollari di entrate, se operiamo correttamente. Oggi è meno di quella cifra, ma è già significativo. Dopo il voto sulla Brexit abbiamo aumentato i dipendenti da 75 a cento. E vogliamo mantenere ed espandere la leadership nell’investment banking classico, nelle attività di sales & trading e nell’investment management. Possiamo continuare a essere banca top nelle M&A, siamo tra le prime tre negli equity capital markets. Copriamo l’intera Eurozona, ma con alcune
+                     
+                     enfasi, ragione per cui sarò in Italia questa settimana per il nostro Global Investment
+                     
+                     Leaders Summit.
+                     
+                     E un giudizio sulle sfide dell’Italia?
+                     
+                     C’è un considerevole ammontare di debito in alcuni paesi dell’Europa, ma dobbiamo ricordare quanto sia il debito anche negli Usa. Gli squilibri fiscali esistono ovunque nel mondo sviluppato, è un problema. Sappiamo che cosa accade quando il debito diventa una sorta di zavorra permanente. Ritengo importante l’emergere di una leadership reale che ha cura dell’interesse comune, dell’interesse di lungo termine, quello nazionale e quello dell’Europa. La leadership conta e credo che voi oggi l’abbiate, che possa essere un elemento di differenziazione per il ruolo dell’Italia nell’ambito delle prospettive della Ue.
+                     
+                     Ha previsto un miglioramento nei deal, può elaborare?
+                     
+                     Credo che nella seconda parte dell’anno ci saranno più operazioni. Nel tempo credo avremo qualche normalizzazione sul fronte delle tariffe. E piani sulle tasse e deregulation. Le cose dunque dovrebbero assestarsi e le pipeline dei deal sbloccarsi. Ma c’è un cambiamento strutturale, nella nuova immediatezza dei mercati finanziari e un ritorno a combinazioni di eventi internazionali, di politica monetaria e valutaria. Le finestre per completare deal potrebbero essere più brevi, aprirsi e chiudersi in settimane. Incertezza e movimenti geopolitici possono richiedere tempo.
+                     
+                     A quali settori guarda, ancora tech e IA?
+                     
+                     Saranno più numerosi, la deregulation è reale e sarà un fenomeno globale. Non sarà una porta aperta per tutto, resterà in gioco una questione di interesse nazionale, che è una diversa considerazione di regolamentazione. Non è il tipico ostacolo burocratico o antitrust, può in realtà stimolare la nascita di campioni nazionali. I deal futuri non saranno però limitati a tech e IA, anche se questi aspetti informano ogni industria oggi. Ci saranno energia e la transizione energetica. Vedremo agire gruppi con market cap che non si è smossa da anni. Società nella sanità che crescono globalmente. Gruppi finanziari, dove c’è stata resistenza a merger e ora vediamo segni di accelerazione. Tre i grandi motori: la ridefinizione della supply chain, per gestire il business nella maniera più
+                     
+                     sicura e resiliente. L’allontanamento dalla iper-regolamentazione negli Usa e nella Ue. Infine considerazioni legate a singole industrie.
+                     
+                     Ma qual è, anche personalmente, la scommessa più difficile a Morgan Stanley?
+                     
+                     Adattarci al nuovo periodo di complessità e incertezza, che esisterà per un certo tempo. Esser pronti a considerare diversi scenari, e di conseguenza come allocare il rischio. Spendere tempo con i clienti, per capire cosa sono disposti a fare, che cosa riceverà semaforo verde, giallo o rosso. L’eccezionalismo americano non è ancora in discussione, ma la considerazione del resto del mondo è pertinente. Dove sono oggi le opportunità per i clienti, e siamo presenti lì come banca globale? Il paradosso che vedo è un mondo giunto alla fine della repressione finanziaria, che ora vive quella che chiamo una continuazione della storia. Dove dobbiamo adattarci ad un nuovo senso di complessità e cambiamento mantenendo allo stesso tempo convinzioni costanti, strategiche. L’incertezza richiede rigore e umiltà. Non ci dimentichiamo che nel 2008 siamo arrivati ad un soffio dallo scomparire e da allora abbiamo risalito la china.
+   DE 
+     DE NORA ITALY
 			2024_06_11_/(PRODUZIONE @IDROGENO@VERDE DELLA DE NORA INSIEME A @SNAM)
 
-			di Fausta Chiesa
-			Idrogeno verde,
+      			di Fausta Chiesa
+      			Idrogeno verde,
 
-			al via la superfabbrica
+      			al via la superfabbrica
 
-			di De Nora e Snam
+      			di De Nora e Snam
 
-			La produzione a Cernusco a partire da fine 2025
-			cernusco sul naviglio (milano) Sarà la fabbrica di elettrolizzatori e altri componenti per produrre idrogeno verde più grande d’Italia e una delle maggiori in Europa. È la gigafactory che Industrie De Nora sta costruendo con il supporto di Snam (la newco si chiama «De Nora Italy Hydrogen Technologies» o Dniht) a Cernusco sul Naviglio, in provincia di Milano. Ieri è avvenuta la posa della prima pietra.
+      			La produzione a Cernusco a partire da fine 2025
+      			cernusco sul naviglio (milano) Sarà la fabbrica di elettrolizzatori e altri componenti per produrre idrogeno verde più grande d’Italia e una delle maggiori in Europa. È la gigafactory che Industrie De Nora sta costruendo con il supporto di Snam (la newco si chiama «De Nora Italy Hydrogen Technologies» o Dniht) a Cernusco sul Naviglio, in provincia di Milano. Ieri è avvenuta la posa della prima pietra.
 
-			«Spesso si abusa del nome di gigafactory — ha dichiarato Federico De Nora, presidente della società — ma questa lo è veramente, con una capacità che raggiungerà i 2 gigawatt equivalenti entro il 2030. Gli elettrolizzatori sono un tassello fondamentale per una corretta transizione energetica». A testimoniare l’importanza di avere in Europa la produzione di una tecnologia per l’idrogeno verde è il riconoscimento ricevuto dall’Unione Europea, che lo ha inserito tra gli Ipcei (Importanti Progetti di Interesse Comune Europeo). Il ministero delle Imprese e del Made in Italy darà un contributo alla spesa: 32 milioni che potranno salire a 63 milioni a fronte di un investimento complessivo di circa cento milioni. A Cernusco nascerà un centro produttivo di circa 25.000 metri quadri, alimentato da pannelli solari e progettato con un’architettura industriale basata su criteri di basso impatto ambientale. A regime, saranno creati 200 posti di lavoro e l’attività ne genererà altri duemila nell'indotto, secondo quanto annunciato. De Nora, che l’anno scorso ha festeggiato i cento anni ed è specializzata in elettrochimica, è tra i leader nella nascente industria dell’idrogeno verde ed è presente con siti produttivi in Usa, Cina, Giappone e Germania. «Questo impianto, che sarà operativo tra fine 2025 e inizio 2026, sarà il più all’avanguardia di tutti», ha precisato De Nora. Il progetto «si inserisce in un più ampio piano di espansione pluriennale della capacità produttiva del gruppo De Nora».
+      			«Spesso si abusa del nome di gigafactory — ha dichiarato Federico De Nora, presidente della società — ma questa lo è veramente, con una capacità che raggiungerà i 2 gigawatt equivalenti entro il 2030. Gli elettrolizzatori sono un tassello fondamentale per una corretta transizione energetica». A testimoniare l’importanza di avere in Europa la produzione di una tecnologia per l’idrogeno verde è il riconoscimento ricevuto dall’Unione Europea, che lo ha inserito tra gli Ipcei (Importanti Progetti di Interesse Comune Europeo). Il ministero delle Imprese e del Made in Italy darà un contributo alla spesa: 32 milioni che potranno salire a 63 milioni a fronte di un investimento complessivo di circa cento milioni. A Cernusco nascerà un centro produttivo di circa 25.000 metri quadri, alimentato da pannelli solari e progettato con un’architettura industriale basata su criteri di basso impatto ambientale. A regime, saranno creati 200 posti di lavoro e l’attività ne genererà altri duemila nell'indotto, secondo quanto annunciato. De Nora, che l’anno scorso ha festeggiato i cento anni ed è specializzata in elettrochimica, è tra i leader nella nascente industria dell’idrogeno verde ed è presente con siti produttivi in Usa, Cina, Giappone e Germania. «Questo impianto, che sarà operativo tra fine 2025 e inizio 2026, sarà il più all’avanguardia di tutti», ha precisato De Nora. Il progetto «si inserisce in un più ampio piano di espansione pluriennale della capacità produttiva del gruppo De Nora».
 
-			Ma quali prospettive di mercato ci sono? «Come tutti i settori nuovi — ha dichiarato il ceo di De Nora Paolo Dellachà — è in fase di lancio iniziale. Il costo dell’idrogeno verde dipende dal costo delle rinovabili utilizzate per produrlo e in alcuni Paesi è già competitivo. L’Europa ha un ruolo primario nella corsa verso questa molecola: stime indicano che al 2030 avremo un minimo di cento gigawatt di capacità installata di elettrolizzatori e l’Europa coprirà il 25%/30% della produzione globale». L’amministratore delegato di Snam Stefano Venier ha spiegato quale potrebbe essere un altro utilizzo dell’idrogeno verde, anche questo strumentale alla transizione, cioè quello di conservare per lungo tempo l’energia solare ed eolica: «L’idrogeno consente lo stoccaggio delle rinnovabili, perché quando sono in eccesso o c’è una riduzione significativa del prezzo, la loro trasformazione in molecole di idrogeno consente di poterle stoccare». Valentino Valentini, viceministro delle Imprese e del Made in Italy, intervenendo alla cerimonia, ha delineato lo scenario: «La transizione vedrà un asse tra il Nord Africa e l’Europa. Ci saranno corridoi con le rinnovabili solari che dall’Africa attraverseranno l’Italia e dal Nord Europa avremo l’eolico».
+      			Ma quali prospettive di mercato ci sono? «Come tutti i settori nuovi — ha dichiarato il ceo di De Nora Paolo Dellachà — è in fase di lancio iniziale. Il costo dell’idrogeno verde dipende dal costo delle rinovabili utilizzate per produrlo e in alcuni Paesi è già competitivo. L’Europa ha un ruolo primario nella corsa verso questa molecola: stime indicano che al 2030 avremo un minimo di cento gigawatt di capacità installata di elettrolizzatori e l’Europa coprirà il 25%/30% della produzione globale». L’amministratore delegato di Snam Stefano Venier ha spiegato quale potrebbe essere un altro utilizzo dell’idrogeno verde, anche questo strumentale alla transizione, cioè quello di conservare per lungo tempo l’energia solare ed eolica: «L’idrogeno consente lo stoccaggio delle rinnovabili, perché quando sono in eccesso o c’è una riduzione significativa del prezzo, la loro trasformazione in molecole di idrogeno consente di poterle stoccare». Valentino Valentini, viceministro delle Imprese e del Made in Italy, intervenendo alla cerimonia, ha delineato lo scenario: «La transizione vedrà un asse tra il Nord Africa e l’Europa. Ci saranno corridoi con le rinnovabili solari che dall’Africa attraverseranno l’Italia e dal Nord Europa avremo l’eolico».
 
-			© RIPRODUZIONE RISERVATA
-    DRAGHI MARIO
-    	2024
-    		2024_10_01_INVESTIRE_ALLA_DRAGI
+      			© RIPRODUZIONE RISERVATA
+     DRAGHI MARIO
+    	   2024_10_01_INVESTIRE_ALLA_DRAGI
 
 					Investire alla Draghi? Dalla transizione green alle banche: i titoli «premiati» dal Piano
 					di Adriano Barrì 
@@ -530,11 +622,43 @@ NOTIZIE_ECONOMICHE
 					Investire alla Draghi I titoli premiati dal Piano
 					Digitalizzazione e banche
 					La digitalizzazione è un altro pilastro fondamentale del rapporto Draghi. L’Italia, sebbene ancora indietro rispetto ad altri Paesi europei, sta recuperando terreno grazie a una serie di aziende innovative che stanno guidando questa trasformazione. Nexi è il leader nei pagamenti digitali, avendo beneficiato della rapida crescita del settore fintech, accelerata dalla pandemia e dai cambiamenti nelle abitudini di consumo. La società, protagonista di fusioni e acquisizioni strategiche, è ben posizionata per guidare la digitalizzazione del sistema finanziario italiano e europeo. Sul titolo si è recentemente espressa Bank of America confermando il giudizio Buy, con target di 9,3 euro. Nel comparto della monetica, a detta degli analisti la performance dei player europei nel secondo trimestre è stata solida e, più nel dettaglio, Nexi ha riportato un eccesso di cassa, fornendo inoltre messaggi rassicuranti in merito alla remunerazione degli investitori. Il terzo grande tema del rapporto Draghi è la necessità di un mercato unico dei capitali. L’integrazione dei mercati finanziari europei rappresenta una grande opportunità per le aziende italiane, in particolare per quelle del settore bancario, che potrebbero beneficiare di una maggiore armonizzazione delle regole e di un accesso più facile ai capitali. La prima mossa l’ha messa a segno Unicredit, che la scorsa settimana ha annunciato l’acquisizione del 9% di Commerzbank con l’intenzione di esplorare una possibile fusione tra la banca tedesca e la controllata Hvb. Con una solida base di capitale e una forte presenza in Europa centrale e orientale, la banca ha le carte in regola per sfruttare al meglio un’ulteriore integrazione del sistema finanziario europeo. Una strategia premiante? Nel frattempo negli ultimi 12 mesi il rendimento totale è stato dell’80%.
+     DEBITO GLOBALE
+         2025_05_07_Debito globale record: e ora i conti pubblici Usa fanno davvero paura
+            Il Sole 24 Ore
+               https://www.quotidiano.ilsole24ore.com/sfoglio/aviator.php?newspaper=S24&issue=20250507&edition=SOLE&startpage=2&displaypages=2&articleId=2018407 
 
+            Global Debt Monitor di Iif. Il passivo di governi, banche, imprese e famiglie ha ormai raggiunto i 324 trilioni a livello mondiale. Attenzione puntata sul bilancio americano, che rischia di finire fuori controllo con le politiche di Trump
 
-
-	
-
+            Torna a crescere il debito che attanaglia l’intero globo terrestre, dopo l’illusoria contrazione con la quale si era chiuso lo scorso anno. Alla fine del mese di marzo del 2025 le lancette puntano infatti verso un nuovo livello record, pari a 324mila miliardi di dollari per governi, famiglie, imprese e banche. Un risultato in larga parte dovuto al contemporaneo deprezzamento del dollaro, che contribuisce a rendere automaticamente più elevati i valori registrati al di fuori degli Stati Uniti, ma che per questo motivo non appare certo meno preoccupante.
+            
+            L’avanzata su scala globale
+            
+            L’impennata di 7.500 miliardi registrata in soli tre mesi secondo i dati raccolti dall’Institute of International Finance (Iif) attraverso il Global Debt Monitor risulta dopotutto quattro volte superiore alla media trimestrale osservata da fine 2022. A poco vale inoltre constatare come in rapporto al Pil mondiale l’indebitamento sia addirittura leggermente sceso al 325%, con un peggioramento delle dinamiche limitato soprattutto alle aree emergenti.
+            
+            E se Cina, Francia e Germania sono le principali artefici della crescita, l’attenzione in chiave futura è invece stavolta puntata tutta sugli Stati Uniti, i cui conti pubblici sembrano assumere le sembianze di una vera e propria mina vagante per gli anni a venire. A maggior ragione quando si considerano le politiche che la nuova amministrazione guidata da Donald Trump è intenzionata a portare avanti, passate al setaccio in modo davvero circostanziato e a tratti anche impietoso all’interno del report.
+            
+            Stati Uniti, la mina vagante
+            
+            Gli analisti di Iif parlano senza mezze misure di «traiettoria allarmante» quando si riferiscono al debito governativo made in Usa e invitano ad «allacciare le cinture» in previsione di una volatilità che rischia di investire i Treasury e non soltanto. Con l’intenzione manifestata dalla Casa Bianca di estendere i tagli fiscali del 2017 e di aggiungere ulteriori agevolazioni, si fa notare nel Global Debt Monitor, diviene altamente probabile che «l’impennata prevista delle emissioni di titoli del Tesoro Usa abbia un effetto di vasta portata sui mercati globali del debito e del credito, dato lo status di valuta di riserva del dollaro».
+            
+            Questo perché se le quelle disposizioni di bilancio estremamente espansive dovessero essere prorogate a tempo indeterminato, senza al tempo stesso che siano adottate misure compensative in entrata, il debito pubblico degli Stati Uniti potrebbe secondo le proiezioni dell’ufficio di bilancio del Congresso (Cbo) salire dall’attuale livello attorno al 100% del Pil a quasi il 130% entro il 2034 e balzare addirittura oltre il 180% nel 2044. E con cifre simili, stima Iif, il governo avrebbe bisogno di prendere a prestito altri 7.200 miliardi in 10 anni: un aumento brusco dell’offerta di titoli del Tesoro che eserciterebbe una pressione al rialzo sui rendimenti e inciderebbe così in modo significativo sulla quella spesa per interessi che già si attesta già al 3,1% del Pil.
+            
+            I dubbi sulle misure di Trump
+            
+            È proprio a questo punto che lo studio passa in rassegna le possibili contromosse al momento prospettate dall’amministrazione Trump per rimpinguare le casse dello Stato, a partire dalla stessa controversa introduzione di dazi all’import e dai tagli alle spese della pubblica amministrazione, senza tuttavia farsi grandi illusioni. «Queste misure hanno finora sollevato più interrogativi che fiducia riguardo alla loro efficacia come strumenti credibili di stabilizzazione del debito» ammettono gli esperti, facendo anzitutto notare che «una tariffa applicata su base universale del 10% potrebbe raccogliere circa 1.700 miliardi entro il 2034 e coprire quindi appena il 20% circa dell’aumento previsto del fabbisogno di finanziamento del governo derivante dall’estensione permanente dei tagli e dalle nuove esenzioni fiscali».
+            
+            Resta poi il legittimo dubbio che l’imposizione dei dazi possa addirittura rischiare in ultima analisi di ridurre le entrate del governo, qualora dovesse innescare ritorsioni da parte degli altri Paesi e altrettante sono le perplessità sui risultati del Doge, il dipartimento di efficienza governativa (Doge). La struttura guidata da Elon Musk potrebbe ottenere risparmi annui di circa 160 miliardi di dollari, ben al di sotto dell’obiettivo originale di 2mila miliardi. Seguendo quindi questo ritmo porterebbe alla causa un taglio delle spese di ulteriori 1.600 miliardi entro il 2034, pari anche in questo caso al 20% dell’incremento appena citato del fabbisogno.
+            
+            A chiudere il cerchio sono le considerazioni sul programma «Gold Card» attraverso il quale si offrirebbe la residenza permanente legale negli Stati Uniti agli immigrati in cambio di un pagamento di 5 milioni di dollari. Iif nota che il piano è ancora in fase di sviluppo, che persistono molti interrogativi sulla sua attuazione e anche sulla reale possibilità di generare entrate governative significative, come del resto confermano altre precedenti iniziative simili.
+            
+            Il possibile impatto sui mercati
+            
+            Non stupisce quindi come in un contesto difficile, caratterizzato da una pressione persistente sui bilanci dei governi, si sia materializzato un «aumento del premio a termine dei Treasury». Nè a parere del Global Debt Monitor si può escludere «ulteriore volatilità, in particolare alla luce delle ampie posizioni speculative “corte nette” nei titoli di Stato Usa detenuti da investitori con leva finanziaria». Instabilità perdurante, e in grado purtroppo di condizionare a caduta anche il resto dei mercati globali.
+            
+            © RIPRODUZIONE RISERVATA
+            
+            Maximilian Cellino
+ 
 # F
 	FINCANTIERI
 					
@@ -590,242 +714,236 @@ NOTIZIE_ECONOMICHE
 
 
 # G
-	
-	GERMANIA 
-		2024
-			2024_02_08_(Scioperi e tonfo dell’industria La Germania è in crisi)
+	GE 
+   	GERMANIA 
+   		    2024_02_08_(Scioperi e tonfo dell’industria La Germania è in crisi)
 
-			BERLINO Rallenta ancora l’economia della Germania. Ma la brutta notizia è che la frenata, pur prevista, è perfino peggiore delle attese. Lo scorso dicembre la produzione industriale — un dato complessivo che include settori dall’edilizia all’energia — è calata dell’1,6 %, mentre a novembre si era fermata allo -0,2%. Gli analisti si attendevano un risultato diverso, con gran parte delle stime che oscillavano tra il -0,4 o il -0,5%. Si tratta del sesto mese in segno negativo degli ultimi sette, e quando è andata meglio la produzione è rimasta ferma in stagnazione.
+   			BERLINO Rallenta ancora l’economia della Germania. Ma la brutta notizia è che la frenata, pur prevista, è perfino peggiore delle attese. Lo scorso dicembre la produzione industriale — un dato complessivo che include settori dall’edilizia all’energia — è calata dell’1,6 %, mentre a novembre si era fermata allo -0,2%. Gli analisti si attendevano un risultato diverso, con gran parte delle stime che oscillavano tra il -0,4 o il -0,5%. Si tratta del sesto mese in segno negativo degli ultimi sette, e quando è andata meglio la produzione è rimasta ferma in stagnazione.
 
-			Il dato di dicembre porta così la contrazione industriale annua in Germania al -3%. Bisogna tornare indietro al 2020, in piena stagione del Covid, per ritrovare simili numeri. Non solo, ma il risultato industriale tira all’ingiù anche il Pil: i dati preliminari mostrano che la ricchezza tedesca nel 2023 si è ristretta dello 0,3 per cento.
+   			Il dato di dicembre porta così la contrazione industriale annua in Germania al -3%. Bisogna tornare indietro al 2020, in piena stagione del Covid, per ritrovare simili numeri. Non solo, ma il risultato industriale tira all’ingiù anche il Pil: i dati preliminari mostrano che la ricchezza tedesca nel 2023 si è ristretta dello 0,3 per cento.
 
-			Ciò che è peggio è che la crisi tocca tutti i settori. I maggiori cali riguardano le industrie ad alto consumo di energia (quella chimica è a -7,6%), l’industria energetica e l’edilizia (-3,4%), secondo l’Ufficio federale di Statistica. L’improvvisa mancanza del gas russo è stata una botta da cui «la chimica» fatica a riprendersi: e l’emergenza è tutt’altro che passata. Un unico settore in controtendenza: quello dell’auto.
+   			Ciò che è peggio è che la crisi tocca tutti i settori. I maggiori cali riguardano le industrie ad alto consumo di energia (quella chimica è a -7,6%), l’industria energetica e l’edilizia (-3,4%), secondo l’Ufficio federale di Statistica. L’improvvisa mancanza del gas russo è stata una botta da cui «la chimica» fatica a riprendersi: e l’emergenza è tutt’altro che passata. Un unico settore in controtendenza: quello dell’auto.
 
-			La sensazione di un Paese fermo, e che non riesce a intravedere una via d’uscita, è palpabile. Quasi ogni giorno ci sono aziende che annunciano esuberi: due giorni fa è toccato alla Miele, il colosso degli elettro-domestici di fascia alta, dove sono stati persi 2.700 posti. Più ancora di questi numeri, dice molto lo stato d’agitazione dei lavoratori. Ieri uno sciopero della Lufthansa ha cancellato il 90% dei voli. È solo l’ultimo caso. Da novembre muoversi in Germania è un terno al lotto: le ferrovie poche settimane fa si sono fermate per 6 giorni.
-			Poi è toccato ai trasporti locali, e prima ancora al personale di terra degli aeroporti. Di questi tempi, la cosa più sicura è non aver bisogno di andare da nessuna parte.
+   			La sensazione di un Paese fermo, e che non riesce a intravedere una via d’uscita, è palpabile. Quasi ogni giorno ci sono aziende che annunciano esuberi: due giorni fa è toccato alla Miele, il colosso degli elettro-domestici di fascia alta, dove sono stati persi 2.700 posti. Più ancora di questi numeri, dice molto lo stato d’agitazione dei lavoratori. Ieri uno sciopero della Lufthansa ha cancellato il 90% dei voli. È solo l’ultimo caso. Da novembre muoversi in Germania è un terno al lotto: le ferrovie poche settimane fa si sono fermate per 6 giorni.
+   			Poi è toccato ai trasporti locali, e prima ancora al personale di terra degli aeroporti. Di questi tempi, la cosa più sicura è non aver bisogno di andare da nessuna parte.
 
-			© RIPRODUZIONE RISERVATA
-
-	GIAPPONE
-		2024
-			2024_02_18_(Borsa del Giappone ai massimi punta alla crescita con i nanometri e superconduttori)
+   			© RIPRODUZIONE RISERVATA
+	GI 
+      GIAPPONE
+   			2024_02_18_(Borsa del Giappone ai massimi punta alla crescita con i nanometri e superconduttori)
 
 
-				Nikkei record Sorpresa Giappone, Borsa mai cosi da 34 anni
+   				Nikkei record Sorpresa Giappone, Borsa mai cosi da 34 anni
 
-				Che il debito pubblico giapponese abbia raggiunto la cifra monstre di 8.600 miliardi di dollari nel 2023, due volte l’economia nipponica, non spaventa gli investitori, che scommettono sempre di più sul ritorno del Sol Levante, dopo oltre tre decenni di deflazione. Ieri, per la prima volta da 34 anni, l’indice Nikkei ha oltrepassato quota 37 mila punti. Non succedeva dal 20 febbraio 1990. E ora sembra a portata di mano anche il record di tutti i tempi, toccato nel dicembre 1989, con il Nikkei a 38.915 punti. A spingere la Borsa di Tokyo contribuiscono gli investitori esteri, che a gennaio hanno comprato azioni delle aziende sul listino giapponese per 2.070 miliardi di yen (13,4 miliardi di dollari), il settimo dato mensile più alto mai registrato. Non è solo una scommessa finanziaria, legata alla perdurante politica dei tassi negativi della Bank of Japan, che indebolisce lo yen e fa correre l’export. Secondo il Fmi, il Pil del Giappone è cresciuto dell’1,9% nel 2023, mentre rallenterà all’1% quest’anno. L’inflazione, salita fino al 3,1% l’anno scorso, è in frenata, ma al di sopra del target 2% inseguito invano per oltre 30 anni. E i rischi geopolitici, che gravano sull’economia globale, in Giappone favoriscono gli investimenti. Qui la taiwanese Tsmc, leader mondiale dei semiconduttori, quest’anno comincerà la costruzione del suo secondo impianto. E Rapidus, una startup giapponese, con il sostegno del governo e di un consorzio di istituti di ricerca, mira a produrre chip da 2 nanometri già nel 2027.
+   				Che il debito pubblico giapponese abbia raggiunto la cifra monstre di 8.600 miliardi di dollari nel 2023, due volte l’economia nipponica, non spaventa gli investitori, che scommettono sempre di più sul ritorno del Sol Levante, dopo oltre tre decenni di deflazione. Ieri, per la prima volta da 34 anni, l’indice Nikkei ha oltrepassato quota 37 mila punti. Non succedeva dal 20 febbraio 1990. E ora sembra a portata di mano anche il record di tutti i tempi, toccato nel dicembre 1989, con il Nikkei a 38.915 punti. A spingere la Borsa di Tokyo contribuiscono gli investitori esteri, che a gennaio hanno comprato azioni delle aziende sul listino giapponese per 2.070 miliardi di yen (13,4 miliardi di dollari), il settimo dato mensile più alto mai registrato. Non è solo una scommessa finanziaria, legata alla perdurante politica dei tassi negativi della Bank of Japan, che indebolisce lo yen e fa correre l’export. Secondo il Fmi, il Pil del Giappone è cresciuto dell’1,9% nel 2023, mentre rallenterà all’1% quest’anno. L’inflazione, salita fino al 3,1% l’anno scorso, è in frenata, ma al di sopra del target 2% inseguito invano per oltre 30 anni. E i rischi geopolitici, che gravano sull’economia globale, in Giappone favoriscono gli investimenti. Qui la taiwanese Tsmc, leader mondiale dei semiconduttori, quest’anno comincerà la costruzione del suo secondo impianto. E Rapidus, una startup giapponese, con il sostegno del governo e di un consorzio di istituti di ricerca, mira a produrre chip da 2 nanometri già nel 2027.
 
-				© RIPRODUZIONE RISERVATA
-	
-	GLOSSARIO_FINANZIARIO
+   				© RIPRODUZIONE RISERVATA
+   GL 
+      GLOSSARIO_FINANZIARIO
 
-		Glossario di alcuni termini della relazione di bilancio
-		(nell’accezione accolta nella “Relazione” e con esclusione dei termini entrati nel lessico comune italiano oppure
-		inseriti in un contesto che già ne chiarisce il significato)
-		Asset allocation
-			Decisioni di investimento in mercati, aree geografiche, settori, prodotti.
-
-		Asset backed securities
-				Titoli obbligazionari garantiti da attività diverse da immobili.
-		Asset swap
-			Contratto che prevede l’acquisto o la vendita di un
-			titolo obbligazionario combinato con un contratto
-			derivato (irs).
-		Banking book
-			Solitamente riferito a titoli o comunque a strumenti
-			finanziari in genere, identifica la parte di tale portafoglio
-			destinato all’attività “proprietaria”.
-			Basis swap
-			Contratto che prevede lo scambio, tra due controparti,
-			di pagamenti legati a tassi variabili basati su un diverso
-			indice.
-		Benchmark
-			Titolo, indice o tasso rappresentativo di un segmento
-			di mercato, utilizzato di norma come termine di
-			paragone per valutare l’adeguatezza della redditività
-			di singoli strumenti finanziari o di portafogli.
-		Corporate
-			Fascia di clientela corrispondente alle imprese di
-			medie e grandi dimensioni (mid-corporate, large
-			corporate).
-		Corporate investment grade
-			Attività cui viene assegnato un rating da Standard &
-			Poor’s / Moody’s pari ad almeno Baa / BBB.
-		Corporate banking
-			L’attività bancaria dedicata alle imprese.
-		Corporate finance
-			Comprende tutta la gamma delle attività poste in
-			essere dalla banca, al proprio interno o sui mercati,
-			per soddisfare le necessità finanziarie delle imprese.
-		Corporate governance
-			Identifica l’insieme degli strumenti e delle norme
-			che regolano la vita societaria con particolare
-			riferimento alla trasparenza dei documenti e degli
-			atti sociali ed alla completezza dell’informativa al
-			mercato.
-		Domestic currency swap
-			Contratto regolato in lire il cui effetto economico è
-			uguale a quello di un acquisto o una vendita a termine
-			di una divisa in cambio di valuta nazionale. Alla data di
-			scadenza viene regolato in lire il differenziale fra il
-			cambio a termine implicito nel contratto ed il cambio
-			corrente a pronti.
-		Duration
-			Costituisce un indicatore del rischio di tasso d’interesse a cui è sottoposto un titolo o un portafoglio
-			obbligazionario. Nella sua configurazione più frequente è calcolato come media ponderata delle
-			scadenze dei pagamenti per interessi e capitale associati ad un titolo obbligazionario.
-		Equity swap
-			Contratto che prevede lo scambio di flussi di pagamento in tutto o in parte legati alla performance di
-			azioni o indici azionari.
-		Forwards
-			Contratti a termine su tassi di interesse, cambi o 
-			indici azionari, generalmente trattati su mercati overthe-counter, nei quali le condizioni vengono fissate
-			al momento della stipula, ma la cui esecuzione avverrà ad una data futura predeterminata, mediante la
-			ricezione od il pagamento di differenziali calcolati
-			con riferimento a parametri diversi a seconda dell’oggetto del contratto.
-		Futures
-			Contratti a termine standardizzati, con cui le parti si
-			impegnano a scambiarsi, a un prezzo predefinito e a
-			una data futura, valori mobiliari o merci. Tali contratti
-			di norma sono negoziati su mercati organizzati, dove
-			viene garantita la loro esecuzione. Nella pratica, i
-			futures su valori mobiliari spesso non implicano lo
-			scambio fisico del sottostante valore.
-		Home Banking
-			Servizio bancario orientato alla clientela privata mediante il collegamento telematico tra utente e banca; in tal modo l’utente può effettuare direttamente
-			dal proprio domicilio un complesso di operazioni e
-			disporre di una serie di informazioni relative al proprio rapporto bancario.
-		Index linked
-			Polizze la cui prestazione a scadenza dipende dall’andamento di un parametro di riferimento che può
-			essere un indice azionario, un paniere di titoli o un
-			altro indicatore.
-		Interest Rate Swap 
-			Contratto che prevede lo scambio di flussi tra le
-			controparti su un determinato nozionale con tasso
-			fisso/variabile o variabile/variabile.
-		Internal deals
-			Operazioni poste in essere tra distinte unità operative
-			della stessa azienda.
-			Il relativo materiale documentale assume rilevanza
-			contabile e contribuisce a determinare la posizione
-			(di negoziazione – trading – o di protezione – hedging)
-			delle singole unità che l’hanno concluso.
-		Mark-down
-			Contribuzione in termini di tassi dell’attività di raccolta
-			rispetto ad un parametro di mercato di riferimento.
-		Mark-up
-			Contribuzione in termini di tassi dell’attività di impiego
-			rispetto ad un parametro di mercato di riferimento.
-		Merchant banking
-			Sotto questa accezione sono ricomprese le attività
-			di sottoscrizione di titoli – azionari o di debito – della
-			clientela corporate per il successivo collocamento
-			sul mercato, l’assunzione di partecipazioni azionarie
-			a carattere più permanente ma sempre con l’obiettivo
-			di una successiva cessione, l’attività di consulenza
-			aziendale ai fini di fusioni e acquisizioni o di ristrutturazioni.
-		Money market
-			Mercato dei tassi di interesse (solitamente fino a
-			12/18 mesi)
-		Pricing
-			In senso lato, si riferisce generalmente alle modalità
-			di determinazione dei rendimenti e/o dei costi dei
-			prodotti e servizi offerti dalla Banca.
-		Private banking
-			Attività diretta a fornire alla clientela primaria gestione
-			di patrimoni, consulenza e servizi personalizzati.
-		Private equity
-			Attività mirata all’acquisizione di interessenze partecipative ed alla loro successiva cessione a controparti specifiche, senza collocamento pubblico.
-
-		Project Finance
-			Tecnica con la quale si finanziano progetti industriali
-			sulla base di una previsione dei flussi di cassa
-			generati dagli stessi. L’esame si fonda su una serie
-			di valutazioni che si discostano da quelle generalmente poste in essere per l’analisi dei rischi creditizi
-			ordinari. Dette valutazioni includono, oltre all’analisi
-			dei flussi di cassa, l’esame tecnico del progetto,
-			l’idoneità degli sponsors che si impegnano a realizzarlo, i mercati del collocamento del prodotto.
-
-		Rating
-			Valutazione della qualità di una società o delle sue
-			emissioni di titoli di debito sulla base della solidità
-			finanziaria della società stessa e delle sue prospettive. Tale valutazione viene eseguita da agenzie specializzate.
-		Retail 
-			Fascia di clientela che comprende principalmente i
-			privati, i professionisti, gli esercenti e gli artigiani.
-		Risk Management
-			Attività di acquisizione, misurazione, valutazione e
-			gestione globale delle varie tipologie di rischio e
-			delle relative coperture.
-		Return On Allocated Capital (ROCA)
-			Indicatore che tiene conto del ritorno economico a
-			carattere gestionale rapportato ai rischi stimati in
-			ottica di vigilanza.
-		Securitization
-			Trasformazione di ragioni di credito od attività di vario
-			tipo, generalmente a lento realizzo, in titoli negoziabili.
-		Spread 
-			Con questo termine di norma si indica:
-			– la differenza tra due tassi di interesse;
-			– lo scarto tra le quotazioni denaro e lettera nelle
-			contrattazioni in titoli;
-			– la maggiorazione che l’emittente di valori mobiliari
-			riconosce in aggiunta ad un tasso di riferimento.
-		Swaps
-			Operazioni consistenti, di norma, nello scambio di
-			flussi finanziari tra operatori secondo diverse
-			modalità contrattuali. Nel caso di uno swap di tassi
-			d’interesse, le controparti si scambiano flussi di
-			pagamento indicizzati o meno a tassi d’interesse,
-			calcolati su un capitale nozionale di riferimento (ad
-			esempio: una controparte corrisponde un flusso
-			sulla base di un tasso fisso, l’altra sulla base di un
-			tasso variabile). Nel caso di uno swap di valute, le
-			controparti si scambiano specifici ammontari di due
-			diverse valute, restituendoli nel tempo secondo
-			modalità predefinite che possono riguardare sia il
-			capitale nozionale sia i flussi indicizzati dei tassi
-			d’interesse.
-		Swaptions
-			Opzioni che garantiscono all’acquirente la facoltà,
-			ma non l’obbligo, di acquistare o vendere in data
-			successiva un irs.
-		Tier 1
-			Il capitale versato, le riserve e il fondo per rischi bancari generali costituiscono i principali elementi patrimoniali di qualità primaria. Il totale di questi elementi,
-			previa deduzione delle azioni proprie possedute,
-			dell’avviamento, delle immobilizzazioni immateriali,
-			delle perdite registrate in esercizi precedenti e in
-			quello in corso, costituisce il patrimonio di base o tier1. 
-		Tier 2
-			Le riserve di rivalutazione, gli strumenti ibridi di
-			patrimonializzazione (passività irredimibili e altri
-			strumenti rimborsabili su richiesta dell’emittente col
-			preventivo consenso della Banca d’Italia), le passività subordinate e gli altri elementi positivi costituiscono gli elementi patrimoniali di qualità secondaria. Il totale di questi elementi, previa deduzione
-			delle minusvalenze nette sui titoli e di altri possibili
-			elementi negativi, costituisce il patrimonio supplementare o tier 2.
-		Trading fixed income
-			Attività speculativa su strumenti a tasso fisso (titoli,
-			derivati et similia).
-			
-		Unit linked
-			Polizze legate all’investimento in fondi comuni.
-		Upper Tier 2
-			Identifica gli strumenti ibridi di patrimonializzazione
-			(ad esempio i prestiti perpetui) che rappresentano la
-			parte di qualità più elevata nell’ambito del Tier 2.
-		Value at Risk (VaR)
-			Valore che indica la massima perdita possibile su un
-			portafoglio per effetto dell’andamento del mercato,
-			con una certa probabilità ed ipotizzando che le
-			posizioni richiedano un determinato periodo di tempo
-			per il relativo smobilizzo.
-		Zero-coupon
-			Obbligazione priva di cedola, il cui rendimento è determinato dalla differenza tra il prezzo di emissione
-			(o di acquisto) ed il valore di rimborso.
-
-
-
-
+                     Glossario di alcuni termini della relazione di bilancio
+                     (nell’accezione accolta nella “Relazione” e con esclusione dei termini entrati nel lessico comune italiano oppure
+                     inseriti in un contesto che già ne chiarisce il significato)
+                     Asset allocation
+                        Decisioni di investimento in mercati, aree geografiche, settori, prodotti.
+               
+                     Asset backed securities
+                           Titoli obbligazionari garantiti da attività diverse da immobili.
+                     Asset swap
+                        Contratto che prevede l’acquisto o la vendita di un
+                        titolo obbligazionario combinato con un contratto
+                        derivato (irs).
+                     Banking book
+                        Solitamente riferito a titoli o comunque a strumenti
+                        finanziari in genere, identifica la parte di tale portafoglio
+                        destinato all’attività “proprietaria”.
+                        Basis swap
+                        Contratto che prevede lo scambio, tra due controparti,
+                        di pagamenti legati a tassi variabili basati su un diverso
+                        indice.
+                     Benchmark
+                        Titolo, indice o tasso rappresentativo di un segmento
+                        di mercato, utilizzato di norma come termine di
+                        paragone per valutare l’adeguatezza della redditività
+                        di singoli strumenti finanziari o di portafogli.
+                     Corporate
+                        Fascia di clientela corrispondente alle imprese di
+                        medie e grandi dimensioni (mid-corporate, large
+                        corporate).
+                     Corporate investment grade
+                        Attività cui viene assegnato un rating da Standard &
+                        Poor’s / Moody’s pari ad almeno Baa / BBB.
+                     Corporate banking
+                        L’attività bancaria dedicata alle imprese.
+                     Corporate finance
+                        Comprende tutta la gamma delle attività poste in
+                        essere dalla banca, al proprio interno o sui mercati,
+                        per soddisfare le necessità finanziarie delle imprese.
+                     Corporate governance
+                        Identifica l’insieme degli strumenti e delle norme
+                        che regolano la vita societaria con particolare
+                        riferimento alla trasparenza dei documenti e degli
+                        atti sociali ed alla completezza dell’informativa al
+                        mercato.
+                     Domestic currency swap
+                        Contratto regolato in lire il cui effetto economico è
+                        uguale a quello di un acquisto o una vendita a termine
+                        di una divisa in cambio di valuta nazionale. Alla data di
+                        scadenza viene regolato in lire il differenziale fra il
+                        cambio a termine implicito nel contratto ed il cambio
+                        corrente a pronti.
+                     Duration
+                        Costituisce un indicatore del rischio di tasso d’interesse a cui è sottoposto un titolo o un portafoglio
+                        obbligazionario. Nella sua configurazione più frequente è calcolato come media ponderata delle
+                        scadenze dei pagamenti per interessi e capitale associati ad un titolo obbligazionario.
+                     Equity swap
+                        Contratto che prevede lo scambio di flussi di pagamento in tutto o in parte legati alla performance di
+                        azioni o indici azionari.
+                     Forwards
+                        Contratti a termine su tassi di interesse, cambi o 
+                        indici azionari, generalmente trattati su mercati overthe-counter, nei quali le condizioni vengono fissate
+                        al momento della stipula, ma la cui esecuzione avverrà ad una data futura predeterminata, mediante la
+                        ricezione od il pagamento di differenziali calcolati
+                        con riferimento a parametri diversi a seconda dell’oggetto del contratto.
+                     Futures
+                        Contratti a termine standardizzati, con cui le parti si
+                        impegnano a scambiarsi, a un prezzo predefinito e a
+                        una data futura, valori mobiliari o merci. Tali contratti
+                        di norma sono negoziati su mercati organizzati, dove
+                        viene garantita la loro esecuzione. Nella pratica, i
+                        futures su valori mobiliari spesso non implicano lo
+                        scambio fisico del sottostante valore.
+                     Home Banking
+                        Servizio bancario orientato alla clientela privata mediante il collegamento telematico tra utente e banca; in tal modo l’utente può effettuare direttamente
+                        dal proprio domicilio un complesso di operazioni e
+                        disporre di una serie di informazioni relative al proprio rapporto bancario.
+                     Index linked
+                        Polizze la cui prestazione a scadenza dipende dall’andamento di un parametro di riferimento che può
+                        essere un indice azionario, un paniere di titoli o un
+                        altro indicatore.
+                     Interest Rate Swap 
+                        Contratto che prevede lo scambio di flussi tra le
+                        controparti su un determinato nozionale con tasso
+                        fisso/variabile o variabile/variabile.
+                     Internal deals
+                        Operazioni poste in essere tra distinte unità operative
+                        della stessa azienda.
+                        Il relativo materiale documentale assume rilevanza
+                        contabile e contribuisce a determinare la posizione
+                        (di negoziazione – trading – o di protezione – hedging)
+                        delle singole unità che l’hanno concluso.
+                     Mark-down
+                        Contribuzione in termini di tassi dell’attività di raccolta
+                        rispetto ad un parametro di mercato di riferimento.
+                     Mark-up
+                        Contribuzione in termini di tassi dell’attività di impiego
+                        rispetto ad un parametro di mercato di riferimento.
+                     Merchant banking
+                        Sotto questa accezione sono ricomprese le attività
+                        di sottoscrizione di titoli – azionari o di debito – della
+                        clientela corporate per il successivo collocamento
+                        sul mercato, l’assunzione di partecipazioni azionarie
+                        a carattere più permanente ma sempre con l’obiettivo
+                        di una successiva cessione, l’attività di consulenza
+                        aziendale ai fini di fusioni e acquisizioni o di ristrutturazioni.
+                     Money market
+                        Mercato dei tassi di interesse (solitamente fino a
+                        12/18 mesi)
+                     Pricing
+                        In senso lato, si riferisce generalmente alle modalità
+                        di determinazione dei rendimenti e/o dei costi dei
+                        prodotti e servizi offerti dalla Banca.
+                     Private banking
+                        Attività diretta a fornire alla clientela primaria gestione
+                        di patrimoni, consulenza e servizi personalizzati.
+                     Private equity
+                        Attività mirata all’acquisizione di interessenze partecipative ed alla loro successiva cessione a controparti specifiche, senza collocamento pubblico.
+               
+                     Project Finance
+                        Tecnica con la quale si finanziano progetti industriali
+                        sulla base di una previsione dei flussi di cassa
+                        generati dagli stessi. L’esame si fonda su una serie
+                        di valutazioni che si discostano da quelle generalmente poste in essere per l’analisi dei rischi creditizi
+                        ordinari. Dette valutazioni includono, oltre all’analisi
+                        dei flussi di cassa, l’esame tecnico del progetto,
+                        l’idoneità degli sponsors che si impegnano a realizzarlo, i mercati del collocamento del prodotto.
+               
+                     Rating
+                        Valutazione della qualità di una società o delle sue
+                        emissioni di titoli di debito sulla base della solidità
+                        finanziaria della società stessa e delle sue prospettive. Tale valutazione viene eseguita da agenzie specializzate.
+                     Retail 
+                        Fascia di clientela che comprende principalmente i
+                        privati, i professionisti, gli esercenti e gli artigiani.
+                     Risk Management
+                        Attività di acquisizione, misurazione, valutazione e
+                        gestione globale delle varie tipologie di rischio e
+                        delle relative coperture.
+                     Return On Allocated Capital (ROCA)
+                        Indicatore che tiene conto del ritorno economico a
+                        carattere gestionale rapportato ai rischi stimati in
+                        ottica di vigilanza.
+                     Securitization
+                        Trasformazione di ragioni di credito od attività di vario
+                        tipo, generalmente a lento realizzo, in titoli negoziabili.
+                     Spread 
+                        Con questo termine di norma si indica:
+                        – la differenza tra due tassi di interesse;
+                        – lo scarto tra le quotazioni denaro e lettera nelle
+                        contrattazioni in titoli;
+                        – la maggiorazione che l’emittente di valori mobiliari
+                        riconosce in aggiunta ad un tasso di riferimento.
+                     Swaps
+                        Operazioni consistenti, di norma, nello scambio di
+                        flussi finanziari tra operatori secondo diverse
+                        modalità contrattuali. Nel caso di uno swap di tassi
+                        d’interesse, le controparti si scambiano flussi di
+                        pagamento indicizzati o meno a tassi d’interesse,
+                        calcolati su un capitale nozionale di riferimento (ad
+                        esempio: una controparte corrisponde un flusso
+                        sulla base di un tasso fisso, l’altra sulla base di un
+                        tasso variabile). Nel caso di uno swap di valute, le
+                        controparti si scambiano specifici ammontari di due
+                        diverse valute, restituendoli nel tempo secondo
+                        modalità predefinite che possono riguardare sia il
+                        capitale nozionale sia i flussi indicizzati dei tassi
+                        d’interesse.
+                     Swaptions
+                        Opzioni che garantiscono all’acquirente la facoltà,
+                        ma non l’obbligo, di acquistare o vendere in data
+                        successiva un irs.
+                     Tier 1
+                        Il capitale versato, le riserve e il fondo per rischi bancari generali costituiscono i principali elementi patrimoniali di qualità primaria. Il totale di questi elementi,
+                        previa deduzione delle azioni proprie possedute,
+                        dell’avviamento, delle immobilizzazioni immateriali,
+                        delle perdite registrate in esercizi precedenti e in
+                        quello in corso, costituisce il patrimonio di base o tier1. 
+                     Tier 2
+                        Le riserve di rivalutazione, gli strumenti ibridi di
+                        patrimonializzazione (passività irredimibili e altri
+                        strumenti rimborsabili su richiesta dell’emittente col
+                        preventivo consenso della Banca d’Italia), le passività subordinate e gli altri elementi positivi costituiscono gli elementi patrimoniali di qualità secondaria. Il totale di questi elementi, previa deduzione
+                        delle minusvalenze nette sui titoli e di altri possibili
+                        elementi negativi, costituisce il patrimonio supplementare o tier 2.
+                     Trading fixed income
+                        Attività speculativa su strumenti a tasso fisso (titoli,
+                        derivati et similia).
+                        
+                     Unit linked
+                        Polizze legate all’investimento in fondi comuni.
+                     Upper Tier 2
+                        Identifica gli strumenti ibridi di patrimonializzazione
+                        (ad esempio i prestiti perpetui) che rappresentano la
+                        parte di qualità più elevata nell’ambito del Tier 2.
+                     Value at Risk (VaR)
+                        Valore che indica la massima perdita possibile su un
+                        portafoglio per effetto dell’andamento del mercato,
+                        con una certa probabilità ed ipotizzando che le
+                        posizioni richiedano un determinato periodo di tempo
+                        per il relativo smobilizzo.
+                     Zero-coupon
+                        Obbligazione priva di cedola, il cui rendimento è determinato dalla differenza tra il prezzo di emissione
+                        (o di acquisto) ed il valore di rimborso.
 
 # H  ...
 
@@ -1018,6 +1136,28 @@ NOTIZIE_ECONOMICHE
 			Tante uscite hanno motivazioni diverse come un’acquisizione (il passaggio di Saras dai Moratti a Vitol), una riorganizzazione di gruppo (l’opa sulla controllata UnipolSai di Unipol che resterà quotata) o il trasferimento su un altro listino (Cnh a New York). Talvolta, però, specie quando si tratta di aziende medie o piccole, l’addio alla Borsa è frutto anche dell’insoddisfazione per la scarsa attenzione degli investitori e della difficoltà per le società nell’affrontare da quotate piani di trasformazione di lungo periodo. Problemi a cui il legislatore ha inteso ovviare con la Legge Capitali e con la prossima istituzione di un fondo per le pmi quotate partecipato da Cdp. Senza, tuttavia, riuscire a invertire la tendenza di Piazza Affari che, in rapporto al pil, deve ancora recuperare i livelli precedenti alla crisi finanziaria del 2009.
 
   	
+# O
+# P
+   PA 
+      Il Sole 24 Ore
+      2025_05_07 Panetta: ancora inefficienti i pagamenti transfrontalieri
+         https://www.quotidiano.ilsole24ore.com/sfoglio/aviator.php?newspaper=S24&issue=20250507&edition=SOLE&startpage=6&displaypages=2&articleId=2018303 
+
+         Assemblea Adb. Per il governatore di Bankitalia è troppo alto il costo sociale sulle fasce più deboli della popolazione. Nel 2024 mercato delle rimesse all’estero oltre i 190mila miliardi di dollari
+
+         I sistemi di pagamento internazionali sono ancora bel lungi da essere efficienti. E questo non è un problema tecnico e lontano che interessa solo i banchieri centrali: in un mondo ormai globalizzato e interconnesso, caratterizzato da spostamenti e migrazioni rappresenta una sorta di filtro al contrario che aumenta disugualianze, costi sociali e impoverimento soprattutto per aree geografiche e categorie più fragili. Non solo. «L’aumento delle tensioni geopolitiche ha trasformato il controllo sulle infrastrutture finanziarie globali in uno strumento di leva politica. Diverse economie si sono mosse per rafforzare la propria autonomia strategica nazionale, potenziando le infrastrutture di pagamento interne o sviluppando reti di messaggistica indipendenti. Le infrastrutture finanziarie e di pagamento sono diventate centrali nelle dinamiche geopolitiche. Di conseguenza, il panorama dei pagamenti sta diventando sempre più frammentato». Ancora una volta il governatore della Banca d’Italia, Fabio Panetta, trae ispirazione dall’esperienza maturata nel comparto dei pagamenti quando ha lavorato, in qualità di membro del board della Bce all’euro digitale, per tracciare la rotta di un percorso ideale da seguire al fine domare le acque tempestose delle tensioni geopolitiche e costruire ponti tecnologici e digitali tra varie aree del globo. La sua relazione sul contributo che i pagamenti cross border possono dare per migliorare il mondo e rendere più sicuro il sistema finanziario arriva nella seconda giornata della 58esima riunione della Banca di Sviluppo Asiatico. Secondo il governatore lo sviluppo delle criptovalute trae origine dal fatto che tra il 2011 e il 2022 si è ridotto del 30% il numero delle banche cosiddette corrispondenti, cioè facenti parte del sistema sinora prevalente in cui un istituto di credito in un paese collabora con istituto di credito in un altro paese per facilitare le transazioni finanziarie internazionali. La contrazione è dovuta al fatto che questo modello non è efficiente ed è costoso, insieme all’introduzione di regole più stringenti sull’antiriciclaggio. Panetta ribadisce il fatto che le critpovalute non possono rispondere all’esigenza dei pagamenti perché sono troppo volatili. Dal suo punto di vista un inefficiente sistema di pagamenti internazionali può penalizzare intere aree geografiche. Ci sono nazioni che fondano gran parte dell’economia sulle rimesse (in paesi come il Nepal, lo Yemen, la Georgia, le Filippine fino alla Giordania pesano sul Pil nazionale tra il 10 e il 30%).
+
+         « La regione del Pacifico e dell’Asia è il recipiente più capiente delle rimesse internazionali a livello mondiale – dice Panetta -. Nel 2023 ha assommato il 38 % dei flussi delle rimesse, pari a 328 miliardi di dollari». Il governatore ripercorre il lavoro fatto dal G20 per migliorare i pagamenti cross border, percorso reso più complesso dalle regole antiriciclaggio e contro il terrorismo, oltre che dalle tensioni geopolitiche. Molto resta da fare l’adeguato sviluppo di un mercato che nel 2024 ha superato i 190 mila miliardi di dollari e che dovrebbe superare i 300 mila miliardi entro 5-10 anni. «Ciò che è essenziale è invisibile all’occhio e lo stesso si può dire per il sistema dei pagamenti», dice il governatore citando Antoine de SaintExupéry «quando funziona bene non si nota, mentre quando va storto qualcosa è impossibile non ignorarlo. In un mondo globalizzato quando i pagamenti si fermano alle frontiere si ferma anche il progresso». Chi ha vissuto il blackout spagnolo dei giorni scorsi ne sa qualcosa.
+         
+         © RIPRODUZIONE RISERVATA
+         
+         Laura Serafini
+         
+         
+         
+         Abbonati per leggere Il Sole 24 Ore
+
+
 # S
 	SALINI
 		2024
