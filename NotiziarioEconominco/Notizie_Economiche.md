@@ -658,6 +658,34 @@ NOTIZIE_ECONOMICHE
             © RIPRODUZIONE RISERVATA
             
             Maximilian Cellino
+   DO 
+      DOLLARO/EURO 
+         2025_05_16= DOLLARO, EURO E PSEUDO MONETE: I TRE CONVITATI DI PIETRA AL G7 IN CANADA E LA DISTRAZIONE DEI POLITICI EUROPEI
+          Sole 24 Ore
+               https://www.quotidiano.ilsole24ore.com/sfoglio/aviator.php?newspaper=S24&issue=20250516&edition=SOLE&startpage=3&displaypages=2&articleId=2020512 
+
+                  16/05/2025
+                  Dollaro, euro e pseudo monete: i tre convitati di pietra al G7 in Canada e la distrazione dei politici europei
+
+                  La prossima settimana ci sarà l’incontro G7 in Canada dei ministri dell’economia e dei governatori delle banche centrali. In quell’occasione, ci saranno tre convitati di pietra: il dollaro, l’euro e le pseudo monete. Mentre la Casa sembra molto attenta alle questioni monetarie, i politici europei in media sembrano invece più distratti. È un errore, perché questo momento storico potrebbe una occasione unica per rafforzare il ruolo dell’euro, anche accelerando l’introduzione della sua versione digitale. Prima che sia troppo tardi.
+
+                  Il punto di partenza è riconoscere che le fondamenta di quello che è tradizionalmente la moneta oggi sono in discussione. Tali fondamenta sono sei pilastri, che si giustificano e rafforzano a vicenda, riassumibili in tre funzioni economiche e tre caratteristiche istituzionali. Dando per scontato che la moneta sia l’unità di conto in cui si esprimono tutti i prezzi, le tre funzioni economiche sono quelle per cui la moneta è tanto più utile ai cittadini quando più è uno strumento efficace per realizzare, contemporaneamente, gli scambi di beni e servizi, da un lato, il mantenere il suo valore, e da ultimo il trasmettere informazioni su chi la moneta la usa. Le caratteristiche istituzionali sono la presenza simultanea di una moneta pubblica, emessa dallo Stato, e di una moneta privata, emessa dalle banche. Il privilegio delle banche di avere le proprie passività equiparate a quello dello Stato si giustifica se le banche svolgono bene due funzioni: allocare il risparmio e dare credito all’economia. Infine, sia la moneta pubblica che quella privata godono, ancorché in misura diversa, della garanzia pubblica,
+
+                  formale o sostanziale.
+
+                  Questa architettura a cinque stelle oggi è messa in discussione almeno da tre fenomeni, tra di loro intrecciati. Primo: vi è la digitalizzazione dell’economia, che si riflette sui comportamenti di pagamento, visto che oramai un terzo dei pagamenti dell’euro area nasce dal commercio digitale. Secondo: vi è una tendenziale riduzione dell’uso della moneta pubblica cartacea. Terzo: sono nate le pseudo monete digitali. Le pseudo monete digitali sono prodotte e distribuite da soggetti privati che hanno l’obiettivo di far utilizzare da famiglie ed imprese le loro passività come mezzo di scambio. Talune di esse dichiarano anche che tali passività possono essere considerare riserve di valore, e che tutelano la privacy, proprio per incentivarne l’utilizzo. Quello che ancora non possono dichiarare, o alludere, è di godere
+
+                  della garanzia pubblica.
+
+                  Il problema è che la percezione delle pseudo monete può essere diversa dalla loro effettiva natura economica. Tanto più si rafforza tale ingannevole percezione, tanto più le pseudo monete possono provocare effetti destabilizzanti sulla moneta moneta pubblica e, di riflesso o anche direttamente, sulla moneta privata.
+
+                  Negli Stati Uniti la nuova amministrazione, con in testa il presidente Donald Trump, ha assunto un atteggiamento assolutamente favorevole allo sviluppo delle pseudo monete, argomentando che tale sviluppo potrà avere anche effetti favorevoli sullo sviluppo internazionale del dollaro, che è l’unità di conto in cui le pseudo monete sono denominate. Ma la stessa amministrazione contestualmente blocca ogni possibile sviluppo digitale della moneta pubblica, cioè il dollaro. E’ una condotta quanto meno schizofrenica. Se si aggiunge che nel perimetro della nascita e crescita delle pseudo monete appare sistematica la tematica del conflitto di interesse – inclusi interessi personali riconducibili alla famiglia che soggiorna alla Casa Bianca – il quadro complessivo è preoccupante.
+
+                  E l’Europa? Sia dal punto di vista della tradizionale macroeconomica, che da quello della geoeconomia, gli interessi dell’area e dei paesi membri si tutelano solo rafforzando le prospettive di crescita, anche internazionali, della nostra moneta. A partire dall’introduzione dell’euro digitale. L’azione della Bce in tal senso va politicamente supportata. La minaccia delle pseudo monete non va sottovalutata. Ed il rischio non è prospettico, ma già presente. Speriamo che i convitati di pietra, in particolare il terzo, non passino inosservati in Canada.
+
+
+
+
  
 # F
 	FINCANTIERI
@@ -1158,6 +1186,12 @@ NOTIZIE_ECONOMICHE
          Abbonati per leggere Il Sole 24 Ore
 
 
+# R
+   REPUBBLICA 
+      accesso al giornale
+            giacomolorenzo.rossi@bancaditalia.it
+            Aswiogto.1!
+
 # S
 	SALINI
 		2024
@@ -1278,6 +1312,7 @@ NOTIZIE_ECONOMICHE
 					Grazie all’intelligenza artificiale gli articoli e i consigli degli esperti del Corriere della Sera rispondono ai tuoi dubbi su Casa, Fisco, Risparmio, Pensioni e non solo; oltre alle news in tempo reale, le migliori firme e tutto quello che ti può essere più utile per una vita più semplice e informata.
 
 # T
+
 	TESLA
 		2024
 			2024_10_21 SOPRAVVALUTATA
@@ -1300,6 +1335,31 @@ NOTIZIE_ECONOMICHE
          Nella nota diffusa ieri, d’altro canto, si ribadisce che «l’operazione rappresenta per Poste Italiane un investimento di natura strategica, realizzato con l’obiettivo di svolgere un ruolo di azionista industriale di lungo periodo, che possa favorire la creazione di sinergie tra Poste Italiane e Tim, nonché apportare valore aggiunto per tutti gli stakeholder, oltreché promuovere il consolidamento del mercato delle telecomunicazioni in Italia».
          
          E ancora «è in fase avanzata la negoziazione per la fornitura di servizi per l’accesso di Postepay all’infrastruttura di rete mobile di Tim a partire dal 1° gennaio 2026. Inoltre, sono in corso valutazioni finalizzate all’avvio di partnership industriali volte a valorizzare le molteplici opportunità per la realizzazione di sinergie tra le due aziende nei settori della telefonia, dei servizi ICT e dei contenuti media,dei servizi finanziari, assicurativi e dei pagamenti, e dell’energia».
+
+
+   TITOLI DI STATO 
+      2025_05_14 = TITOLI DI STATO, LO SPREAD BTP BUND TORNA VERSO QUOTA 100
+         Il Sole 24 Ore
+            https://www.quotidiano.ilsole24ore.com/art.php?t=S24&e=SOLE&i=20250514&artid=2019793
+
+         La tendenza. I BTp a 10 anni hanno un rendimento più elevato (3,69%) di Francia, Spagna e Grecia ma nell’ultimo anno di turbolenze globali sono stati i bond più stabili fra gli altri Paesi Ue
+
+         In punta di piedi, senza fare rumore. Lontano dai riflettori. È così che le non-notizie diventano notizie: lo spread tra il rendimento dei titoli di Stato italiani e quello dei Bund tedeschi è tornato a sfiorare i 100 punti base, livello minimo dal 2021. Ieri sera girava intorno a 101: i BTp offrivano un rendimento del 3,69% e i Bund del 2,68%. Cioè un punto percentuale di differenza. Solo un mese fa, nel mezzo della bufera sui dazi di Trump, il differenziale tra Italia e Germania era salito a 128 punti base. A inizio anno stava a 116. Ma era da quattro anni che non scendeva intorno ai 100 punti base, quando a Palazzo Chigi sedeva Mario Draghi. E, guardando indietro nel tempo, dal 2010 (inizio della crisi dei debiti sovrani) poche volte lo spread tra BTp e Bund era sceso a 100 punti base o anche poco sotto: nel 2021, nel 2015-2016 e – appunto – nel 2010, quando la Grecia iniziava a dare segnali di sofferenza. Per il resto è sempre stato ben sopra quel livello. Ora torna a sfiorarlo, mentre la Borsa di Milano torna sopra i 40mila punti. E mentre sul mercato tanti operatori segnalano un crescente interesse internazionale per il nostro debito pubblico.
+         
+         Il miglioramento italiano
+         
+         Che lo spread tra BTp e Bund torni a sfiorare i 100 punti base proprio in questo periodo di caos su dazi, geopolitica ed economia, non è banale. Perché significa che i mercati percepiscono l’Italia come un posto stabile dove investire, in un contesto globale turbolento. Ricordiamo: quando i rendimenti (e gli spread) scendono, significa che i prezzi salgono. È vero che i rendimenti dei BTp restano più elevati rispetto a quelli di altri Paesi europei: il nostro 3,69% sui BTp decennali si confronta col 3,35% della Francia, col 3,29% della Spagna, col 3,18% del Portogallo e persino col 3,43% della Grecia. Ma è proprio questo che attira gli investitori. Anche perché i BTp nell’ultimo anno, oltre a pagare interessi più alti, sono stati più stabili dei titoli di Stato di tutti gli altri Paesi. Il calo dello spread è insomma merito dell’Italia, ma anche “demerito” di altri Paesi.
+         
+         Per capirlo, e ”sterilizzare” in un certo senso le oscillazioni quotidiane dei rendimenti, è utile confrontare il tasso d’interesse decennale che paga ogni Paese con il tasso swap decennale. Il tasso swap può essere visto un po’ come la stella polare, cioè un punto fisso nell’universo dei tassi. È un tasso neutro del mercato interbancario che non subisce alcun rischio-Paese. Ebbene, nell’ultimo anno l’Italia è rimasta sostanzialmente stabile rispetto a questa stella polare: a maggio 2024 i BTp decennali pagavano rendimenti di circa 100 punti base più dello swap e ora stanno a 108. Nello stesso arco di tempo la Francia è passata da 20 punti base a 74. E la Germania da -30 punti base (i Bund un anno fa rendevano meno del tasso swap) ai +7 attuali. Questo conta per i mercati: la stabilità. E se si guardano le scadenze più brevi dei titoli di Stato, il miglioramento è ancora più clamoroso: ormai i BTp a 2 anni pagano appena 22 punti base più dei corrispettivi titoli tedeschi.
+         
+         Le ragioni del miglioramento
+         
+         I motivi di questa continua “luna di miele” tra titoli di Stato italiani e il mercato sono molteplici. Al nostro debito pubblico ha fatto bene innanzitutto la promozione di rating decisa da S&P Global Ratings lo scorso 11 aprile, quando ha portato la nostra valutazione a ”BBB+”. Infatti dall’11 aprile lo spread BTp-Bund è sceso da 124 a 101. Ora il mercato attende il 23 maggio, quando si esprimeranno anche Moody’s (che tra le agenzie è la più severa, con un voto fermo a “Baa3” cioè a un passo dal livello ”spazzatura”) e Scope (che ci valuta “BBB+”). «Se anche Moody’s dovesse migliorare il giudizio, per il mercato sarebbe un bel sollievo», osserva Antonio Cesarano, chief global strategist di Intermonte.
+         
+         Ma i rating sono la conseguenza, non la causa. I giudizi migliorano di pari passo con la fiducia sul mercato. Le ragioni della “luna di miele” sono dunque più profonde. Uno studio di UniCredit sottolinea, tra i motivi, «la percezione da parte degli investitori di un basso rischio idiosincratico». Questo minor rischio percepito dal mercato deriva da una stabilità nei fondamentali economici che la stessa S&P ha evidenziato: «La promozione del rating – scriveva S&P un mese fa – riflette un miglioramento economico, esterno e dei cuscinetti monetari in un contesto globale complesso, nonché il graduale progresso nella stabilizzazione delle finanze pubbliche dal periodo del Covid». I numeri in effetti lo dimostrano: nel primo trimestre 2021 il debito pubblico italiano era arrivato al 157,7% del Pil, mentre ora è sceso al 135,3%. Questo trend si confronta con quello di segno opposto della Francia ma anche – su livelli nettamente più bassi – della Germania, che ha varato enormi piani di investimenti pubblici. L’Italia invece resta stabile. Su livelli ben più elevati, certo, ma stabile. Anzi, in miglioramento.
+         
+         S&P sottolinea che «l’Italia dovrebbe avere un surplus di bilancio primario nel 2025-2028», permettendole di migliorare il deficit pubblico nonostante abbia da pagare una delle più elevate spese per interessi in Europa. L’agenzia poi sottolinea «l’alto livello di risparmio» delle famiglie e «le esportazioni resilienti» delle imprese. Vede come elementi di sostegno il Recovery Fund e «la partecipazione dell’Italia all’Unione monetaria europea». Ma anche la stabilità del Governo, «uno dei più longevi della storia italiana recente». Tutto questo convince le agenzie di rating, ma anche il mercato. Nonostante le vulnerabilità dell’Italia, che S&P non nasconde: da un lato la crescita economica bassa (che sarà fiaccata ulteriormente dalla guerra commerciale in corso), dall’altro le problematiche strutturali (dalla popolazione sempre più vecchia che riduce la forza lavoro alla bassa produttività).
+
 
 
 # U
