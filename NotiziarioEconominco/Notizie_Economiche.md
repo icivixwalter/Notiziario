@@ -361,6 +361,27 @@ NOTIZIE_ECONOMICHE
             © RIPRODUZIONE RISERVATA
             
             Gianni Rusconi
+         2025_05_024 LE CRIPTO COLPISCONO AL CUORE LA DEMOCRAZIA
+            Il Sole 24 Ore
+
+               Una tecnologia senza sottostante, un mercato in cui il rapporto contrattuale tra le parti prevede la “cecità ”di una sola (l’acquirente), un’architettura di (asserita) moneta a cui manca una contabilità trasparente. Come dire: stiamo parlando del cuore (dei problemi) della democrazia.
+
+               Il presidente della Consob, Paolo Savona, dal salotto del Castello del Buonconsiglio di Trento, dove va in scena la seconda giornata del Festival dell’Economia, ribadisce la summa delle sue perplessità sul nuovo mondo delle cryptocurrency. Dialogando con Marina Brogi , ordinario di Economia degli intermediari finanziari della Sapienza, Savona ha spiegato ancora una volta perché a suo giudizio non è corretto parlare di currency quando ci si riferisce all’universo blockchain. «Qui c’è in gioco la nozione stessa di moneta - ha detto il capo della Consob -. Il mercato vuole la moneta privata ma dobbiamo dire chiaramente che così colpiamo il cuore della democrazia. Il rischio di fondo è che le cripto sostituiscano la moneta pubblica semplicemente perché con esse si guadagna di più. Cosa succede se l’Italia ne sta fuori? Oggi, è vero, si guadagnerebbe meno ma ci si ricordi sempre della crisi dei tulipani nell’Olanda del ’500, che arrivarono a valere il prezzo di un’abitazione», fino all’inevitabile esplosione della bolla.
+               
+               “Moneta”, poi? «Il “minatore” - continua Savona davanti alla platea in maggioranza di studenti nativi digitali - crea uno strumento sul pc utilizzando una tecnologia informatica di cui nessuno è responsabile. Consob ha chiuso 1.250 di questi siti ma senza riuscire a trovare i responsabili, gli stessi anzi per pura sfida cambiano estensione al sito e continuano. Stiamo perdendo la trasparenza del mercato».
+               
+               La “scelta fatale”, per restare al tema del Festival, è di Trump che «il 6 marzo ha legittimato le criptocurrency, un decreto ha stabilito che cinque di esse possono svolgere funzioni di riserva del dollaro al posto dell’oro (che dal 1971 non è più convertito)». Ma mentre il capostipite Bitcoin «era molto prudente con il limite “fisico” dei 21 milioni di pezzi , tanto che Mario Draghi disse “la dimensione è tale da non preoccuparci”, oggi invece la gente acquista una cosa non sapendo che non c’è un debitore».
+               
+               E inoltre i problemi di sicurezza/stabilità del mondo cripto sono destinati anche a peggiorare, soprattutto quando - tra non molto - l’impenetrabile tecnologia della blockchain sarà violabile dai computer quantistici basati sulla fisica. «In Arabia lavora un fisico italiano - aggiunge Savona - che ci spiega che presto si arriverà ad attaccare le blockchain».
+               
+               Infine, conclude Savona «la legislazione finora ha regolato le emittenti e il prodotto ma non la contabilità. Le criptocurrency hanno un problema di contabilità elettronica. Il Senato Usa dà per presupposta la neutralità tecnologica ma non è così. Questo, se non lo scrivono i parlamenti, lo devono scrivere le Authority, la strada non è copiare gli Usa, ma trovare una via regolatoria adeguata».
+               
+               © RIPRODUZIONE RISERVATA
+               
+               Alessandro Galimberti
+
+
+
 # D
    DA 
       2025_05_21_DATACENTER = La grande corsa ai data center “Cento nuovi progetti in corso”
