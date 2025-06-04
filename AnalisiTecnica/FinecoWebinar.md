@@ -306,6 +306,99 @@ FinecoWebinar.md
             TENSIONI GEOPOLITICHE 
             PROGRESSI TECNOLOGICI 
             CONSOLIDAMENTO DELL'INDUSTRIA EUROPEA 
+      2025_06_06=KNOCK OUT: TECNICHE DI TRADING INTRADAY E OVERNIGHT
+         AUTORIZZAZIONE
+            prima devi compilare i midif e poi abiltatevi ai DERIVATI
+
+            es. 
+               su Futsi MIB
+                  una proposta di di acquisto a con una barriera 39.560,00 
+                  gestisco il rischio a questa barriera e  quindi pago 1
+                  contratto da 850,00 se supero la barriera di 39.560,00 allora
+                  non perdo piu del contratto.
+
+
+
+         FINECOX
+            vai sui future in fineco x e attribuisci un colo re per avere tutti
+            gli indici ed utilizza tali grafici completi.
+            Attenzione ci sono 2 stop loss      = intermedio che puo essere superato
+            Attenzione ci sono 2 stop barriera  = barriere garantita che non puo essere superata
+
+            Attenzione è operazione intradey.
+
+               1) chiusura intradey
+               2) raggiungimento della barriera, o lo stopo loss, o il take profit
+               3) chiudo in anticipo della giornata di gestione
+
+
+               La mattina
+               2,30 - 3,30 volatilità
+
+               grandi speculazioni 
+
+
+         VANTAGGI
+               GRATUITO = faccio scalping senza costi
+               FISCALI  = il prefitto e perdita redditi diversi sono compensabili 
+
+
+         COSTI
+               SPREAD = tra denaro e lettera ma c'e anche se operi sul mercato principale 
+                        dei future
+
+         ONERE
+               MULTIDAY = se apri una posizione multiday il 2,95% per i giorni vedi le 
+                        informazioni.
+
+
+         LEVA
+               non è visibile ma è ricavabile:
+                  ES. apro ad un premio a 241,00
+
+
+         TOBIN TAX
+               NON E' ATTIVATA.
+
+         DEFINZIONE
+               è simile ad una opzione con posizione long e short + barriera, costruiti 
+               da Fineco come i CFD.
+
+
+         GRAFICO
+               per lo studio grafico puoi utilizzare quello del cfd e quello delle opzioni knou aut
+               che diversa leggermente perche ci sono i costi ma lo studio lo fai sui CFD.
+
+
+         BARRERIERA ESTREMA
+               se metto una barriera molto lontana il PREMIO AUMENTA perche si fa molto improbabile
+               la chiusura automatica in intradey
+
+         SPREAD
+               è piu altro nei CFD rispetto alle Knou out ma tu controlla le informazioni.
+
+
+         MULTIDAY
+               attenzione max 30 gg. lavorativi e poi si chiudono.
+
+
+         COPERTURA 
+               puo utilizzare le knok out come ricopertura di portafoglio es.
+                  se ho 2 posizioni CFD indice dax in long
+                  posso comprare 2 posizioni di knou out IN SHORT  a ricopertura ma DEVI 
+                  CALCOLARE bene la barriere di acquisto pari alla somma dei cfd e quella
+                  di strike = uscita pari alle azioni acquistate per non superare il valore delle
+                  azioni.
+
+
+
+         CONSIGLIO 
+                  crea una procedura access per un calcolo simulato di aquisto + barriera + take profit + stop los ED EVENTUALMENTE anche il calcolo interessi  CHE SONO ANNUALI MA SEMBRA CHE IL MULTIDAY chiude a 30 gg. ??? da verificare.
+                  
+
+
+
+
 
 
    ETF 
