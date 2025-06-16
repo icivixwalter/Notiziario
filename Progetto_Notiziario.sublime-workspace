@@ -27,6 +27,142 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "NotiziarioEconominco/Notizie_Economiche.md",
+			"settings":
+			{
+				"buffer_size": 241742,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AwAAAEexAgAAAAAAVLECAAAAAAAAAAAAVLECAAAAAABhsQIAAAAAAAAAAABIsQIAAAAAAEixAgAAAAAADAAAACAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAR7ECAAAAAABHsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					2,
+					"unindent",
+					null,
+					"AgAAAEmxAgAAAAAASbECAAAAAAADAAAAICAgSbECAAAAAABJsQIAAAAAAAMAAAAgICA",
+					"AQAAAAAAAAABAAAAVbECAAAAAABVsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAE+xAgAAAAAAULECAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAT7ECAAAAAABPsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "\n\t"
+					},
+					"AgAAAFCxAgAAAAAAV7ECAAAAAAAAAAAAV7ECAAAAAABasQIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAULECAAAAAABQsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AQAAAFqxAgAAAAAAyMICAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWrECAAAAAABasQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					5,
+					"indent",
+					null,
+					"DwAAAGmxAgAAAAAAbLECAAAAAAAAAAAAqLECAAAAAACrsQIAAAAAAAAAAABasgIAAAAAAF2yAgAAAAAAAAAAAGmxAgAAAAAAbLECAAAAAAAAAAAAq7ECAAAAAACusQIAAAAAAAAAAABgsgIAAAAAAGOyAgAAAAAAAAAAAGmxAgAAAAAAbLECAAAAAAAAAAAArrECAAAAAACxsQIAAAAAAAAAAABmsgIAAAAAAGmyAgAAAAAAAAAAAGmxAgAAAAAAbLECAAAAAAAAAAAAsbECAAAAAAC0sQIAAAAAAAAAAABssgIAAAAAAG+yAgAAAAAAAAAAAGmxAgAAAAAAbLECAAAAAAAAAAAAtLECAAAAAAC3sQIAAAAAAAAAAABysgIAAAAAAHWyAgAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyMICAAAAAABpsQIAAAAAAAAAAAAAAAAA"
+				],
+				[
+					28,
+					1,
+					"paste",
+					null,
+					"AQAAAE+xAgAAAAAAdrECAAAAAAABAAAAQQ",
+					"AQAAAAAAAAABAAAAULECAAAAAABPsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AQAAAFWxAgAAAAAAVrECAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVbECAAAAAABVsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFaxAgAAAAAAVrECAAAAAAABAAAANw",
+					"AQAAAAAAAAABAAAAVrECAAAAAABWsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "13"
+					},
+					"AgAAAFexAgAAAAAAWLECAAAAAAAAAAAAWLECAAAAAABZsQIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAV7ECAAAAAABXsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					2,
+					"right_delete",
+					null,
+					"AgAAAFmxAgAAAAAAWbECAAAAAAABAAAAMFmxAgAAAAAAWbECAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAAWbECAAAAAABZsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"paste",
+					null,
+					"AQAAAGCxAgAAAAAAm7ECAAAAAAAVAAAAQlBFUiBJUE9URVNJIERJIE5PWlpF",
+					"AQAAAAAAAAABAAAAYLECAAAAAAB1sQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"upper_case",
+					null,
+					"AQAAAGCxAgAAAAAAm7ECAAAAAAA7AAAATGEgcHJvY3VyYSBzaSBtdW92ZSBzdWwgcmlzaWtvIHBlciBsYSB2ZW5kaXRhIGRpIGF6aW9uaSBNcHM",
+					"AQAAAAAAAAABAAAAm7ECAAAAAABgsQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAKaxAgAAAAAAqbECAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAprECAAAAAACmsQIAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -243,6 +379,111 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "NotiziarioEconominco/Notizie_Economiche.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 241742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181059,
+								181059
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"rainbow_checked": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1619.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -312,7 +553,7 @@
 		[
 			[
 				"",
-				"Y:\\LAVORI_PUBBLICI_FINO_AL_30_09_2019\\Valter\\OPERE_PUBBLICHE\\51_TERRITORIO_COMUNALE_MESSA_IN_SICUREZZA\\02_LARGO_TURRIZIANI\\Project_LARGO_TURRIZIANI.sublime-project"
+				"C:\\GESTIONI\\GESTIONE_LLPP\\25_GESTIONE_LLPP\\PRES3000_GESTIONE\\ARCHIVI_PRES3000\\PRES3000_NUMERI_TELEFONICI_DIPENDENTI\\Project_NUMERI_TELEFONICI_DIPENDENTI.sublime-project"
 			]
 		],
 		"width": 389.6
