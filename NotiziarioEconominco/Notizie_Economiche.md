@@ -379,8 +379,59 @@ NOTIZIE_ECONOMICHE
                © RIPRODUZIONE RISERVATA
                
                Alessandro Galimberti
+   CU
+      2025
+         2025_06_28_CURVA_DEI_RENDIMENTI_GLOBALE 
+               https://www.quotidiano.ilsole24ore.com/art.php?t=S24&e=SOLE&i=20250628&artid=2029773
+
+                  Il Sole 24 oreQuotidiano digitale
+                     28/06/2025
+                     QUELLA CURVA INVISIBILE CHE FAVORISCE PIAZZA AFFARI
+
+                     La curva dei rendimenti globale rivestiva un ruolo chiave, poi il meccanismo si è rotto. Adesso il suo potere rialzista sta lentamente ritornando con un “irripidimento” della curva.
+
+                     Le curve dei rendimenti tracciano i tassi dei titoli di stato da 3 mesi a 10 anni, da sinistra a destra. Quando i tassi a lungo termine superano quelli a breve, la curva si “irripidisce”, prendendo una direzione verso l’alto: un segnale storicamente rialzista. Quando i tassi a breve termine superano quelli a lungo termine, la curva si “inverte”: un segnale di recessione, seppure imperfetto. Il motivo? Perché fornisce una previsione sul futuro andamento dei prestiti bancari.
+
+                     Le banche utilizzano i depositi a breve per erogare prestiti a lungo termine, guadagnando sulla differenza. Quando le curve sono ripide si verifica un aumento dei profitti futuri e le banche concedono prestiti volentieri, fornendo impulso alla crescita. Quando la curva si inverte questa dinamica si capovolge. Raramente la previsione si è rivelata errata.
+
+                     Nella maggior parte dei casi, specialmente negli Stati Uniti, è andata proprio così. Tuttavia, così come si dà per scontato che i dati sul cruscotto di un’auto siano una rappresentazione fedele della realtà, non si è tenuto conto di ciò che avveniva “sotto il cofano”, ovvero dell’attività creditizia.
+
+                     Le previsioni si sono avverate
+
+                     fino al momento in cui hanno smesso di funzionare.
+
+                     Dopo il crollo delle azioni globali nel 2022, le curve di tutto il mondo si sono invertite (anche in Italia, sebbene qui l’inversione sia stata meno pronunciata per via degli elevati tassi a lungo termine) alimentando i timori di una recessione. E invece i prestiti sono aumentati, fornendo impulso ai PIL americano, italiano e globale. Lo shock ha dato slancio alle azioni. La curva è rimasta invertita per tutto il 2023 e gran parte del 2024. Ben presto, la maggior parte degli operatori ha iniziato a ignorarla, ritenendo che avesse perso la sua funzione predittiva.
+
+                     Cosa ha causato la perdita di questa funzione predittiva? “Sotto il cofano” le banche detenevano vaste quantità di depositi a tassi bassi risalenti al periodo del Covid, il che manteneva remunerativa l’attività di
+
+                     prestito nonostante il rialzo dei tassi da parte della BCE e di altri istituti globali.
+
+                     Ora che le curve dei rendimenti tornano lentamente positive, la redditività dei prestiti aumenta. La normalizzazione è imputabile ai tagli dei tassi a breve termine come quelli della BCE e all’aumento dei tassi a lungo termine globali (un timore diffuso che rappresenta un fattore rialzista per i mercati).
+
+                     Dato che il denaro attraversa liberamente i confini, io utilizzo da tempo una curva dei rendimenti globale ponderata sui PIL. Dallo scorso maggio il differenziale tra i tassi a lungo termine e quelli a breve è passato da -0,57 punti percentuali (pp) a 0,60 pp, dando un impulso ai prestiti di quasi 1,2 pp, il che contribuisce a spiegare i trend recenti.
+
+                     Queste variazioni si sono registrate principalmente al di fuori degli USA (dove la curva rimane piatta). Nel caso della curva britannica, il differenziale è passato da -0,91 pp a 0,49. Quello dell’Europa continentale ha evidenziato una variazione ancora più netta: da -0,63 pp a 1,01. La curva italiana è balzata da livelli pressoché piatti di 0,25 pp a 1,63!
+
+                     L’importanza di questa evoluzione si riflette sulle azioni: l’indice MSCI Europe si attesta sui massimi storici, mentre gli USA rimangono indietro.
+
+                     L’irripidimento delle curve fornisce impulso ai titoli value (come quelli europei e italiani), a discapito delle azioni growth tecnologiche (prevalenti negli USA). Le banche europee e italiane hanno guidato ampiamente i mercati nel 2025, sorpassando i titoli tecnologici USA. Il motivo? Il nuovo trend globale incrementa i profitti bancari. Anche il settore industriale europeo, che presenta un’elevata concentrazione di titoli value, ha ottenuto buoni risultati, poiché l’aumento dei prestiti fornisce più capitale per la crescita di queste aziende.
+
+                     Il fatto che molti non prestino attenzione alla curva rappresenta un fattore cruciale, in quanto la sua forza rialzista non è ancora completamente apprezzata nelle quotazioni azionarie, ma lo sarà.
+
+                     © RIPRODUZIONE RISERVATA
+
+                     Presidente esecutivo di Fisher Investments Worldwide
+
+                     Ken Fisher
 
 
+
+                     Abbonati per leggere Il Sole 24 Ore
+                     Per poter sfogliare questo e gli altri articoli di Il Sole 24 Ore scarica l'applicazione sul tuo smartphone o sul tuo tablet dallo store
+
+                     Il Sole 24 ore
+                     P.I. 00777910159 | Dati societari | © Copyright Il Sole 24 Ore - Tutti i diritti riservati - ISSN 2499-202X | Per la tua publicità sul sito: Websystem
+                     Informativa sui cookie | Privacy e policy | Accessibilità
 
 # D
    DA 
@@ -388,11 +439,12 @@ NOTIZIE_ECONOMICHE
          21 Maggio 2025
          La grande corsa ai data center “Cento nuovi progetti in corso”
          di EMMA BONOTTI MILANO Dei 10.332 data center distribuiti per il mondo, appena 168 si trovano sul suolo italiano. Meno del 2%. Una fotografia di certo non gratificante per il Paese, che però è presto destinata a cambiare. Secondo una rilevazione del Politecnico di Milano, entro l’anno prossimo sono previsti oltre 10 miliardi di euro di investimenti nei supercomputer italiani, il doppio rispetto al biennio 2023-2024. Basti pensare che nei primi quattro mesi di quest’anno le richieste di allaccio alla rete Terna per i data center sono salite a quota 42 gigawatt, daicirca 30 registrati nel dicembre scorso. «Significa qualche centinaio di nuovi impianti», puntualizza Ugo Salerno, cavaliere del lavoro e presidente esecutivo di Rina. «Non è detto che saranno tutti realizzati ma – aggiunge – è indubbio che il mercato si stia muovendo». In questo campo, Rina sioccupa di realizzare studi di fattibilità sul piano tecnico, economico e commerciale, coordina la progettazione e la costruzionedegli impianti che ospitano i data center e interviene dove necessario per risolvere problemi tecnici, spesso legati ai materiali impiegati negli stabili. «Per quanto questa spinta possa essere positiva per l’industria, pone anche delle sfide energetiche e ambientali che non possono essere trascurate», osserva Salerno. A detta dell’International energy agency (Iea), entro il 2026 i data center globali consumeranno circa mille terawattora all’anno, l’equivalente di due volte la domanda energetica della Francia. Impossibile poi trascurare la loro impronta idrica: un impianto di medie dimensioni, dati Jp Morgan, impiega in media oltre un milione di litri d’acqua al giorno. Le strutture più grandi si spingono a 16 volte tanto, una quantità paragonabile al fabbisogno idrico quotidiano di una città di 50mila abitanti. L’acqua è necessaria per l’accelerazione di queste tecnologie, in particolare quando si tratta di intelligenza artificiale. Infatti, analizzare enormi quantità di testi prodotti dagli utenti richiede un elevato numero di calcoli, con il conseguente dispendio di una notevole quantità di energia elettrica, che a sua volta produce molto calore. L’acqua serve appunto a raffreddare gli edifici che ospitano i computer, prevenendo il surriscaldamento delle macchine. «È indubbio che vadano messi in atto sistemi di efficientamento per ridurre l’impronta ecologica dei data center», prosegue Salerno. «Un esempio virtuoso è quello del data center di Tim Enterprise a Rozzano, alle porte di Milano, dove viene recuperato il calore generato dai server per riscaldare cinquemila abitazioni». ©RIPRODUZIONERISERVATAIl Paese conta meno del 2% dei supercomputer nel mondo. Salerno (Rina): “Ora il mercato si muove
-
-            
-            
-
-
+   DC
+      DATA_CENTER
+         2025_05_21_LA GRANDE CORSA AI DATA CENTER “CENTO NUOVI PROGETTI IN CORSO”
+            La grande corsa ai data center “Cento nuovi progetti in corso”
+               di EMMA BONOTTI MILANO Dei 10.332 data center distribuiti per il mondo, appena 168 si trovano sul suolo italiano. Meno del 2%. Una fotografia di certo non gratificante per il Paese, che però è presto destinata a cambiare. Secondo una rilevazione del Politecnico di Milano, entro l’anno prossimo sono previsti oltre 10 miliardi di euro di investimenti nei supercomputer italiani, il doppio rispetto al biennio 2023-2024. Basti pensare che nei primi quattro mesi di quest’anno le richieste di allaccio alla rete Terna per i data center sono salite a quota 42 gigawatt, daicirca 30 registrati nel dicembre scorso. «Significa qualche centinaio di nuovi impianti», puntualizza Ugo Salerno, cavaliere del lavoro e presidente esecutivo di Rina. «Non è detto che saranno tutti realizzati ma – aggiunge – è indubbio che il mercato si stia muovendo». In questo campo, Rina sioccupa di realizzare studi di fattibilità sul piano tecnico, economico e commerciale, coordina la progettazione e la costruzionedegli impianti che ospitano i data center e interviene dove necessario per risolvere problemi tecnici, spesso legati ai materiali impiegati negli stabili. «Per quanto questa spinta possa essere positiva per l’industria, pone anche delle sfide energetiche e ambientali che non possono essere trascurate», osserva Salerno. A detta dell’International energy agency (Iea), entro il 2026 i data center globali consumeranno circa mille terawattora all’anno, l’equivalente di due volte la domanda energetica della Francia. Impossibile poi trascurare la loro impronta idrica: un impianto di medie dimensioni, dati Jp Morgan, impiega in media oltre un milione di litri d’acqua al giorno. Le strutture più grandi si spingono a 16 volte tanto, una quantità paragonabile al fabbisogno idrico quotidiano di una città di 50mila abitanti. L’acqua è necessaria per l’accelerazione di queste tecnologie, in particolare quando si tratta di intelligenza artificiale. Infatti, analizzare enormi quantità di testi prodotti dagli utenti richiede un elevato numero di calcoli, con il conseguente dispendio di una notevole quantità di energia elettrica, che a sua volta produce molto calore. L’acqua serve appunto a raffreddare gli edifici che ospitano i computer, prevenendo il surriscaldamento delle macchine. «È indubbio che vadano messi in atto sistemi di efficientamento per ridurre l’impronta ecologica dei data center», prosegue Salerno. «Un esempio virtuoso è quello del data center di Tim Enterprise a Rozzano, alle porte di Milano, dove viene recuperato il calore generato dai server per riscaldare cinquemila abitazioni». ©RIPRODUZIONERISERVATAIl Paese conta meno del 2% dei supercomputer nel mondo. Salerno (Rina): “Ora il mercato si muove”
+ 
 # E
 	ENEL
 		2023
@@ -520,6 +572,7 @@ NOTIZIE_ECONOMICHE
 			Episodio della pubblicità ingannevole a parte, «quello che differenzia eToro da tutti i concorrenti – dice Assia - è la grande apertura ai mercati e l’approccio didattico, le strategie di investimento condivise, l’entrare a far parte di una community dove si impara – c’è anche l’immancabile Academy – e ci si confronta. Dove si possono copiare le strategie di investimento dei social investor o confrontarsi online con loro sulle varie operazioni». L’apertura ai mercati è un tratto distintivo. «Le statistiche lo dimostrano – dice Assia –: il 99 per cento degli investitori investe sul mercato domestico, di residenza. Lo fa per mancanza di strumenti, perché il broker parla solo delle aziende di casa, per scarsa conoscenza. Invece le opportunità che i mercati offrono sono straordinarie». Osservando il primo trimestre del 2023 sui tre mesi precedenti eToro evidenzia come gli investitori italiani suoi clienti abbiano «scoperto» le società impegnate nello sviluppo dell’intelligenza artificiale. «Le posizioni aperte su Amd, Alphabet, Intel, Microsoft, Nvidia, Sentinel e varie altre sono aumentate in percentuali con doppia cifra». Non mancano le criptovalute, che molta gola fanno ai neofiti in cerca del colpo della vita. Sono circa 80 quelle selezionate.
 
 			«Dobbiamo essere chiari - dice Assia - le criptovalute non devono superare il 3-4% del totale delle attività di un investitore, solo in alcuni casi possiamo spingerci fino al 10%, a seconda della propensione al rischio e dell’età dell’investitore. EToro è una piattaforma unica, ma lo diciamo noi per primi: non è fatta per tutti. Se qualcuno sta cercando attività di tipo previdenziale eToro non è la migliore offerta. Ma in tutti gli altri casi offriamo servizi unici nel panorama mondiale». Partner di Twitter, eToro ha una manifesta ambizione a crescere. Il 2025 potrebbe essere l’anno dello sbarco sui mercati azionari, con la quotazione a Londra o a Wall Street. Al momento, oltre alla famiglia Assia e ad alcuni manager, partecipano il capitale di eToro il gruppo Ion, Softbank Vision fund 2, Velvet Sea ventures e Aglaé ventures, una società di venture capital partecipata dal gruppo Arnault (Lvmh). L’obiettivo è crescere. Anche nell’offerta di servizi. Già oggi in Gran Bretagna è disponibile una card fisica, appoggiata al circuito Visa per i pagamenti di tutti i giorni e per rendere eToro un po’ più simile alla banca di nonno Yehuda.
+
 # D
    DA 
       DAZI
@@ -709,10 +762,6 @@ NOTIZIE_ECONOMICHE
                   Negli Stati Uniti la nuova amministrazione, con in testa il presidente Donald Trump, ha assunto un atteggiamento assolutamente favorevole allo sviluppo delle pseudo monete, argomentando che tale sviluppo potrà avere anche effetti favorevoli sullo sviluppo internazionale del dollaro, che è l’unità di conto in cui le pseudo monete sono denominate. Ma la stessa amministrazione contestualmente blocca ogni possibile sviluppo digitale della moneta pubblica, cioè il dollaro. E’ una condotta quanto meno schizofrenica. Se si aggiunge che nel perimetro della nascita e crescita delle pseudo monete appare sistematica la tematica del conflitto di interesse – inclusi interessi personali riconducibili alla famiglia che soggiorna alla Casa Bianca – il quadro complessivo è preoccupante.
 
                   E l’Europa? Sia dal punto di vista della tradizionale macroeconomica, che da quello della geoeconomia, gli interessi dell’area e dei paesi membri si tutelano solo rafforzando le prospettive di crescita, anche internazionali, della nostra moneta. A partire dall’introduzione dell’euro digitale. L’azione della Bce in tal senso va politicamente supportata. La minaccia delle pseudo monete non va sottovalutata. Ed il rischio non è prospettico, ma già presente. Speriamo che i convitati di pietra, in particolare il terzo, non passino inosservati in Canada.
-
-
-
-
  
 # F
 	FINCANTIERI
@@ -766,7 +815,6 @@ NOTIZIE_ECONOMICHE
 			Laurea in Economia e Commercio all’Università di Roma, Nattino era Cavaliere del Lavoro e Cavaliere di Gran Croce della Repubblica Italiana ed è stato Membro del Comitato Euro (Ministero del Tesoro Sottocomitato Finanza).
 
 			Nel corso della sua carriera ha ricoperto numerose cariche di rilievo, tra le quali quella di presidente di Unione Immobiliare, di Uniorias Due, di Pirelli Cavi e Sistemi Telecom e di Sodali. È stato inoltre consigliere di amministrazione di: Buitoni Perugina, Interfund, Società Cattolica di Assicurazione, Pirelli & C. Real Estate, Generali Investimenti Alternativi Sgr SpA, Banque Privée Fideuram Paris, Ina Assitalia, Banca Fideuram, Generali Sgr e London Stock Exchange plc London. Tra gli altri incarichi è stato anche consigliere dell’ Accademia Filarmonica Romana e consigliere della Fondazione per il Tuo cuore Onlus.
-
 
 # G
 	GE 
@@ -1093,7 +1141,6 @@ NOTIZIE_ECONOMICHE
 				capitale. Acqua ed efficienza energetica sono gli altri due focus: «Il piano non prevede M&A, se non con piccole
 				operazioni nell’acqua e nell’efficienza energetica», ha concluso Gallo.
 
-
 # M
 	MONTE_DEI_PASCHI
 		2023_05_10_UTILE
@@ -1155,7 +1202,6 @@ NOTIZIE_ECONOMICHE
                La Guardia di Finanza ha acquisito documenti da banca Akros, la controllata di Bpm L’indagine è sulla cessione del 15% nelle mani del Mef che portò all’ingresso di nuovi soci
                di GIOVANNI PONS MILANO Diventa caldissimo il clima finanziario milanese a tre giorni dall’assemblea di Mediobanca che può determinare i futuri assetti del sistema bancario italiano. L’ultima notizia arrivata nella serata di ieri è di carattere giudiziario e riguarda un’acquisizione di documenti effettuata dal Nucleo speciale di polizia valutaria della Gdf in Banca Akros la settimana scorsa. E ciò confermerebbe il fatto che la procura di Milano sta indagando sull’operazione che ha portato Banco Bpm, Anima, la Delfin della famiglia Del Vecchio e il gruppo di Francesco Gaetano Caltagirone ad acquistare azioni Mps attraverso Banca Akros. La notizia, anticipata dal sito Lettera 43 e confermata all’Ansa da fonti giudiziarie parlava di un esposto di Unicredit. Ma un portavoce della banca in serata ha dichiarato che «Unicredit non ha presentato alcun esposto alla procura di Milano e neanche in relazione a Delfin e Caltagirone». La vicenda che è finita al centro dell’attenzione ha per oggetto il collocamento del 15% di azioni Mps effettuato dal Tesoro il 13 novembre 2024. L’operazione era stata effettuata «attraverso un “Accelerated Book Building” riservato ad investitori istituzionali italiani ed esteri», scriveva il Mef in un comunicato. «A fronte della domanda raccolta, pari a oltre il doppio dell’ammontare iniziale, e alla presenza di un premio del 5% rispetto all’odierno prezzo di chiusura del mercato, l’offerta è stata incrementata dal 7% al 15% del capitale sociale di Mps». Nonostante la forte richiesta di azioni, però, i titoli sono stati assegnati a soli quattro soggetti: Delfin (3,5%), Caltagirone (3,5%), Banco Bpm (5%) e Anima (4%). E ad assegnarli è stata Banca Akros, merchant bank del gruppo Banco Bpm che per l’occasione aveva svolto il ruolo di Global coordinator e Bookrunner su specifico mandato delTesoro. Otto mesi prima, il 26 marzo del 2024, il Mef aveva collocato con lo stesso metodo il 12,5% del capitale di Mps ma in quell’occasione aveva utilizzato come intermediari un gruppo di banche internazionali e blasonate come BofA Securities, Citigroup Global Markets Europe AG,Jefferies e Mediobanca, che insieme avevano agito nel ruolo di Joint Global Coordinators e Joint Bookrunners. E gli acquirenti furono molto più numerosi. Il Tesoro, secondo gli accordi che aveva preso con l’Europa al tempo del salvataggio di Mps, per non incorrere nella fattispecie degli aiuti di Stato, si era impegnato a scendere nel capitale di Mps collocando i titoli sul mercato. E così ha fatto con tre successive operazioni ma nell’ultima, in quanto era in gioco il futuro assetto di controllo della banca senese, aveva interesse a far sì che le partecipazioni finissero in mani non vicine alla sinistra. Per questo motivo nell’estate 2024 aveva respinto le garbate avances di Unipol che si era candidata a formare un terzo polo bancario con Bper e Banca popolare di Sondrio di cui era già azionista. Con il collocamento di pacchetti di azioni Mps a Caltagirone, Delfin e Banco Bpm-Anima il Tesoro aveva invece dato il via al suo progetto di formazione di un terzo polo bancario vicino alla maggioranza di centrodestra. Ma il disegno è stato rovinato dall’intervento di Andrea Orcel, ad di Unicredit, che il 24 novembre 2024 ha lanciato un’Ops sul Banco Bpm, in procinto di essere attaccato anche dai francesi di Crédit Agricole. Queste mosse ne hanno poi provocate altre a catena che hanno scombussolato tutto il sistema finanziario italiano. Mps ha reagito il 24 gennaio lanciando un’Ops su Mediobanca e quest’ultima per contrattaccare il 28 aprile ha annunciato un’Ops su Banca Generali. Ora si avvicina il momento della verità per tutti, a partire dall’assemblea di Mediobanca di lunedì che deve raccogliere il consenso dei soci per andare avanti su Banca Generali. Ma il fronte del no guidato da Caltagirone e, probabilmente Delfin, è ben attrezzato e, secondo indiscrezioni, potrebbe contare su un 2% di azioni Mediobanca raccolto da Unicredit tra i suoi clienti. ©RIPRODUZIONERISERVATAAlla vigilia dell’assemblea di Mediobanca su Banca Generali è testa a testa tra i due schieramenti Voci su un 2% di Unicredit ? La storica sede del Monte dei Paschi, in piazza Salimbeni a Siena
 
-
 # N
 	NVIDIA
 		2024
@@ -1196,9 +1242,9 @@ NOTIZIE_ECONOMICHE
 			Più degli altri listini europei, però, Milano fatica anche a trattenere in Borsa le società gia quotate. Fra 2013 e 2023, stando ai dati forniti al Corriere da Assonime, hanno dato l’addio al mercato principale di Piazza Affari tramite delisting 97 gruppi con una capitalizzazione complessiva ben superiore ai 100 miliardi di euro. E quest’anno, nonostante i record dell’indice Ftse Mib, fra il mercato principale e l’Egm dedicato alla piccole e medie imprese, sono già 22 i delisting conclusi (Tod’s) o annunciati (Saes Getters e Salcef) a Piazza Affari, per un valore totale di circa 28 miliardi.
 
 			Tante uscite hanno motivazioni diverse come un’acquisizione (il passaggio di Saras dai Moratti a Vitol), una riorganizzazione di gruppo (l’opa sulla controllata UnipolSai di Unipol che resterà quotata) o il trasferimento su un altro listino (Cnh a New York). Talvolta, però, specie quando si tratta di aziende medie o piccole, l’addio alla Borsa è frutto anche dell’insoddisfazione per la scarsa attenzione degli investitori e della difficoltà per le società nell’affrontare da quotate piani di trasformazione di lungo periodo. Problemi a cui il legislatore ha inteso ovviare con la Legge Capitali e con la prossima istituzione di un fondo per le pmi quotate partecipato da Cdp. Senza, tuttavia, riuscire a invertire la tendenza di Piazza Affari che, in rapporto al pil, deve ancora recuperare i livelli precedenti alla crisi finanziaria del 2009.
-
   	
 # O
+
 # P
    PA 
       Il Sole 24 Ore
@@ -1218,7 +1264,6 @@ NOTIZIE_ECONOMICHE
          
          
          Abbonati per leggere Il Sole 24 Ore
-
 
 # R
    REPUBBLICA 
@@ -1394,8 +1439,6 @@ NOTIZIE_ECONOMICHE
          
          S&P sottolinea che «l’Italia dovrebbe avere un surplus di bilancio primario nel 2025-2028», permettendole di migliorare il deficit pubblico nonostante abbia da pagare una delle più elevate spese per interessi in Europa. L’agenzia poi sottolinea «l’alto livello di risparmio» delle famiglie e «le esportazioni resilienti» delle imprese. Vede come elementi di sostegno il Recovery Fund e «la partecipazione dell’Italia all’Unione monetaria europea». Ma anche la stabilità del Governo, «uno dei più longevi della storia italiana recente». Tutto questo convince le agenzie di rating, ma anche il mercato. Nonostante le vulnerabilità dell’Italia, che S&P non nasconde: da un lato la crescita economica bassa (che sarà fiaccata ulteriormente dalla guerra commerciale in corso), dall’altro le problematiche strutturali (dalla popolazione sempre più vecchia che riduce la forza lavoro alla bassa produttività).
 
-
-
 # U
 	UNICREDIT
 					@Unicredit_(banca italiana notizie)
@@ -1421,7 +1464,6 @@ NOTIZIE_ECONOMICHE
 			2024_09_03_(Uranio ai minimi da dieci mesi)
 				I prezzi dell’uranio calano sotto gli 80 dollari per libbra, il livello più basso da novembre 2023, per le minori preoccupazioni circa l’offerta globale. Gli investitori scommettono sulla capacità degli Stati Uniti di produrre uranio arricchito dopo il divieto di importazione dalla Russia.
 
-
 # V
 	VIVENDI
 		2024
@@ -1440,9 +1482,6 @@ NOTIZIE_ECONOMICHE
 
 				Su questi due scogli si è sinora arenato ogni progetto sulla quota di Vivendi in Tim. Per i francesi non è detto che sia un male. Per ironia della sorte, infatti, Tim come Vivendi è molto sottovalutata in Borsa. Basti dire che la sua partecipazione del 67% in Tim Brasil vale 4,7 miliardi, mentre tutta Tim in Borsa capitalizza 5,2 miliardi. A Vivendi potrebbe quindi convenire attendere, a patto che, più prima che poi, il paradosso finanziario trovi una soluzione. Quale? Il ceo Pietro Labriola è convinto che il suo piano industriale riuscirà a riconquistare la fiducia degli investitori nell’intera Tim. Non dovesse farcela, l’alternativa di uno «spezzatino» à la Yannick Bolloré potrà tornare sul menu.
 
-
-
-
 # W
 	WEBUILD
 		2024
@@ -1450,6 +1489,36 @@ NOTIZIE_ECONOMICHE
 				Nel futuro di Webuild c’è anche l’atomo. La società guidata da Pietro Salini ha siglato ieri un memorandum of understanding con Ansaldo Nucleare per sviluppare potenziali soluzioni modulari all’avanguardia, sicure, sostenibili e flessibili, nel settore dell’energia. L’intesa preliminare vedrà i due gruppi collaborare nei prossimi cinque anni per progettare e implementare tecnologie nucleari innovative, combinando le competenze del mondo infrastrutturale e di trasmissione della potenza. Il fine sarà favorire l’espansione e l’adozione su scala globale degli «Small Modular Reactor», cioè reattori a fissione nucleare di piccola taglia (circa 300 megawatt), modulari e flessibili, e successivamente degli «Advanced Modular Reactor», reattori a fissione nucleare derivati dalle tecnologie di quarta generazione. Questi ultimi in particolare utilizzeranno nuovi sistemi di raffreddamento, come ad esempio metalli fusi, per offrire prestazioni migliori e nuove funzionalità come cogenerazione, produzione di idrogeno, soluzioni per la chiusura del ciclo del combustibile e la gestione dei rifiuti nucleari.
 
 				L’accordo conferma l’attenzione di Webuild per il settore energetico («in curriculum» la società vanta 313 dighe e impianti idroelettrici per 52.900 megawatt di capacità installata), che negli ultimi anni ha visto anche l’ingresso nel gruppo dell’australiana Clough, storica società di Perth specializzata in ingegneria, costruzioni e servizi di manutenzione principalmente nel settore petrolifero e del gas. Tra i progetti per la produzione di energia pulita Webuild annovera il Grand Ethiopian Renaissance Dam Project (GERDP), sul Nilo Azzurro, progettato e costruito per soddisfare il fabbisogno energetico interno dell’Etiopia, il Progetto Idroelettrico di Rogun in Tagikistan, con la diga più alta del mondo, che raddoppierà la produzione energetica del Paese asiatico e Snowy 2.0 in Australia, impianto idroelettrico destinato a produrre energia elettrica in base ai picchi di domanda, con un tempo di risposta di appena 90 secondi. I nuovi small reactor (e successivamente quelli «avanzati») costituiranno a partire dai prossimi anni uno strumento fondamentale a beneficio della produzione di un’energia economica, programmabile e decarbonizzata.
+
+   WALL_STREET
+      2025
+         2025_06_28_WALL STREET AI MASSIMI STORICI, INVESTITORI RETAIL DIETRO IL BOOM
+                  https://www.quotidiano.ilsole24ore.com/art.php?t=S24&e=SOLE&i=20250628&artid=2029745
+            La giornata. Fiammata dell’indice l’S&P 500 al record di 6.180 punti - Prese di beneficio in serata Guadagno del 7,5% da inizio anno per il Nasdaq ma le Magnifiche 7 restano distanti dai massimi
+
+            Nuovi massimi. L’indice l’S&P 500 ha chiuso l’ultima settimana del semestre, superando per la prima volta la soglia dei 6.180 punti, salvo poi ripiegare a fine seduta. Un traguardo simbolico ma anche concreto. Grazie a questo ultimo scatto il bilancio da inizio anno è tornato in positivo anche per Wall Street, con un guadagno vicino ai 5 punti percentuali. Ancora più robusta la performance del Nasdaq, che cavalca anch’esso nuovi record e segna un +7,5% da gennaio. All’appello, però, mancano due grandi protagonisti dell’equity a stelle e strisce: il Dow Jones e il Russell 2000 sono rimasti indietro, segnalando che non tutto il mercato sta correndo allo stesso passo.
+
+            E in effetti, non è solo una questione di indici. A differenziare questo massimo storico rispetto a quello toccato a metà febbraio ci sono diversi elementi che raccontano una storia più complessa e, per certi versi, meno entusiasmante. Per cominciare, non tutte le big cap stanno partecipando a questa fase euforica. Tra le cosiddette Magnifiche 7, Apple e Google sono ancora molto distanti dai rispettivi massimi storici. Le azioni di Cupertino sono lontane un buon 20% dai record, quelle del motore di ricerca del 15%. Anche Berkshire Hathaway, la corazzata di Warren Buffett, è rimasta ai box con un -10% dai rispettivi picchi: da un lato pesa l’annuncio del progressivo disimpegno di Buffett a partire dal prossimo anno, dall’altro non va trascurata la posizione iper-liquida del gruppo, con oltre 300 miliardi di dollari pronti — forse — per essere impiegati nel caso di ribassi e nuove occasioni d’acquisto. Il rally a V dai minimi dell’8 aprile non ha insomma coinvolto tutta la fanteria pesante di Wall Street.
+
+            C’è poi un altro aspetto meno visibile ma cruciale: molti investitori istituzionali non hanno accompagnato questa salita. Le posizioni nette lunghe dei gestori sono cresciute, sì, ma meno del ritmo tenuto dagli indici. Non a caso, in molti ambienti si è cominciato a parlare di “the most hated rally”, il rally più odiato: da un lato perché molti sono rimasti fuori dai giochi, dall’altro perché, se la corsa dovesse proseguire, rischiano di essere costretti a rientrare a prezzi più alti per evitare di ampliare troppo il distacco tra la performance del fondo e quella del benchmark. Una rincorsa forzata, e per molti indigesta.
+
+            A fare da motore, almeno fin qui, è stato invece il mondo retail. Gli investitori individuali, attraverso un utilizzo sempre più estensivo delle opzioni a scadenza giornaliera (le famigerate 0DTE), stanno esercitando una pressione costante al rialzo sull’S&P 500. Il meccanismo è noto: comprano opzioni call intraday, i market maker si coprono acquistando future o azioni, e questo alimenta il flusso continuo di domanda. Un’onda anomala che si autorinforza e rende il mercato molto più reattivo (e fragile) di quanto appaia.
+
+            Ma è un rally che presenta anche valutazioni impegnative. A questi livelli, l’S&P 500 tratta a circa 22 volte gli utili attesi per i prossimi 12 mesi, già aggiornati al rialzo dagli analisti fino a 281 dollari per azione. Numeri che parlano chiaro: si tratta di multipli elevati, uno dei motivi per cui diversi fondi hanno scelto di non inseguire il mercato, almeno non a questi prezzi.
+
+            Per un investitore europeo, poi, il record di Wall Street è meno brillante di quanto possa sembrare. Da inizio anno, infatti, l’euro ha guadagnato oltre il 12% sul dollaro, erodendo completamente la performance delle azioni americane. In effetti, se si guarda con gli occhi di un investitore del Vecchio Continente, l’indice Usa è in rosso del 6,5% e distante oltre 10 punti percentuali dai suoi massimi. Una dimostrazione plastica di come sui mercati, più che i numeri assoluti, conti sempre la prospettiva.
+
+            Ora che il primo semestre volge al termine — e il finale potrebbe essere stato condizionato anche dalle classiche operazioni di ribilanciamento di portafoglio — la palla passa ai fondamentali. Saranno le trimestrali delle aziende, nelle prossime settimane, a dire se questi multipli hanno una base solida o se si è trattato di un eccesso speculativo da inizio estate. Ma c’è un altro ostacolo all’orizzonte: la stagionalità. Tradizionalmente, il periodo che va dalla terza settimana di luglio alla fine di settembre è tra i meno favorevoli per l’azionario e tra i migliori per l’obbligazionario. Molti investitori, storicamente, scelgono proprio questo momento per incassare i profitti della prima parte dell’anno e parcheggiarli nei bond.
+
+            Sarà così anche in questo 2025, un anno che sembra scritto da una sceneggiatura imprevista dove il regista è Donald Trump — capace, con le sue azioni, di innescare e disinnescare la volatilità a piacimento — e l’attore protagonista non è il gestore professionista ma il piccolo investitore, naturalmente più disinvolto nel seguire gli umori ballerini del presidente Usa.
+
+            © RIPRODUZIONE RISERVATA
+
+            Vito Lops
+
+
+
+
 
 
 
